@@ -597,8 +597,7 @@
     "ป็อปปี้ ครูนก",
     "Chomphoo Wika",
     "Jidapa kornyok",
-    "ดวงฤทัย โคตรวงษา",
-    "พิบูลย์ มงสา"
+    "ดวงฤทัย โคตรวงษา"
   ],
   "u040f584e4df0eb3b5fde9ab028c462cc": [],
   "u0413185bad86670baa945e78b6841cf1": [],
@@ -2855,7 +2854,6 @@
   "u13896d5fb7d05ef6dac25d504733ac08": [],
   "u138c1d6eca4eee7d7a6a48bb30491535": [],
   "u138e8903031f290a0cd0e66110567658": [],
-  "u1392ddf2120a15955e035350aeee9f4f": [],
   "u139339197234a2d337f2231ae499281e": [],
   "u13962e69a2429eb3789337c7a36073c6": [],
   "u13980cb976bb35fa7365d52b7d83aadf": [],
@@ -5713,7 +5711,6 @@
   "u26b49ee6d599324fa00fc8800c6b3acc": [],
   "u26babd45d566dce9e6da5198add41af3": [],
   "u26bad904037d17e12237820144746e6e": [],
-  "u26bb9fbae75eb4e681d0ba289ccd1ff5": [],
   "u26bc92b2bdd72ed4a5066fe7db82d9cb": [],
   "u26bdb3b32b97453a212469d31a459e9f": [],
   "u26bdceb29eef9432f8eb12dc56633465": [],
@@ -9539,7 +9536,6 @@
   "u40d793cac75675eb4d468ce0feb0ac14": [],
   "u40da5f9d90a67abac50566e42927278d": [],
   "u40db1dff708db798f908037fe54db740": [],
-  "u40dc7b2835af8fe3b4b36eac2949e826": [],
   "u40dd0682560d3b686c261c3e7fa9b06e": [],
   "u40ddd8f3069bbdb3239508a729897feb": [],
   "u40e0446578de74b3a414ea5607c19b7c": [],
@@ -10292,6 +10288,9 @@
   "u4624b878dbf5f414ea487a0821c4f9be": [],
   "u46280786f7c2e55d269a05d590404e57": [],
   "u462873cde1db998847c611e9d2e63de1": [],
+  "u462aec46a7f4a96e5428951695c7cb6b": [
+    "dead heart²"
+  ],
   "u4630efedf66d72589915863a56b939f1": [],
   "u463408b5cfdf2b68fff07204275288c4": [],
   "u4635ec653038bdd27251a8770ac4a55d": [],
@@ -12154,6 +12153,9 @@
   "u526957f20e6614445c69953afb5945f7": [],
   "u526976da0c95a66ff3296ffe9681942d": [],
   "u526aeef52211da949eb79c28f118a636": [],
+  "u526d064bc1b07af7c07accce6ace99bb": [
+    "dead heart¹"
+  ],
   "u526ee91b898a2c1bb07ef83d09388929": [],
   "u526efccc124a4f3b0b5bb0c3f968f95f": [],
   "u5277149f78bea1143a1d3a7f2d9a939d": [],
@@ -14046,7 +14048,6 @@
   "u5ef2fd9a7534b248e036bb832e960eea": [],
   "u5ef44f66340021559aaf0010a8d281fe": [],
   "u5ef561c419482f20748229db6e5276f1": [],
-  "u5ef5640b18f73de18d608799a5389895": [],
   "u5ef588bee09439cbc8b8c2dd0d1a9b64": [],
   "u5ef674feb6b16c1ccef4e84dc01c0c0f": [],
   "u5ef8d88a8739228d7fd8a159e57ebc3e": [],
@@ -15864,7 +15865,6 @@
   "u6b5aa301a63702e173ecc875aaef75bf": [],
   "u6b5b00034dc3e39dc4edf9c33545af9e": [],
   "u6b5ccb5c29f3e0840180f5e7e9627f78": [],
-  "u6b5d17e07f5f7c427dd709bcf83c8853": [],
   "u6b5da81b84d533e1485577e511270ce0": [],
   "u6b5fdce2e69c67968f4c1d07b2570928": [],
   "u6b62bd09aee6590758cb99e29fa8f14d": [],
@@ -18854,7 +18854,6 @@
   ],
   "u7f0491530464fdc392e41daeda45b63f": [],
   "u7f04fbdbcf9fe116b6849116a7af5aae": [],
-  "u7f073381c79d2058987b9762b239b982": [],
   "u7f0d6863b5d350980fce2d057d9a80c3": [],
   "u7f10fd5b5521ae503f8e6c19e4c2fb65": [
     "Tichakron ❤️",
@@ -21443,7 +21442,6 @@
   "u9118721f6dbb4db1f83c52e63dc39308": [],
   "u911c24bf0609664d8187b0f75864f84c": [],
   "u911d46e4710f3d8f0cd9a8644b6080d8": [],
-  "u911fba13341270c401d512d63904c81f": [],
   "u912089623af9235e4a07549e4f266971": [],
   "u91208fd4b10a02f542106a1a3be210b7": [],
   "u9120e9b6319c08e04981acd7e6be0076": [],
@@ -22914,9 +22912,6 @@
   "u9b1816bfe0131cd5f27c772e608cfedf": [],
   "u9b1a653d3a1c57d32a84d54334e96a95": [],
   "u9b1cdb7e280729357e3ee612d79fe03d": [],
-  "u9b1e60aa9653e11739022cab81dab34f": [
-    "มหาโชค795🌞🧨🧮"
-  ],
   "u9b1f3cf881f8a8b93635075fe72f7429": [],
   "u9b20296104a947f988f55e9e9f8c86fe": [],
   "u9b2059872d285a415fcac64e1d040d7f": [],
@@ -26687,7 +26682,6 @@
   "ub4a7245718ed4f1f28755e42bf229fda": [],
   "ub4a76b69dbfb47cd3931704894a4bf77": [],
   "ub4a90b12dbe0b02a9ccd352a457c6cd3": [],
-  "ub4aa1bcdb54f8e3a2777b13be8d93dd2": [],
   "ub4aa2268ba44c6073d82344ef0eaf5b0": [],
   "ub4af31f02f2df51423c653100d7acf40": [],
   "ub4b2ad48dea07a5292f5847535d7b333": [],
@@ -27600,10 +27594,6 @@
   "ubaa47eab7614369e93bb591f0f797dc0": [],
   "ubaa5e8b84a076654b17a4f6ce1924af2": [],
   "ubaab907f3a6214e8cf644a6e7f8ef3c6": [],
-  "ubaaf47cfe40d89bcbe8adcb65ae0b1ae": [
-    "ຕູນ",
-    "ມິນ"
-  ],
   "ubab1a88cb61c6f9c88dfee73b8c854df": [],
   "ubab1f39b835e5b45866e708893682d30": [],
   "ubab541748a582802e69ee389163d48a6": [],
@@ -32995,6 +32985,7 @@
   "udef81603c2e00566e84fa394396e00cf": [],
   "udef97ac021c2624ca84763c6041fe733": [],
   "udefaa03b6ca04bb33da9a6019eb82445": [],
+  "udefcf6ff62f92e536e2724a33de20a67": [],
   "udefd7a1a215462b1dc8c520ebdc00b88": [
     "🎭Elspeth 🎉"
   ],
@@ -34523,7 +34514,6 @@
   "ue913ffaf7fb3c0292ce8e13496c26659": [],
   "ue916cd9351f2f0c3a8904b6eea996805": [],
   "ue91cbde1ae226718a946d4f573c1078f": [],
-  "ue91d519ecd391d72a27cd9c2f7312ed7": [],
   "ue9203dfb7a88dc8f21a9a3dd61138a38": [],
   "ue92113a1f3a300f8ef5f014ac41538d2": [],
   "ue923c25ba43fcaad84783c20f0d1bba0": [],
@@ -34992,6 +34982,7 @@
   "uec7bdf46afa8f3fc3cc73eb2b6a2f56e": [],
   "uec7e9c20baa1952ad9f587c5517eb104": [],
   "uec7ff30c2cb43c86fb7ba0a6512baf9c": [],
+  "uec84d5fa799d91387bfc169baf99981c": [],
   "uec876720af684f9cb7220697b6370114": [],
   "uec879e0983883147bf530f63e8cf8ae5": [],
   "uec8c762752a46c45f651629deea42aa7": [],
@@ -35549,7 +35540,6 @@
   "uf03bd5c7ed0c239ecbe3ab51a636bf26": [],
   "uf03c412afa55b5771a30fffaacc06448": [],
   "uf03ce847721bc336f4437cd547564d4a": [],
-  "uf040fcc4ff257fdf11e54cf3a59f25fd": [],
   "uf045bd6a1e228399a43d8c5d30519d1b": [],
   "uf049ba0f9c279efebd7835caa500a09c": [],
   "uf04ce54d33b67286d3058aa0fd0424e1": [],
@@ -36034,7 +36024,6 @@
   "uf35791d3dd6cc3497f1de4a994bdf4e8": [],
   "uf35a2975c0f7191999ab10a0489edb63": [],
   "uf35c57af91632b53104dc62fdf999c58": [],
-  "uf35d76af02ecb49d88f0bbfb6d3134fe": [],
   "uf35fc257c172cc2eccdcd5ebc6e6676a": [],
   "uf364beaf5bfab9b117f7ac7560c6eeaa": [],
   "uf366e8ae6c8d956933d6338d82c6cf3f": [],
@@ -36649,7 +36638,6 @@
   "uf7985912c1c35aa1664f70ddc6341f7a": [],
   "uf79b2282736bd93ff99e23bf7429da98": [],
   "uf79b9e67f08d84ba94d636eb1b1bde14": [],
-  "uf79baff8d369f3c14cfcb08871fac262": [],
   "uf79bd764e5eafb243cd3c975ee5a306e": [],
   "uf79c29a4714539daf89534402b823217": [],
   "uf79ce067b73540ae858de59149e3a2d1": [],
