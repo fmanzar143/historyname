@@ -101,7 +101,6 @@
   "u0094c8448d95e899dc6bca0bf72f5dce": [],
   "u0094ea02bad18808b695c00ec66d9145": [],
   "u00965ee22bbefe016eaa8fdb20bb28af": [],
-  "u009725507da14254e2c7fbaa601b9291": [],
   "u0099d977b5d94967b03bf843d6523997": [],
   "u00a00e1f6a4df87b315c6cf80e437cd3": [],
   "u00a033652f542c218889fe165a418660": [],
@@ -136,6 +135,9 @@
   "u00d3f61c28c1d0b513a55aba629d3e33": [],
   "u00d691d7b264c49d240f60406c0872c7": [],
   "u00d7c831388dcf5eb76507b42f2bd1e1": [],
+  "u00d8b3529ec96ed3f25b6f64f78ab8c3": [
+    "Keenan Vélcruz"
+  ],
   "u00da42bfb36bc7e63eb389e5e5834d0e": [],
   "u00dafd1ff96e46e3e00ee2d3a0cb8ce6": [],
   "u00de7447a36321a4393550e9a73c8d23": [],
@@ -224,7 +226,6 @@
   "u0152c6290dc8b624495433533c25e3a7": [],
   "u01560b36a07b4bf76295e6751b60ff60": [],
   "u01581d028dca5d326f8d83755533491d": [],
-  "u015b040590c8891899b2b4e90f1215c0": [],
   "u015edd5a9ffa3693494ae8fc8edd3b1b": [],
   "u015f2c3e09dcbdd3dad5fa671bd27d2d": [],
   "u015fbe2258bb690f74f025849f36e43b": [],
@@ -323,7 +324,9 @@
   "u01e7198e4929a3e32c6889aac5d4a500": [],
   "u01ea6630a1519ee55db21c985864e2ea": [],
   "u01ecc7c55a784176755b87cf43c64050": [],
-  "u01ed5c83d8ad36560d10defe53911dcd": [],
+  "u01ed5c83d8ad36560d10defe53911dcd": [
+    "Gtm617's Huge MCOC"
+  ],
   "u01eec135f607e6cb9dcd3a6e55032820": [],
   "u01f0c7e746535d4fec3f43a238236d54": [],
   "u01f1458fd83e99be809fdcaaa4c2f5ff": [
@@ -338,6 +341,9 @@
   "u01fe962588c837eabfa4fbfbe37bfb27": [],
   "u01feb5db406f173ec79b471e166efdcd": [],
   "u02005d5dca77391a3fec012731689f35": [],
+  "u02007d9657e19b9249a847d48a09aed2": [
+    "ทองคํา ศิริเนาว์"
+  ],
   "u0200fd84b5b8ec8502693d02c9fdc56e": [],
   "u020165b2715ef24aa0e2687d0fa70c96": [],
   "u020255f73a304713e7ab44c00e308315": [],
@@ -392,7 +398,10 @@
   "u02302a740404b3b5bacb3457bffd3e8e": [],
   "u0239844b55baa69b1a3a57548d8fc2cb": [],
   "u0239cde90a99f148ef0359d26f4de77e": [],
-  "u023af12f522f5f4f39ee17b32ae4cb1b": [],
+  "u023af12f522f5f4f39ee17b32ae4cb1b": [
+    "Cataleya Valentine",
+    "Nig Bird"
+  ],
   "u023be34a1f94c15f9765db4ee933d0c4": [],
   "u023c52cfb1c77b35ea3acdc0ba3cdb38": [],
   "u02406b6940e1fcbb4cfec696e0d11f87": [],
@@ -465,7 +474,6 @@
   "u029485bb6b9e3e7a06a50bbbca41ccb0": [],
   "u02948621183fde6e89af8419ea1eb877": [],
   "u02971fde46d6c40f0168f3b3a412318d": [],
-  "u0299f7ac1b70711f5d58bc6b43a4dcd2": [],
   "u029b9e9216e0b0401837a239607b8fe0": [],
   "u029e030217e0142fa1b5447aaa6f2e48": [],
   "u029e5e2dc4d09c25cf1027acca7082b0": [],
@@ -510,7 +518,6 @@
   "u02ca203666e792626b89bffa7e1a004e": [],
   "u02ceda837b987b465e82f527b194aee5": [],
   "u02cf42c2e034a5537f61a191f9c70a79": [],
-  "u02cf896fb8da6bcf9d39bd0079d79c92": [],
   "u02cfe9c227f466abe802b8499dc99559": [],
   "u02d1abc0be063ae724587ad6a68be9f2": [],
   "u02d35174cd95d216f7e0d5de22ea9723": [],
@@ -536,13 +543,11 @@
   "u02e66638423411c9279f844010028895": [],
   "u02e6f1f27d5a43d7cde4d57fe1a07a3a": [],
   "u02e7b762a4f8962ffdcc1be81a87c1fc": [],
-  "u02e7e424e94c7da55cf0e360652cb8c3": [],
   "u02e9eaeb7f3ced32c81cc08e12189bd7": [],
   "u02f0c72c73ed25f4a9836c1e52eb6c98": [],
   "u02f1c33cdd24dd186ef4e943aa72cf3c": [],
   "u02f62bcf1fa4ac6820cee80a16f9ac42": [],
   "u02f79b0fd58ea617e25adb9002917a09": [],
-  "u02f7b51d542de9fba337567100951096": [],
   "u02f994c0aef2c440dc8136d370110cd2": [],
   "u02fb6019f7ec43b5c469fce41c78a13e": [],
   "u02fcca06202e30cb72b521148789812b": [],
@@ -594,7 +599,6 @@
   "u033207ea062be86623d077ece84def36": [],
   "u0332f65903050e75b86dbdf6e2111b78": [],
   "u0333bad2c4f3ceced26966a2039703bb": [],
-  "u0333bf155c155fe3b748fda2f5e486a1": [],
   "u03377b91cc8f77110fac618e60d3a0ea": [],
   "u0339ba9ef4e654a57f61c9b40f670061": [],
   "u033d514a332370b2812b2477b5e7b721": [],
@@ -668,7 +672,6 @@
   "u03863bfd75762ef8558e10dbe8de307a": [],
   "u038a110ffe72f0f8fd4a68fa6d6f7a45": [],
   "u038c2ff2f4039ef0f7abbdffdf3c02c0": [],
-  "u038c71b0db313621a2179b3616cac0c5": [],
   "u038cb776c4d9af85642cc9eecb8c92b3": [],
   "u03929af186eec5219578306faa2dec98": [],
   "u039301f73940d781c9ded9801cf0a96b": [],
@@ -732,7 +735,6 @@
   "u03d1b3085f9de96b7d19d7a3b7f4b8d7": [],
   "u03d1f04255ea47b550e4d76acfb59a95": [],
   "u03d20e521a73f74732af3e0cb2e4fd61": [],
-  "u03d25fd14ef2b127f24377a60c62e5ed": [],
   "u03d542244731bb009cd4f7abf04557ff": [],
   "u03d65730f16827ebeceb0af90b190f0d": [],
   "u03d8206f22fbe18b78aeeebad38b3d73": [],
@@ -740,7 +742,6 @@
   "u03dc086db38f6ce0e14a9582be675742": [],
   "u03dc8b3dc7a14c73035fff709b57ea13": [],
   "u03e00632bc81dd1446c386ee7d11e379": [],
-  "u03e047f7ed967522ab5e0a27662ebadd": [],
   "u03e16edc1503ba7ffd483d653171f461": [],
   "u03e1d6c2337e92d4eaeb501fe9833a93": [],
   "u03e32d604413f28f53648ce9171d6033": [],
@@ -777,8 +778,10 @@
   "u040b7c8e62461143ccaa8218ba6f2dbe": [],
   "u040c51e6b64e06335a7e3194edd8c048": [],
   "u040ef20ce43a88365df464858bcbc3fd": [],
+  "u040efdeba4f2f970631ff865384e5e76": [
+    "ma"
+  ],
   "u040f25f83ea5166ce4518c42597dc237": [
-    "Piyaphong Pankam",
     "ป็อปปี้ ครูนก",
     "Chomphoo Wika",
     "Jidapa kornyok",
@@ -797,7 +800,8 @@
     "Worrapat jinda",
     "Aui Kittisak",
     "Joey Kanyanee",
-    "เอิ้นขวัญ กะได้"
+    "Film Chayanin Pimpa",
+    "เนาวรัตน์ แซ่ตั้ง"
   ],
   "u040f584e4df0eb3b5fde9ab028c462cc": [],
   "u04110c3d24e6c91735f1e50c175ace4a": [],
@@ -807,10 +811,7 @@
   "u0415e5326e071f1fe0d1648c994256a0": [],
   "u0416a74773066dbf20d457b0543a4938": [],
   "u04175d77007e460700a412c02b75f6a3": [
-    "parinee@judy",
-    "parinee@juju",
-    "ผุสาวโรงงานไม้กวาด",
-    "ผุเฒ่าโรงงานไม้กวาด"
+    "parinee@judy"
   ],
   "u041a398b66ee69583dd98cab914e78cb": [],
   "u041a5d7d1076beb957b94b6176d1ccdc": [],
@@ -867,7 +868,6 @@
   "u0459c7991cbf3867ec323d10116b5c8e": [],
   "u045a1a9eecb5813fd3e249dc06b37d4b": [],
   "u045a1cbeab0b49efc87be2e2cb7aff04": [],
-  "u045ccf44a1649ab688ea5d4c456f65a0": [],
   "u045d1398160d9735b3abfcdf6ed070ca": [],
   "u045d57e3bdec05be2d1ffea28e9708db": [],
   "u046328c4272c3376cc678ff9b0884b88": [],
@@ -908,7 +908,6 @@
   "u0496ce23c1d014b2c1abe28a6420bfac": [],
   "u049955bf5a695f598a3440bd62b425e7": [],
   "u049c4ca256654b11c539ad0a7c14412f": [],
-  "u049e951e7f016a0f2756913008ee84c1": [],
   "u049f75dd6d5facd62d33044fc69d9b30": [],
   "u04a096d6dd35eb488239cf6f0e112718": [],
   "u04a09c70af0a27b0ba17c0e83d5ffbde": [],
@@ -1043,7 +1042,6 @@
   "u056060ba5569956c8537e59ebbda0899": [],
   "u056087aa98178fdd992820b587e5fbea": [],
   "u0562f26cdc373b80728bdcb4cc1144df": [],
-  "u05636c4bad09d085138be305cd4bb842": [],
   "u0566df7190df3dc8c7bced428706eeea": [],
   "u05672e30fe7bc0811c097ccb5204772c": [],
   "u05675564aa5507e17e16632afa0662bb": [],
@@ -1321,7 +1319,6 @@
   "u06cdf947ce50afe54d407b3a42d6f78f": [],
   "u06cf38022a433be1bf8f7e5a5f437422": [],
   "u06d24f3cd29abf24fd4b4956de0611b9": [],
-  "u06d2e440714e64290e8e057e7be570d3": [],
   "u06d38ea79de0f0c15f9abfe9a988fb0c": [],
   "u06d40f7df23e6b25a53d077d7b526c82": [],
   "u06d4d26e6aa181285709ac425954c13d": [],
@@ -1439,7 +1436,6 @@
   "u0740d2902a21ec9d57cc3cef497355c4": [],
   "u0741c7a454bf79e43dc0d4c8a19f08f7": [],
   "u0741dcfcd727c2ee7b47843cb05f919b": [],
-  "u07431c968080f12ea2e33fc21ee14e7d": [],
   "u0743f66a8cf793a4e4020d3a1e087aed": [],
   "u0747d56ff0f6e06e5680849d247b5103": [],
   "u07481dd4290ebbd0ebf15a9a3f8d794e": [],
@@ -1570,7 +1566,6 @@
   "u0803042c9fde7a7d0e1a4a8f019d8fb3": [],
   "u08061960bdc099dae31e80737c730b23": [],
   "u080678ed053a2fb22a4a360a5925727d": [],
-  "u08078beaaf72185ecf9c56161dd2abaa": [],
   "u0809ea48ffb4a0a80daf3604452a328e": [],
   "u080b490eaeab7120e308efa675c6c3ba": [],
   "u080c32be4beed82456d084de07bc2ef9": [],
@@ -1685,7 +1680,6 @@
   "u089e641d15e1d419cea9da3a12401ed9": [],
   "u089f29fe15dbea1514da2c64e026ebca": [],
   "u089f374ef66a6bf9ab222bea4b84e524": [],
-  "u08a325c37e38a8225cc4a364fec24c86": [],
   "u08a3530040997d526a021ea0e41feec4": [],
   "u08a3b9682be5ff0619f1c9d9b854ce57": [],
   "u08a5981849aa4d513f723fe8e5a056a7": [],
@@ -1862,7 +1856,6 @@
   "u096d2cc86d944751ad4012ad0ddb97fb": [],
   "u096d6e12889d8b4307eb259cba3fc69e": [],
   "u096e0ca09a1e38c3253640a241fc4fe2": [],
-  "u09715f2b1ee2bd6b7b6aa66c73e11e42": [],
   "u09717b6e284abaa97d483c61ac904b94": [],
   "u0974061441ca67b2049e735ad4926b7d": [],
   "u097475cb80feeced62b7ffb980569679": [],
@@ -1890,7 +1883,6 @@
   "u0992bc5e201630906f3566008ba58796": [],
   "u0992d92fd9d04bb9bd2eedaf1112de2d": [],
   "u09935d693b7e4966bfdbed6e5250744a": [],
-  "u0995aec7aeb56b3dc9e9a37471456ee3": [],
   "u0996e5e8f1a85b9587fedbeb3da52bf4": [],
   "u099a3e89b99fdd8903964c9b8136db53": [],
   "u099ab1a892390d1f803b16ed0577c608": [],
@@ -1927,7 +1919,8 @@
     "Sunee",
     "เพลินใจ",
     "สมพร ",
-    "ศรีสุวรรณ"
+    "ศรีสุวรรณ",
+    "พัดสรีย์ "
   ],
   "u09b2afcfcfb1a18614167918e6b0541f": [],
   "u09b323d65af99c52d76cc2cf6b84133a": [],
@@ -2480,6 +2473,9 @@
   "u0ca75b162125d20a69c1c67cbbbcf559": [],
   "u0ca842a1125994ab8d81e525b2064405": [],
   "u0ca8ba4e83837d1600132d30c513c5a2": [],
+  "u0caa61e18add4280e547898b0b240f62": [
+    "ᢉ𐭩Srusritaihaoʚɞ˙ᵕ˙"
+  ],
   "u0cac3da7c2a1248be570adb953fbe385": [],
   "u0cac531b08f824c139c69c4b11154bfb": [],
   "u0cacf74a3899f6c53b8439ae8029c890": [],
@@ -2620,7 +2616,6 @@
   "u0d4d752df2240401c15d109474446c46": [],
   "u0d4ddff8601c66e393593ba94e970d33": [],
   "u0d4f057deb98744deaaabedc3b6e2e2a": [],
-  "u0d5037d8eec640b6584ef18e6e957fd3": [],
   "u0d50ba58a7edde99e1503740334921ed": [
     "😎😎😎"
   ],
@@ -2826,6 +2821,9 @@
   "u0e4725da8bb6bd20c596430751fc0ed7": [],
   "u0e48c900e4cb0acb74f06cebd21c554c": [],
   "u0e4e8cd3ae772e18e47893c648e4f1fc": [],
+  "u0e4eaf956b825b02fb97537590f38788": [
+    "Đ՚nՙƱŦŤ 🍳 🪽🌷🥕🌤️"
+  ],
   "u0e506decc7d879b48c4d1d9ba7677e21": [],
   "u0e52e37102d3636141ce45536f47271a": [],
   "u0e5682a3ebc908e7e38363ac7fe357eb": [],
@@ -2914,7 +2912,6 @@
   "u0ed1d8c1d1ad773f114a95ca4eb4aacb": [
     "ज्येष्ठ भ्राता N K(34k)🇮🇳"
   ],
-  "u0ed485400fec5c152c7230a5efde3c6a": [],
   "u0ed6777bfe6a7b3dc223113e5a5d7e38": [],
   "u0ed705d88ceaca11b6f3157bd4498822": [],
   "u0edd500560fafb31e44fea67fb9e20d3": [],
@@ -2938,7 +2935,6 @@
   "u0eed2deac653141674a404649ac5c643": [],
   "u0eedd5c1140a81a7d381dfc4d0ad9f63": [],
   "u0eef4d9d1520c5dc8bad140288788a39": [],
-  "u0ef43a2e58254e89d295ea939f08be0a": [],
   "u0ef57375a2e5a9b676a470f862527a55": [],
   "u0ef7e542101268a2c14d9a9cac2b0c6d": [],
   "u0ef911db520596f8ca904bf0040ee097": [],
@@ -2949,7 +2945,6 @@
   "u0f012e54df5bff57fa5797f697e42f7c": [],
   "u0f01f88cda0dd198897442fda7dc7ed5": [],
   "u0f020c3b17722cd70f3cbd506607b8aa": [],
-  "u0f02a2b9c1ae998bcdc34136fa44bc0f": [],
   "u0f05105524eef0ce0636a4c13ff9f1b4": [],
   "u0f0702dfd0bd1ccc8f8b7e5e7e9417dd": [],
   "u0f08cc2c1eea3cf8b7302a9f8dc960c2": [],
@@ -3198,7 +3193,6 @@
     "K.N.951642 🎑🎀🐖"
   ],
   "u103821309fea1701316592673056164a": [],
-  "u103877a24c10493cc93fb83376eadd72": [],
   "u10389c8abdc4e899215777a5f3ea206a": [],
   "u1038a055b2f5c41fce66d35faf739c08": [],
   "u1039c53602143372750e675ed871fef9": [],
@@ -3206,7 +3200,6 @@
   "u103b9bc5554549fb5240a19da211b3c9": [],
   "u103d35b47228e458874483463973b8f7": [],
   "u103d985a84a9f3e71c30ea1e74ed5264": [],
-  "u103fe8bd016d43e244e799c512b63c4c": [],
   "u10403d527d97bd310169306b1f718d97": [],
   "u1041b04ae164b0fa3473b30de562cce4": [],
   "u10427c6456cff7446eda76a4c70c27a4": [],
@@ -3483,7 +3476,6 @@
   "u11cbbac3ba6cb87ec0dc06d5f4cc5e8f": [],
   "u11cc46a1269ce32cb8d148a0581c0a3b": [],
   "u11ce979ffd2ac15e02a5578f9522fad6": [],
-  "u11cedd6de357857d4a9f6e574e61c5d3": [],
   "u11d1699a95e08965b5bd74bb0d54a71d": [],
   "u11d2425880bf8e0f40c49aacb4c2db56": [],
   "u11d3140886d7037c0f6eff5fe3a87b25": [],
@@ -3721,7 +3713,6 @@
   "u1320cd684064c69cf42b857864df0659": [],
   "u13220efe1a36a1da5f1b92717b94d65a": [],
   "u13244a72ee92185013a9f96749522d8a": [],
-  "u1325cfcb7a64fdf2c328cc947a7ef29d": [],
   "u13262fa8dbe9be5febe7725f8a498183": [],
   "u13264f76578b1abd7de1400bd7d1f3da": [],
   "u13271c0082005c63dd90942ba649f9ce": [],
@@ -3768,7 +3759,6 @@
   "u136019c49208af32f38a4e14328eb6ba": [],
   "u13625dfdd5da711fffac49938f0fe3a3": [],
   "u1362a3f9173af10fc803d698feb97c41": [],
-  "u136586e3a911463b1f7961d9e96aee54": [],
   "u136637dce7ee767fd628fbf66a39a677": [],
   "u1366dc6638d78ddd8974af66097060d5": [],
   "u13683e077c783fe2236ff1c9d40c885a": [],
@@ -3828,7 +3818,6 @@
   "u13c5568d17fe18766e28326f5c6631a6": [],
   "u13c5d5d2f751c273c65c3b30f6ec95d5": [],
   "u13c77c431ce9681a493d0d778f1981dc": [],
-  "u13c98790ba2678243c01f2dad373bb7d": [],
   "u13cb5d90b8db669c145d0cff036564c5": [],
   "u13cc159f941c22b00e33c547c5085820": [],
   "u13cc50b273ab72c66201f2e5c12a1d26": [],
@@ -3843,7 +3832,6 @@
   "u13d5f08a19c9f68545f4f16a1016b463": [],
   "u13d644f878dade59017a3a95ce995061": [],
   "u13d889f776a47214e423e081cb53f076": [],
-  "u13d8981007d4c065da114db43265062f": [],
   "u13da92e5977a9395352f1e4ef88b25b4": [],
   "u13dc3c624810aec97c2cf6c35704ebfb": [],
   "u13dca62221d7da0301074d406a34bc0f": [],
@@ -4045,7 +4033,6 @@
   "u14d158d36f6a66327cfa4dd1edf91f5a": [],
   "u14d2d877e2f7e74bd397a5b65c250290": [],
   "u14d305f5c09f73b9969c52fea48b2791": [],
-  "u14d8f1ee312c8fffbd3f2ff7f5b78bc3": [],
   "u14d9473a2cafae2d8fbf4639ee60d5b9": [],
   "u14dac463f3417a609ffe7b823d17c464": [],
   "u14dac96a67e1b44be22b0d06e769582d": [],
@@ -4058,11 +4045,6 @@
   "u14e78be2fcf808ee3641cd7c9e7b882a": [],
   "u14e8f82a3ff3389a936fd7def8678958": [],
   "u14e9e07ea4d87d2d0134ddcdadb3f6ca": [],
-  "u14e9e28440fe24c53c55df70e06533a6": [
-    "นฤมล เองจ้า💫",
-    "พรพิมล เองจ้า💫",
-    "พี่ลัดดา🍂"
-  ],
   "u14ec4d5f15c2a5df4ef52cc56b47dd5e": [],
   "u14edc03ffe51d4bdaa1a360d02a6c91f": [],
   "u14eeb90a44e21caf4829c26887b26db7": [
@@ -4201,7 +4183,6 @@
   "u159e330cb7e38829f2425cabbc6d06b8": [],
   "u159e9418c5249fb73cca536f9a47ac4f": [],
   "u159ea5dce5d3c40f8e42c4193acf0fb9": [],
-  "u15a2be4e3bb25c1316877ac377a3f431": [],
   "u15a39bbeb80105f323a3f2556657da0a": [],
   "u15a688242d7a3bca74aa98b4f60df6a2": [],
   "u15a6c130dcb263ce58a7f6974c94119e": [],
@@ -4286,10 +4267,6 @@
   "u161b992b355008df1aa79fc740d7764b": [],
   "u161bedfc678e9314f041886d3ee9a99a": [],
   "u161edbf181f44d830ba1e60b7eea2e8a": [],
-  "u161f913c5fbf221d622822ba77a00486": [
-    "ลินดา/หลินหลิน",
-    "LINDA/หลินหลิน"
-  ],
   "u162021e1b1083f64e345512a6f4d4de5": [],
   "u1622a3a9b7152a3dc89f93fefb8b4994": [],
   "u16251cb72a55dd46e38f01e46ca90a68": [],
@@ -4304,7 +4281,6 @@
   "u162c0f71d2e38e4e0916c05af4ea40d3": [],
   "u162c124f4aa278a284ded145ad19d357": [],
   "u162e3d44fea61fb55ea4e85dcaee5273": [],
-  "u16309f4a49fc4308520cb65828a3fc0a": [],
   "u1631c10f4c8d9fb427ba0f720077dca8": [],
   "u1631f0cd81daa2f82412261d8f1fa6a7": [],
   "u1633475afdd9a846e2aee2f215ce60c8": [],
@@ -4457,7 +4433,6 @@
   "u1714da7744070b81309e9b293cf7f453": [],
   "u1717742811ab819cd8e68b1fe7a9ce4e": [],
   "u171c0fb71b97fdba15e134fdb62198ac": [],
-  "u171e9c89850949930ae8f1dfd3672aa2": [],
   "u171f763b2fd51a32f62b3e144d157128": [],
   "u17214a0bc34b57d21cc3bf130b7dd054": [],
   "u1722a5b088d838693af93ef3fa98d423": [],
@@ -4580,7 +4555,6 @@
   "u17ecfad765cf54c24e3bfe0349395f36": [],
   "u17f27686e355cdb08c113a6b0593cd91": [],
   "u17f6f8f84f5545cfe51df36d4e2cd64f": [],
-  "u17f9b94d008f7ea56d2b7e45edd4c368": [],
   "u17fb7b01c223dacf8a178a070b14784c": [],
   "u17fe7796368fea634ad801ecc54819d9": [],
   "u17fea9e6949a037d28fe54f1a1d018f2": [
@@ -4693,7 +4667,6 @@
   "u186acf6a31afa631d9ec6de4aa479812": [],
   "u186bced739c0a43f954205c6368d2ff0": [],
   "u186da27d6b5785d9022f5178e38fad11": [],
-  "u186e295f83878bdfbf512e14349fe863": [],
   "u1873495c7cf02b2f8ab395b57900165b": [],
   "u1875a9e7a9b7fa2298c185e56e782db8": [],
   "u1876045903e5456b0bc41489a3b83f30": [],
@@ -4903,7 +4876,6 @@
   "u1968bb308730c0ec3e7abd27143c18f3": [],
   "u196a566d18b7d02efbd71bc7703d8818": [],
   "u196dfb476d31dcf94d00ef76dba15e73": [],
-  "u196dfbd596799d957138aa44944a705e": [],
   "u196e4bb41fd5f32a94419ea12dcada4e": [],
   "u196eed08af2fbcaf2910b776c1c85088": [],
   "u1970080494bddc035b75c5df4196ced4": [],
@@ -4946,6 +4918,10 @@
   "u199d8f9f2f030a7488fa85b60e1c2769": [],
   "u199e8077630ff1289cef4c6b6fa7eed2": [],
   "u199f1638dc95fbc31aeee4be5a763b2c": [],
+  "u19a0c5bdef93cb5195da9e0160f769db": [
+    "Krunew💓N.money",
+    "Krunew💓N.noey"
+  ],
   "u19a44e8e6dc63729f546437d0cb8eebd": [
     "😔🫢🥺"
   ],
@@ -5001,7 +4977,6 @@
   "u19e6c2621a1e867ae778e1a7c358ebf9": [],
   "u19e830b89a8e673fe461666068baca7e": [],
   "u19ea1b4e540281396bed5abea996173e": [],
-  "u19eb0e841fd9ea74a779ebae36dcdf03": [],
   "u19ed212861dc1b5dc8a5877422ceae6e": [],
   "u19efc2e3f906b14dbe00eaafd7294b66": [],
   "u19f1920eb31caba088ccfd56796296b3": [],
@@ -5035,7 +5010,6 @@
   "u1a189e2cb5597c660833d1d7ed7dc059": [],
   "u1a18b6c8a52d974ed10f6c0cf9280b63": [],
   "u1a195ef6bd0f5daad9598af79b61f518": [],
-  "u1a1aa3a941a1c0790500bc2f5bfbc8ae": [],
   "u1a1ce166a7aa9825fc8d900c4bd5ca05": [],
   "u1a1e019bf23166b3c0ad19ca27766847": [
     "Sparky🇺🇸 EST 34.3K"
@@ -5098,7 +5072,6 @@
   "u1a5b2805c5edf67843867f16b0808da0": [],
   "u1a5d76a78e47245cdc932abf168231c8": [],
   "u1a5e7a6abf3c455bb6c042b17fad8e99": [],
-  "u1a5fcd90a407312a7ab3162e836adcf5": [],
   "u1a5ff7a496e1785da00a42abecdb987f": [],
   "u1a62136ac02c3a33e864a43e520106ec": [],
   "u1a627b02acefbf2d51a8eba7fb718edf": [],
@@ -5128,7 +5101,6 @@
   "u1a857742e3c699952b247ce963c9b22a": [],
   "u1a899f40a4dbd1e7a37ae9af5513c930": [],
   "u1a8ad127ba906a03053bc603e20f5514": [],
-  "u1a8b4dd6ee815c0c9404b02bfd3ef840": [],
   "u1a8b8015ca1a648142d2d956c57aed10": [],
   "u1a8cf433ea566b1c08f1a6ded3ffcefd": [],
   "u1a8d65c7012b1583af31707d9029a59e": [
@@ -5301,9 +5273,6 @@
   "u1b492e2c0631926f71dedb60d8e8aa5e": [],
   "u1b4932e858bfa982a8464e833fc17f5d": [],
   "u1b4b8059baffda7887b4fbcb2d642b42": [],
-  "u1b4d4b41d0166025fbbb0294a7991a18": [
-    "Sutit"
-  ],
   "u1b4df759419d41a22b1aa742aa18a08c": [],
   "u1b4e33b76f6e6a0f4420379e4e8c9e6f": [],
   "u1b52b72509be52a6eeab3dbe9f8ae188": [],
@@ -5314,7 +5283,6 @@
   "u1b5bbf11386d962856f2986a5f9c2299": [],
   "u1b5c647db27712ca933b9c2ae83b6fe0": [],
   "u1b60a4846dc82869536adee8d8a1581c": [],
-  "u1b621022a3d83c7459dd644f9ed71296": [],
   "u1b629028bbf8ae9bf485888fb2275f80": [],
   "u1b63f5a81b3f5b2a7a43097b84efe189": [],
   "u1b6424bd2a32ac48493096d77fe47938": [],
@@ -5541,7 +5509,6 @@
   "u1c8bcb047fda9dee2bcf9e3b4621c8d1": [],
   "u1c8e00906ce1cb88771feeb914640b3a": [],
   "u1c8ef1a11302f8a3cb5e16410ccc42f4": [],
-  "u1c905a27f9d1ec3745cbab8cab5d050c": [],
   "u1c91e8ef57b45f28f905732e256be162": [],
   "u1c934e823bd67ded28f35401553a2026": [],
   "u1c97cf5c75e66fbb1a77d4e464cc99b4": [],
@@ -5632,7 +5599,6 @@
   "u1d26d5d6c57389945503b532057584fc": [],
   "u1d26dad32ccb733a852778d8e02becb1": [],
   "u1d286555007b0c92d2fc0f0aea821be9": [],
-  "u1d29d7e7f0aed00829ef52317ba0cb49": [],
   "u1d2ac4a0879a6a728102aa1d540db2cb": [],
   "u1d2c0f7afdfc4c768215faaad17ece01": [],
   "u1d2c1523fdd99478df00c786378c2342": [],
@@ -5706,7 +5672,6 @@
   "u1d8f086cc0168e69926e3a8f6b932a3d": [],
   "u1d90b1e63eed1c2fdc6fd533330ff9a7": [],
   "u1d930c23ba8df142a4c984d5d3aa731f": [],
-  "u1d95534e285f728a5a0ac1492528853f": [],
   "u1d9588486ad4882ae75fac94cce9f8ae": [],
   "u1d982c9513588e138f63c4facbb9a92d": [],
   "u1d9b68dfc6ef2e0ab3b5bcffd6092dac": [],
@@ -5769,7 +5734,6 @@
   "u1de7cbf6d01678b0982410cd97a9db85": [],
   "u1dea9a0471788cb09b5b0a877e1d6ab2": [],
   "u1deaafd07cf323ec22b38a8c78516215": [],
-  "u1deaf63eefedaf0d4b4ed2c42256abde": [],
   "u1debb336a2f58f3962e077906d84b3e1": [],
   "u1dec3ba96173a1db948c6d1f9409cbef": [
     "ＳＨＯＡＩＢ",
@@ -5813,6 +5777,11 @@
   "u1e1b0161897a6ff2bac1b44be6505445": [],
   "u1e1b892d91b2397ed27d5be3f52a7559": [],
   "u1e1e04bd85de32137ac84f143fbbd3d4": [],
+  "u1e1fbeafcd6621b3bcecbdcf6165b6e5": [
+    "เอ็ม ให้เช่าแบคโฮ",
+    "เอ็ม",
+    "เอ็มMm"
+  ],
   "u1e207c22ce9e5a57690962e795f76ed4": [],
   "u1e21ac1d3c94f21680c93039cf22aa6a": [],
   "u1e22560380241e839e601f5d6504d9ab": [],
@@ -5856,7 +5825,6 @@
   "u1e46dedff87da75920682963ee41d309": [],
   "u1e476eb5ddd772eecb03f5151241dc4e": [],
   "u1e4846ef0e698665a71375d03f8e288b": [],
-  "u1e4a3bcca6415e9547e50f2d8a8bbf87": [],
   "u1e4c6d9b4599a38254a9fea076e880a5": [],
   "u1e4ec53fdc54e0be964cc018ea489cca": [],
   "u1e502f3ec6bcce359f0a6b0da4dd0401": [],
@@ -5881,6 +5849,9 @@
   "u1e67a9ba9f6e95b322bbfcaeaf9c4ee7": [],
   "u1e6922da3439a17fc6c21e9fb31523fe": [],
   "u1e694edc7dc136c359cc56c7f508dba2": [],
+  "u1e6a3453a6e18c7b43cf164641919aca": [
+    "Supawadee💖​"
+  ],
   "u1e6aae7bf9fa486e13785b816f3e3788": [],
   "u1e6be77f286c0ce8f30bc2dfb8634f0a": [],
   "u1e6c2e7aa582c53a360e530482847935": [],
@@ -5951,7 +5922,6 @@
   "u1ec6ca54dab5c31b9708ff47722cc2ec": [],
   "u1ec93b59a8630a069eeaf9b9e3797dcc": [],
   "u1ecafb5c4dba6960e7bc10c389be425d": [],
-  "u1ecd67b6d75e2b183398b52165f8fbab": [],
   "u1ecdb6d070721336f449e22067910e4e": [],
   "u1ecdbeff6ecdd0dc9e49c3d07a0b68c5": [],
   "u1ecea0d9d43e060f110797525ea64fd2": [],
@@ -6134,7 +6104,6 @@
     "💸💸💋JJ 💋💸💸",
     "🎉 💋J.J 💋 💸"
   ],
-  "u1fc76f40c6655231bb3930e139e17de0": [],
   "u1fc8ec7024cfad9fafa563ccd8164851": [],
   "u1fc9c786ef52b4de5e6a7aacd8b2b56a": [],
   "u1fca35318fa66be970d945be9eec7c70": [],
@@ -6388,7 +6357,10 @@
   "u21199664d8847118fa79a460916e7162": [],
   "u2119e6e2fc4aede01f9e5d86d5572e2e": [],
   "u211c35be90de7752562eb6ba66ad9cb1": [],
-  "u21241e4b8f5d13cb768475ebae073471": [],
+  "u21241e4b8f5d13cb768475ebae073471": [
+    "₳ⱫⱤ₳ɆⱠ [HC•Å] 41,618",
+    "₳ⱫⱤ₳ɆⱠ [HC•Å] 41,706"
+  ],
   "u21249788ef0a4cb22625b58a9da49318": [],
   "u2125f9a05da29a3b5cfa227e4e193556": [],
   "u21273059370e9635c1aeb4ebe8f28b01": [],
@@ -6412,7 +6384,6 @@
   "u21336b72e5395e0ae86f3f3b43b6af97": [],
   "u2134babcec769496991f46a3fc81759d": [],
   "u2136b14a9790010a3dd01b68ec24e967": [],
-  "u2139699761b483186c84e4b6b87e9cf4": [],
   "u213b5a578cd259453b019ba3a54b1eb7": [],
   "u213dfa5f751398ff0fb4c69e732369dc": [],
   "u213f5d233046ba15c268a3e730e30084": [],
@@ -6432,9 +6403,7 @@
     "𝓦𝓐𝓡𝓝🎀🥖🧁"
   ],
   "u214c8eeae6d2945a1eb5bd66d2ef4b9c": [],
-  "u214d3424a91cee765dd8e954ddf6b849": [],
   "u214e52ee668c9ea84fd7e9d17de93cfd": [],
-  "u21579f8e4a7906765147ee75d0be04df": [],
   "u2157da7a4dd87e6297327e5ddcc5de69": [],
   "u2158dfda84ae7e52b0a5fd201c07c5d1": [],
   "u215a9eb0e293c50867956a1db616719f": [],
@@ -6590,10 +6559,7 @@
   "u2205d124c22c9c733106dc25bb4e4688": [],
   "u2206d8393341540107b6f5fe683d33e9": [],
   "u22095cb3a7ed2de3244580695d5f293d": [],
-  "u220a37537373acf330f4d2357b30f59b": [
-    "Tyc 🧿",
-    "Tyc"
-  ],
+  "u220a37537373acf330f4d2357b30f59b": [],
   "u220a6cccad71e42b46d91ab5d955321e": [],
   "u220d9e3b03ca1f9c715f70618b3d337d": [],
   "u220e8831eba424895f75fa99da55963c": [],
@@ -6642,7 +6608,6 @@
   "u224fc16b7f14edafa21a0cf1b1283aa0": [],
   "u22509933cee424b7cf88e52cdeb26251": [],
   "u22516254712b61dd98301bee30acde23": [],
-  "u22523c34c27ac712ca43a663b7c437fe": [],
   "u22538ae67a6396072388d6373d6a19a8": [
     "Halimeda Gertruda "
   ],
@@ -6815,12 +6780,8 @@
   "u232043e607e48cbcf368995373886823": [],
   "u232099947ca7dee1ae59e57f4945a235": [],
   "u23235c6b8990bfb4b100d387c5498dc2": [],
-  "u232579c3569f96f9943921ec9131f4aa": [],
   "u232873a7a1dadf4f020d7339b2427a41": [],
   "u2329bc543351e05a19e112009844e3e8": [],
-  "u232ab685ae4b6b71ea9c3932ba0c43b3": [
-    "FONGBEER 497🍺💕"
-  ],
   "u232b4fb91fb5ee652dd3bb9d99ec4d3b": [],
   "u232b53d9324d41e43e298dd5100f40c4": [],
   "u232b5dc5ccc41e2561f0ccd5d7d904f1": [],
@@ -6917,7 +6878,6 @@
   "u2396dcee81ea7cc87485050794e8c2cd": [],
   "u2396fd9a957f6abec63308d3a37360a2": [],
   "u23970b4245d1b4feedb154322250940f": [],
-  "u2398fcce323d28f7c27fcaa0c3cec09d": [],
   "u239a42981c5caf04435a3fba43c96e58": [],
   "u239ae2ae351d3394e0dc3ec37091c32b": [],
   "u239b06394b54b62455362298d696837d": [
@@ -6953,7 +6913,6 @@
   "u23b7ce5a9165f39ac4053ed0eb0e3648": [],
   "u23bae114eeaf59dd22ebd925e669493b": [],
   "u23bd667a25ad3e2e0a242e7ca631559d": [],
-  "u23bddd167744fe1698ea87fa3f717fbf": [],
   "u23c13de6c81feca09e9d9cadf528635c": [],
   "u23c2d57b080c287bb79474b80d2c93a5": [],
   "u23c2f1a68a9c1b1cdd66828845158d9a": [],
@@ -7053,7 +7012,6 @@
   "u243f8dd54d7328cf9c267411d9a972f5": [],
   "u24413f2a1afe439000925f092f105d35": [],
   "u24415035c976d9492d5b62f7bec0f2fe": [],
-  "u24426a8d3569c708e9418f13aa5890a8": [],
   "u24449e9806ca860dd7b621a4a4032665": [],
   "u2447aa2e526dc6c4138951de8777cdb2": [],
   "u244ab1351aa5eee38d4821c5fedd54b0": [],
@@ -7123,7 +7081,6 @@
   "u249c95373ea8d70be0d0280e0e1d1032": [],
   "u249cb04eecde36e7e3db65413a155cbd": [],
   "u249e47154639f1f9547a7ffaf38b0823": [],
-  "u249e75c829eb7c77532d56c0beee6a07": [],
   "u24a045fdc112bd38bd747c4ef2c6986d": [
     "Ban Token•S13 4"
   ],
@@ -7199,7 +7156,6 @@
   "u24f93b3bca570ce616001c25c6e4cdec": [],
   "u24fb25fdea65ca59a1f27ae5c1c53680": [],
   "u24fecaa7a1764cea53e6d4064dff0aa2": [],
-  "u24ff7aa8938f2a4dc5ef076c6a47dd6e": [],
   "u24ffa9404ac78fcd0f439bb9d0695d7c": [],
   "u2500408486739815c025573d0360c5a0": [],
   "u2502c37e58319f206f1c9cd08ac60877": [],
@@ -7262,7 +7218,6 @@
   "u253aeeefe2a555fac076c6546095a701": [],
   "u253bb3a4e862368552dce6991357dd28": [],
   "u253c27b25b59fd72a71b2c3478e0e948": [],
-  "u253f71d824179c93cf226a1aa177b726": [],
   "u2542f92312d6c903b0740be5cd238dd7": [],
   "u254534d02255d2ec6a0c2b4d7a13e81e": [],
   "u254b199661a891bffcb02ee7d3f1c8cd": [],
@@ -7297,7 +7252,6 @@
   "u25678008dcc8c569f36e4842dc5d8764": [],
   "u25682f0d0c77d0a90634a81765c32c9e": [],
   "u2569d83545a4d3d75d9c460427866a03": [],
-  "u256b734b91ffde9e8a817da2e622fa36": [],
   "u256bd5f7bab906d2f1fa1fede0522a13": [],
   "u256c59794d7303e49911425eb72be2f7": [],
   "u256cb7b1edb032f858d4e63dc54ebda1": [],
@@ -7379,7 +7333,6 @@
   "u25e7a87a0c8cf42d02297df407a9b63b": [],
   "u25eb87603eb825cec76eb8f78af41fb0": [],
   "u25eb891f90bd1267d3b4c38705969025": [],
-  "u25ee3ccdd4958ad48621b24f47bbbd6e": [],
   "u25f0bb2282c7c2099683448f1ccd9c20": [],
   "u25f1773da8324181785de2929abc3a87": [],
   "u25f1bb83b1d4c8cdae5359603683f3ce": [],
@@ -7425,6 +7378,9 @@
   "u26288118776e403661524491e775a506": [],
   "u262af2629c8a0482189ada5683d62458": [],
   "u262bd482294ec7becab0e4393d53f24b": [],
+  "u262ea8125ab74ab099ef677ed81342ce": [
+    "𝕠 𝕣 𝕕 𝕪🌷🥕🌤️"
+  ],
   "u26416fd41656f9f011b227335f638bf7": [],
   "u2642e0e8f92aa37295f4aea3c4f48844": [],
   "u2642f306e9a931303e21bb595c584fbd": [],
@@ -7475,7 +7431,6 @@
   ],
   "u2674a0d09df879ef670b40121e6c537d": [],
   "u26752b981d7bbeaf28f7fe6a88f89226": [],
-  "u2677322cbba8478e3fb25079018ebfd6": [],
   "u2678fb2e88979e10097c8ada17380aec": [],
   "u2679d1a2ed8b6536acbcd2856232520a": [],
   "u267a89e6861e1016ae3bfce2f0399c71": [],
@@ -7558,8 +7513,6 @@
   "u26d984a1be1469e9360a9aaf5e61995a": [],
   "u26db4a825c3b90f63d16ea10113c6c86": [],
   "u26dd707c39b278f80f70fc99fb04e77e": [],
-  "u26dfddd434433ffa7db90a194de13a00": [],
-  "u26e229a4405ea4308ce838a789e9a62b": [],
   "u26e51b5158ee363dda1d1491fd108054": [
     "3721"
   ],
@@ -7623,7 +7576,8 @@
     "DarthMingo (29,289)",
     "DarthMingo (29,887)",
     "DarthMingo (30,495)",
-    "DarthMingo (33,625)"
+    "DarthMingo (33,625)",
+    "DarthMingo (34,098)"
   ],
   "u27366180ecd5fccde2223df734049e21": [],
   "u273874f60d010a0f20c62364d8835700": [],
@@ -7633,7 +7587,6 @@
   "u273a57a38d0d24a633449253b09b4b79": [],
   "u273bcd74500b74e96d6b70e048e8846f": [],
   "u273bf0dfc62baa2d1e698070344ae030": [],
-  "u2740a556d16952b70e2cac8a7c74ed5f": [],
   "u27413ef36eb37d10fcc342fb2d26c3e8": [
     "{SGR} N00bSlayer"
   ],
@@ -7959,15 +7912,14 @@
   "u28e58fd4c26443bfe5d8041202711759": [],
   "u28e8079900af411374eec9d41c6573a9": [],
   "u28ecafa9f566feed7a8e44747286a991": [],
-  "u28eda75e1034095271fefc6c7bf3473b": [],
   "u28edcf8965b4fc6154eb471d806be833": [],
   "u28ee2a9c3313744ea32865ab95fdd6af": [],
   "u28eeaccc4f758db04c1d6a9b837d0140": [],
   "u28ef95c24fd9535ab044b77b9e2c6783": [
     "Aom🎍🐇✨️",
-    "Aom🎍🐰✨️"
+    "Aom🎍🐰✨️",
+    "Aom🧁🪞💕"
   ],
-  "u28f0a52607290eec3c77e5465d695db5": [],
   "u28f27f4fe74765bd958a089694e2fd14": [],
   "u28f2a846ffa7f6a56627733d6ef7d7d5": [],
   "u28f3c691f9b4668110e02858acb99f6c": [],
@@ -8022,9 +7974,6 @@
   ],
   "u292cf18c866824f1401fab24ee56da4b": [],
   "u292f3400e8541afc6efb96fc8b6a6c14": [],
-  "u292faf8e302547bcc4c6b8b27182e131": [
-    "Kibkae 🌱💶🏦"
-  ],
   "u293108c4398bd9a95c0daba75a5e6f46": [],
   "u2934738897536759b4c1c9b42d1e47df": [],
   "u2934baa0ca9e48ce89ac46c719bf495b": [],
@@ -8134,7 +8083,6 @@
   "u299fc793c9b29a1c77bb20a358048489": [],
   "u29a2953e9625327a3fc1702be51d7ccc": [],
   "u29a591c17e1378e5c672b94cdb721181": [],
-  "u29a59f9a33b0bc07cc387eb389a4d808": [],
   "u29a5dd38b9005f6a558d43cd63b82cca": [],
   "u29ac27b5d52956f7150bd0ac9064e4d2": [
     "Narong",
@@ -8237,7 +8185,6 @@
   "u2a31ab50db1211c3640965a90ad811c8": [],
   "u2a3257e3073340185a7c1e5bb68f7901": [],
   "u2a34e5f5c7376ad94ddc6a8856ee9248": [],
-  "u2a3547b6171e073c3f2fc74258c0c725": [],
   "u2a3822c346edf185c8d144ebe0d1c6d6": [],
   "u2a38af6e3e3ad19c58ec308d13bf315b": [],
   "u2a3a4aed155ae4225ce9ff55a6743516": [],
@@ -8252,7 +8199,6 @@
   "u2a40accb9c66ad3127404c8f5905a580": [],
   "u2a469a18237a9abfa2e99e0eecbe76f8": [],
   "u2a486144b2256698e8f9c317831a04ad": [],
-  "u2a4bb4277fe1e9a9f33cb5fed024dfe0": [],
   "u2a4c397b2d236d9a27da5688fab6d68b": [
     "̲k̲̲i̲̲t̲̲t�",
     "̠c̠̠o̠̠f̠̠f̠̠e̠̠e̠"
@@ -8334,8 +8280,7 @@
     "มนตรี ปราโมทย์",
     "เปรียวลี่",
     "Joey Kanyanee",
-    "เปรียวลี่ นาฬิกา",
-    "เอิ้นขวัญ กะได้"
+    "เปรียวลี่ นาฬิกา"
   ],
   "u2a9ac6b92f38f6d4212fe5530baa7c54": [],
   "u2a9aea8b1b8b54bc23653448c54b9324": [],
@@ -8463,7 +8408,6 @@
   ],
   "u2b45308b87b727e5831aabfb3efcd0eb": [],
   "u2b487b01864e8a0a58f420eb5a76fff4": [],
-  "u2b4a716ccedabec0c647f5990f17f8db": [],
   "u2b4bb6558602c49c49e77d46c37f788a": [],
   "u2b4e737196a6207825ffcfa5bff4b508": [],
   "u2b51f820e66ffbd8591afbeb41e80ef9": [],
@@ -8476,8 +8420,7 @@
     "❧❁أیᷡمًⷶــᷟـ͢ـⷷــأنِ",
     "⠀⠀⠀",
     "﷼●╂۩JΛƝƝΛƬ۩╂●﷼",
-    "❤offline💫",
-    "➳⃟🖤𝗥𝗰𝗯𝗶𝗮𝗻 𝗚𝗶𝗿𝗹➳⃟🖤"
+    "❤offline💫"
   ],
   "u2b5633df2754bcbb330d0a27e8a1b3f1": [],
   "u2b56cf2ce78a55753a787a3acf5c48ec": [],
@@ -8889,16 +8832,12 @@
   "u2d67ad6e304b3aa0d4cdf504eee25921": [],
   "u2d6960f45066126cba2532a8cf9c12ba": [],
   "u2d6a4749158f1f4e4f0818049f68e882": [],
-  "u2d6b3100a7152f74278087abdc8f547f": [],
   "u2d753352ad3e03970289cec8fb8bdad4": [],
   "u2d79ddc555e2ce5e8be2f51ee1decf66": [],
   "u2d7ca538a9753a0f17246ae6aef4eeb2": [],
   "u2d7f43bb9000becd1274f524ddfd36d8": [],
-  "u2d7f7f6e951fe12516553e602d35a7cf": [],
   "u2d80379eb8b4a4ff60b9afe55147b36f": [],
-  "u2d83359b09744600fa86d5877f22b8c0": [],
   "u2d83b5480a8d6c4844e15b86aeb02f54": [],
-  "u2d853726c383ebbd9e51717b469116be": [],
   "u2d8b11dc595c388c2fbdac51d6d417da": [],
   "u2d8f7990fc288528da394636d2c96c8f": [
     "ครูกบ..519",
@@ -9004,7 +8943,6 @@
   "u2e07d9d44ef4f2ea46a7e31f202430eb": [],
   "u2e091074aec3c982d3f6d70dd11d3ffa": [],
   "u2e091850a5898439a4eeb42a4b668494": [],
-  "u2e09f4bb98256b917e5064abcbb20841": [],
   "u2e0cae05f3799880ce3e78fde50c6005": [],
   "u2e10649bd0b6f5d2f31e9643dd7f4832": [],
   "u2e117f3ffa350cd16747083f177cafb6": [],
@@ -9116,7 +9054,6 @@
   "u2e835f683102b62ff911fcfb09488e22": [],
   "u2e84c9ec2d05a8d37140fcc04d8837fe": [],
   "u2e86ed3e32aa6118c28f9cb03969705b": [],
-  "u2e88ff4bf081a0da34d810fa5b323f57": [],
   "u2e8a83440b5be448e72a174b80beaee7": [],
   "u2e8bb1d5230e6e78ce21846c926c351b": [],
   "u2e8c781b0cf4f4444c32d11cbfa7140b": [
@@ -9167,7 +9104,6 @@
     "✧*.§þą§†īćĢīŗl.*✧",
     "Nobody6969"
   ],
-  "u2ed1628cee3df9d3c7ff3c1d8d938ada": [],
   "u2ed1a84c078f3ef91543bb07e6e551be": [],
   "u2ed1f7363367803044bca6bee1a5d4ae": [],
   "u2ed38cda1cf160fd0ea49683e48eb774": [],
@@ -9205,7 +9141,6 @@
   "u2f04529fc10422a9d272a7211b9a1070": [],
   "u2f063a2de66b6a93f682b4a252e72404": [],
   "u2f06479d8a530df7d29baee5448fdb6b": [],
-  "u2f0904167a79fc4e89dfd6c9c65c5654": [],
   "u2f0a0d5be02f6df9fe7775c69e863146": [],
   "u2f0b6ab19dc3a4a69bdbb40244b10bd6": [],
   "u2f0bcca1af27059be7a6ad2bd9ddb8b0": [],
@@ -9264,6 +9199,10 @@
   "u2f41b93a6a7c5c15f3f917af69fa6c20": [],
   "u2f43da3f98b7246414cedc1b7f3acef3": [],
   "u2f44262220e0f13b33449946fb4fd411": [],
+  "u2f44ad08422ddbde94acfff36aab117d": [
+    "Saoluck⛵💰♾️",
+    "Saowaluck⛵💰♾️"
+  ],
   "u2f46a4cdbf7c9957e89fa35c4c925186": [],
   "u2f47632ad58e3b967a758ee26998e3d5": [],
   "u2f499eb52258b5600d7a26e3ce145861": [],
@@ -9274,7 +9213,6 @@
   "u2f54b084a8ef50bef36d435ff495c2c1": [],
   "u2f54d085b402b93b00eb31131fde476d": [],
   "u2f553aeeaf7dd994fd9ff35441916e3a": [],
-  "u2f5c1868fc1964e9c6503c79dfce1693": [],
   "u2f5c8f145ec35224f6fb547a493d13ef": [],
   "u2f5fbe04947dd7d75b8eda7f71a11930": [],
   "u2f61d8bcfcb4b8d2d1303e4b271a8538": [
@@ -9332,7 +9270,6 @@
   "u2f99130c6fa8447f1630b2094229c4e4": [],
   "u2f99b3e18f6ae675329f533d24953055": [],
   "u2f9a80166534cf85bc13593a82b10eb6": [],
-  "u2f9b936d317f8fc8d40b191708b90ee5": [],
   "u2f9c633dc2a588c4ccbc0dd4287a72af": [],
   "u2f9d952571c70b0ab8506997fe11fb5a": [],
   "u2f9e8fa6e58e2016ccf504672d155299": [],
@@ -9367,7 +9304,6 @@
   "u2fb6073f1bdf25f75a714014a4083381": [],
   "u2fbd1e7bb718c9ec8aec4032b0766ae2": [],
   "u2fbf13da9029281c18b90b7efaea12c3": [],
-  "u2fc023e5680c445b369de24fdc2db9de": [],
   "u2fc48a21042e70a596e68342943388b6": [],
   "u2fc4f1f19158b9105e087d359e5de186": [
     "Goldarina Maressa ",
@@ -9402,9 +9338,6 @@
   "u2ff53d97189be122985a4df6dffa6f6a": [],
   "u2ff59f88fe2356e1e2a668ae58e88839": [],
   "u2ff5abb2f049e537171f60e51ae314cb": [],
-  "u2ff77d6ff61404d47af80b64a76c9e13": [
-    "onnana168"
-  ],
   "u2ff86c670eeaa149f9dede1294d622d4": [],
   "u2ffa70c5223a32907579120ef198e44a": [
     "𝔼𝕃𝕊𝔸"
@@ -9451,9 +9384,7 @@
   "u3051a03484e5afa167b799c114aa1c0c": [],
   "u30533bf8c0e241029004de77e4818ec4": [
     "𝗡’𝗽🎨",
-    "อาดำ",
-    "B",
-    "พง"
+    "อาดำ"
   ],
   "u3053a4f11d16ce51dacc74b7b120b375": [],
   "u3055cfd4a043da188fb8f19581cc1814": [],
@@ -9462,7 +9393,6 @@
   "u305b2b7388a85003af27b3ddbf5e47fb": [],
   "u305d9a9158884202e0ddc52e2ee354ac": [],
   "u30609286cbbaccfec3009378f58ed181": [],
-  "u3061b41999b2dfe96086074828e06ad4": [],
   "u3064c82ecb8ae57dc4dd575755175b11": [],
   "u3068042f3ad93f9954a4d24119b52997": [],
   "u30687fdb8421af69979ce832a38f4739": [],
@@ -9563,7 +9493,6 @@
   "u30ff653ed30ebbcf2646cafe7aba6fd7": [],
   "u30ff683cc01bd8622c28bb87251562ee": [],
   "u310143459c62a3dad04a7c91f03d8e75": [],
-  "u3102acdd76a8e364c041593f6c1ce117": [],
   "u31047bf4cd9b13d7ce8c9c99bc0e099c": [],
   "u3108d8a781d247354926aff54002c50a": [],
   "u3109598862a4221ee3da470ae12b6eb2": [],
@@ -9780,7 +9709,6 @@
   "u3238747bc74120d27221a0cd561e5573": [],
   "u323f648cab6fb0b26513e7b77843e8a7": [],
   "u324173a3ce12591cfc06ebac9d21ea24": [],
-  "u32423c01ff71ab407775a78f5c8bc27f": [],
   "u3243ecf7edd55282d0d0966478abe753": [
     "🎯🎯🎯Thayika💸💸💸",
     "🤫ไม่พูดเลย.จะดีกว่า🤫",
@@ -10023,7 +9951,6 @@
   "u338576cdcab648064f0ae06864b98658": [],
   "u33885508bb4d906c46a87e359a7da733": [],
   "u338ad9e11865ba80fcb80f09119a6636": [],
-  "u338ecbbad680e8c51f6f4b9b21952658": [],
   "u338faa8ac874975a50fdef7887bff074": [],
   "u3390ad316d1fc3d4ecb15f58d11ad5b2": [],
   "u3390b5649b12d4fa4dc8335c69c5eaf6": [],
@@ -10220,13 +10147,11 @@
   "u34669f4dccc5bab5c03457bf7d70c545": [],
   "u3466fca6b779e29356c2eae140823f57": [],
   "u34678c536b84e73d76a4655d13f7bc58": [],
-  "u3469fdddce6673b6f5d2ff78cda12388": [],
   "u346aedaf300403ec2f7cf07a0fec49ca": [],
   "u346c62dece0f36e69a2c3dee9e6e52a6": [],
   "u346dc836d5dee0ec3289d29f7786f718": [],
   "u346eb322d2be3d43763f41643859becc": [],
   "u3470ff9e7140b3b86abf9a6d2d2f7a07": [],
-  "u34728bccc350eded974cc44b91899f6e": [],
   "u3472e9eb46138dba34bb02eeb4896285": [
     "𝖓𝖘𝖋𝖜"
   ],
@@ -10238,9 +10163,6 @@
   "u347f1173fc6600db33ef999a63bac162": [],
   "u347fd1433115910cd4dfd08b7de0d655": [],
   "u348013d7ae5822e19de8ada5b9762792": [],
-  "u348341706dc5cd3a7bd2ec04f05223a4": [
-    "Nampueng😻"
-  ],
   "u348342cdb26218b89fea1f21552b5d62": [],
   "u3483fb4831f87528fa1648a868615fca": [
     "Jack 🥢",
@@ -10280,7 +10202,6 @@
   "u349f83354d3156dbd92da53e54c84ac4": [],
   "u34a05413879dc99cf62ca2e566dc25ee": [],
   "u34a12634838639a1902626da8137c458": [],
-  "u34a43d0aefce2c115bbda90ac6cd9b36": [],
   "u34a84d245a62fdc5292f2c06db7bab64": [],
   "u34a85209e36ce1e36b8e9086689ee985": [],
   "u34a934d20e4d72a70f452f9a4870c400": [
@@ -10317,7 +10238,6 @@
   "u34c757658f6d2a8f4fb67b54d39f8871": [],
   "u34c8e913512be3ca9fcd3f167f7eed0a": [],
   "u34c9e15adfdcf99709278d4f1da318d6": [],
-  "u34ca85b7ee82b00f5ec18b5b8023fd10": [],
   "u34cd1392d36c860dab270235d16c4845": [],
   "u34ce949889b39fbd838befd06f47fc44": [],
   "u34cf0cf5b6b2554d1ef5171e1523d0f8": [],
@@ -10498,7 +10418,6 @@
   "u35b6c412e5a4c174b406df1dfee04f96": [],
   "u35b6ca04e1c641dd66c4f37d0016b413": [],
   "u35b80fe663115cab3aa160beace41afa": [],
-  "u35b9e6389cdcb8cb6c526df9158ec98a": [],
   "u35ba686b122933e030418276cc41388c": [],
   "u35bb2f27397253237b24a1206a238e49": [],
   "u35bd5b4464be8e364fc83c361f048c67": [],
@@ -10696,7 +10615,6 @@
   "u36e5a5933494e0d1da01a525cb904db2": [],
   "u36e6fe8a0391a838dc50b7a823e175ef": [],
   "u36e7a85835ef74207bc085e044c4e270": [],
-  "u36e8957b0e93499ae8b3c3733371aa5b": [],
   "u36e947b678b24090f547637be1a4d18f": [],
   "u36eb9ed968a5210347f5526dc8e37e68": [],
   "u36ebbaa78a4a3b8b619223b9f3edab0e": [],
@@ -10852,7 +10770,6 @@
   "u37a081c6b9c687345c145b5e695877ff": [],
   "u37a1538b7b0228c0e83536fc023b170e": [],
   "u37a17379d64a2a733c9a664ef993d929": [],
-  "u37a68e9bf152d29516b2241008f2fadb": [],
   "u37a79ea25ed30dc6bb920928427ab040": [],
   "u37aa9b0eb7ff876ab5caa516484309cc": [],
   "u37aab8dc6e981ed3127d44d6995ce23f": [],
@@ -10906,7 +10823,6 @@
   "u37ea383747343516101a746def242503": [],
   "u37ea71a7c354733394ca8cae143950a7": [],
   "u37ebf638e2c37cc289b502d25dba72b5": [],
-  "u37ec8563850f73e6abeea8f91f573bc7": [],
   "u37ecc61ffda9024b2b0c0b41ea4ea2af": [],
   "u37ece9133487ae4f163142a28f6a4967": [],
   "u37eff8542f99f6830ec991844dcd50d3": [],
@@ -11038,7 +10954,6 @@
   "u38a05afcd858463bcac3b9535b7d451f": [],
   "u38a254cd017dc5cf3d3495cb6742b965": [],
   "u38a26d8b670762002718b30f546922a2": [],
-  "u38a46bf4fb5504238719f53b2a79204f": [],
   "u38a4b1552dadcfbae82bdad69be241d0": [],
   "u38a7fbee37b572884e0c7dbcd1f1e764": [],
   "u38a94364d1864a85b00fa83a03e25202": [],
@@ -11132,7 +11047,6 @@
   "u3907c5a7a78f73bdae24fd489dc904ce": [],
   "u3907d9d4108a08466fc898fa6a37ee11": [],
   "u39087e72557ffdf24fb7abb7f1141c6d": [],
-  "u39094a7b08b5f2c59f0f9f3d1b8b5c83": [],
   "u3909dd052b2f1e716f5c6139e7fb8b39": [],
   "u390abe1076d8cf2a88c731ce7f2818f7": [],
   "u390d37d11dafa5abe5eaa00beec736e2": [],
@@ -11390,7 +11304,6 @@
   "u3a7f5a2e91d059d8033294b2e1c67302": [],
   "u3a8054338bc72ca7d5461d0c0e1852f3": [],
   "u3a8226a9e4786f722c902bab5c279bb8": [],
-  "u3a8396d8953f09813e20857ebacee351": [],
   "u3a84d856d9669dbb32440aa50bfaadd1": [],
   "u3a859e20eb34331b0d6fce43cdb3a914": [],
   "u3a85cf9866700717be8928f9ecf89581": [],
@@ -11498,7 +11411,6 @@
   "u3b13f0570b2526af247440b3a7b90939": [],
   "u3b153530a98c9fe3479ebbdc563fea8a": [],
   "u3b19c143b0cec7d1cc9ed64db4dce9b8": [],
-  "u3b19ea765250ff07b3f8814fe6947eec": [],
   "u3b1aecb297c05379f1490627376003fd": [],
   "u3b1afcdbfb1bfc48650eaca09c492dce": [],
   "u3b1b2d861743af4e1da38e17cc6c6dbf": [],
@@ -11577,6 +11489,9 @@
   "u3b810f9bcc5a64b6cd5fd880e4c714c2": [],
   "u3b82dd701936f0a4ea6e1d8b48e20f44": [],
   "u3b855ea4ff6ebeda8dcb327e9dbc2cb5": [],
+  "u3b86353389b2a408baf4a1fbe49dfa8e": [
+    "🧺🧸🌨️Dada🧺🧸🌨️"
+  ],
   "u3b892d5f6fbc5cf775d8a64479461d20": [],
   "u3b89683e829de13635afbf7c85542cc9": [],
   "u3b8991b5fea733ee7a400cf818624db0": [],
@@ -11669,11 +11584,7 @@
     ".",
     "baha star",
     "Aurang",
-    "ል",
-    "{RTB}Ø₣₣ł₵ł₳Ⱡ",
-    "Ø₣₣ł₵ł₳Ⱡ",
-    "Heart",
-    "🍁"
+    "ል"
   ],
   "u3bf709d008e644a60b45dc9d206229d0": [],
   "u3bf7ef82f603b34dec31fc7fdcdd089e": [],
@@ -11733,8 +11644,7 @@
   "u3c431744b3aab04af2383d74cf00fc9d": [],
   "u3c441fbb74765a0fb16b93f60c53ca3e": [
     "สปอย",
-    "อาร์ตี้",
-    "ส่มผักเสี้ยน🧚"
+    "อาร์ตี้"
   ],
   "u3c462f4bc26a77efa2790f3f20bfc3fd": [
     "Mastb8a-1 XMN-R"
@@ -11757,6 +11667,9 @@
   "u3c5a0a74f65525f94145520a7616ff8e": [],
   "u3c5ae82ecdfa1c825e473bd28765e413": [],
   "u3c5c2f66a3ee1600594f44300f845705": [],
+  "u3c5c81ed4f29d94eb104ad43c364674a": [
+    "Da Nannapat 💰6979"
+  ],
   "u3c5c8bf5d2ab82b25c15f677c57431eb": [],
   "u3c5cd876498a9f32d1a322f7b07eb707": [],
   "u3c5d98e31c1c2dcb4367f9bd87fbde93": [],
@@ -11794,9 +11707,6 @@
   "u3c8c323874025b3604fb85a2a9e95317": [],
   "u3c8e36679ff414d90c9a36124c69898f": [],
   "u3c8fa3205d985b26e1301fa6855d7b9e": [],
-  "u3c90962219b611a87dcf6534478e8304": [
-    "บังคิม👳☝️"
-  ],
   "u3c91990411577e615d083928ddbb0de8": [],
   "u3c935cebc0488e09d765d28727ef3dab": [],
   "u3c940df6a1fb6d69b246db8370f78fed": [],
@@ -11927,7 +11837,6 @@
   "u3d4b3270b60a715ee475cb00ac35fe42": [],
   "u3d4cc7da25260c1bfe16331d8001ec43": [],
   "u3d4d99ad64dbc58b0c937fa7e26f626f": [],
-  "u3d4de87d094d49e895927a5780991e25": [],
   "u3d510286531a7b2ea852d02fc10a2c3d": [],
   "u3d51d69aedce77a465994a414d1aaa30": [],
   "u3d520fedccc3ec4efb71c2c8a3a56753": [],
@@ -11943,7 +11852,6 @@
   "u3d581b03aff02460464f2558bd019d21": [],
   "u3d587d0222df3eaa584368b7215e6eeb": [],
   "u3d58efadade07cdea2a053584276b40a": [],
-  "u3d59edb1d7bf9b8537bb1b69bc93c739": [],
   "u3d5aa24b77261d686315843ebdef96bc": [],
   "u3d5b6d6f99739c57e2c2ae67dcdd6dbc": [],
   "u3d5e5f627d002450aff513e41e7604a3": [],
@@ -12145,7 +12053,6 @@
   "u3e7e49ba791b27df04bb266ffd6e53dc": [],
   "u3e7f22c0a5d81a497377f4c29b226ff3": [],
   "u3e7f8f8c4a0b11c22232cb5b87822cde": [],
-  "u3e7fa4bb1adb6b2db37d6947a59b559c": [],
   "u3e7fd6c59191cf975049979e8dc3f550": [],
   "u3e831d287103d4b3910e6bc9576e4af0": [],
   "u3e853200c92919914baa9e2242d785f3": [],
@@ -12176,7 +12083,6 @@
   "u3e911a7a2b3b8cc28460ce55fd91f147": [],
   "u3e95dd1ed8e2480b6562016b48f75542": [],
   "u3e96291dfef9338922c7e4b14b603112": [],
-  "u3e9692ef67bc882e56484950943f5d92": [],
   "u3e96dafc0a976403802f5cc194db5617": [],
   "u3e98047dc783cbe0c2551f7e4239df9f": [],
   "u3e9947ef426de594eefd2d9a1626c8b2": [],
@@ -12207,7 +12113,6 @@
   "u3ebc4cca1431187cebfad6c17e129537": [],
   "u3ebc8b72cd9594da9ae868cb2317fd24": [],
   "u3ebe948123d5c79021e6266de87ae5b1": [],
-  "u3ebfca48fcd6fd155adcc7d45ff1b429": [],
   "u3ec00b493d91ee47a3b6e5a238c7e743": [],
   "u3ec50230f485e44d6285025f869fe3d0": [],
   "u3ec5d2c41268d5a9222fb0d3ff375cc9": [],
@@ -12423,9 +12328,7 @@
     "🐢✨",
     "🐢🏁",
     "🐢🏁 Unknown",
-    "🐢🏁 Unknown🔱🌺🕉️",
-    "➖",
-    "Unknown"
+    "🐢🏁 Unknown🔱🌺🕉️"
   ],
   "u3fc208a7d45960912eaa80fa5bb5c2d5": [],
   "u3fc2968947d57163886e425b402961e3": [],
@@ -12471,7 +12374,6 @@
     "𝖇𝖑𝖚𝖓𝖙𝖘"
   ],
   "u3ff4adaac1c23da20465fb00ca2003de": [],
-  "u3ff8c2bea70fad5dcda6482807aade74": [],
   "u3ffa4173ec7eba6f8fe67eeb20bf49b8": [],
   "u3ffc65402128cc58e1c1d0269e9a987f": [],
   "u3fffe829e601aea52d645a87ad6f8f71": [],
@@ -12518,7 +12420,6 @@
   "u40406f07c7b6667115d22f8344efdcac": [],
   "u4043cdd0d0980018e3650f012ca72040": [],
   "u4047171d0ab26dc1201e7c0c45830dd0": [],
-  "u40483ff5376cbb755643d962485e17bf": [],
   "u40484be9d8ef4e1ff891145cff30b388": [],
   "u404eb36541c1ab22f35e121364d60dea": [],
   "u404f7d381f0e052deac5e4911e578c53": [],
@@ -12546,7 +12447,8 @@
     "KungGrandTung    💗🦋🎨",
     "KungGrandTung 🧁📧🦋",
     "KungGrandTung 🌨️🍒🫧",
-    "KungGrandTung  🎀🥖🧁"
+    "KungGrandTung  🎀🥖🧁",
+    "KungGrandTung  🌷🥕🌤"
   ],
   "u405bb3472a16fdd33b2d7c8f8c99e810": [],
   "u405bc3728e25bc8831ab315644ee1dc5": [],
@@ -12655,7 +12557,6 @@
   "u40e0446578de74b3a414ea5607c19b7c": [],
   "u40e148c51d57508bfc428cd98abb58bb": [],
   "u40e2ef3dfd80eb8b3a8b635d2eb79dd9": [],
-  "u40e44f0c57ac7cff8567d51b76ca090c": [],
   "u40e4fed7bb4f7d9247b3ccb937628634": [],
   "u40e640a5c6a1a9684c1059fb39580fc5": [],
   "u40e8c8bf95e6a0552cc19b65397fed73": [],
@@ -12691,7 +12592,6 @@
   "u4111b454d31d62713dcd94c55f9cd1bc": [],
   "u4112dc09ef04c9e578dd4ed29fde78b4": [],
   "u4113b509269511bc6e052be536418c81": [],
-  "u4115d0a8608575019cfb2d3d43c08dfd": [],
   "u4116342f300c6cf567ab41579e346603": [],
   "u4116632824d08edb848db523f227fd14": [],
   "u4116a00145dc7350c51f7a4f34e04a22": [],
@@ -12916,11 +12816,6 @@
   "u42204aefc6a212284a503d44da3c84a3": [],
   "u42217e23f5fe95ac1723152c91186357": [],
   "u42227fe70aa5b77821919ca9d5f2a761": [],
-  "u42232940b4ff6a7b4f2b84cf59be8f2e": [
-    "Nooaum🌷",
-    "𝑵𝒐𝒐𝒂𝒖𝒎🌷",
-    "𝕊𝕚𝕣𝕒𝕟𝕖𝕖(𝔸𝕦𝕞) 🫧"
-  ],
   "u422592840e2f25404fc8ef82547dc379": [],
   "u4227e436b9d913f8753dcd6634fd234f": [],
   "u4228357e8ceafd11660d4ff76c788894": [],
@@ -13068,7 +12963,6 @@
   "u4327d22cdd4cee4606f6af6ebfc1244c": [],
   "u432f504aa09f154a7ae51578a95cff49": [],
   "u432f74871fba8d764a743e3a2b7d7722": [],
-  "u432faa4ccfd1a6d1466d0b581d900198": [],
   "u4332544098f246fa0df84bcf0f774071": [],
   "u4332a4a48b1714d7da26c9e74fa2f00a": [],
   "u4337a8bd262fde8d62456fbea5c84056": [],
@@ -13078,8 +12972,6 @@
   "u4344129773951b81adfe545956cf1b87": [],
   "u43451878ed22ee76714eb414cb4d42f8": [],
   "u4346b37f3f28c19eff0dadf594f1603f": [],
-  "u43497ecf7423c6cf46a90af3b3d994c9": [],
-  "u434d50121425b9373cf8e5c6a5bbf31d": [],
   "u434e8eb6a4be3464c4992ca6a02b174a": [],
   "u435031e967039e49891b4a34c83b5e3e": [],
   "u435056bbb96424f74d4baf7226c39f41": [],
@@ -13112,7 +13004,6 @@
   "u4373dde4e825b06ad1efb8b3e447cee8": [
     "INY BAAP JI"
   ],
-  "u4374b7c78908aa0c3e001989253f5485": [],
   "u4375615350fd9e5bf15fcc6adfebeeb4": [],
   "u4376e99d6515ed834550bf39719acbc5": [],
   "u437a996eda2ed0a2a1bd2429139748ed": [],
@@ -13186,7 +13077,6 @@
   "u43e0c5bbe93c66b9005276113a762db6": [],
   "u43e288b8ef19d3b5c778e57586114aed": [],
   "u43e3bb24d94ad64a53b7e33e6f62f49c": [],
-  "u43e60aa11a2b746e4bdb559daa8ce177": [],
   "u43e66f9f7b8bf3d08f83c3d3d484dd03": [],
   "u43e70b5c259930ed005cc0c33df7c7fa": [],
   "u43e8e2b73ac8107206048e9655c45637": [],
@@ -13325,7 +13215,6 @@
   "u44a2062e898f769ea94324037b37f549": [],
   "u44a3e89598e999fa8ee1f18256d9f5b3": [],
   "u44a41d371cde064f20b9c5295c8fa1ed": [],
-  "u44a43cea495a58ee8bdbc4f9c6f3df39": [],
   "u44a6ac3e7e32c07af32f3b63a5f50fd0": [],
   "u44a858843c41b937afbff3b245f7db2f": [],
   "u44a9591553294d0d4566d6a63cb9fcbe": [],
@@ -13355,10 +13244,6 @@
     "ɦօռɛʏɮǟɖɢɛʀ ӄʐ"
   ],
   "u44c37937e0c4f6b9bd6344c722984ea0": [],
-  "u44c38113e1ad49a3999751f06156f010": [
-    "Supaporn🍒",
-    "Supaporn🍒(⁠◍⁠•⁠ᴗ⁠•⁠◍"
-  ],
   "u44c5143ac1c2dee0287e170c58c3b55b": [],
   "u44c6c8c8e64ef54da82b200314e5b4ae": [],
   "u44c98c354620c0fa6ed006ce4f79f245": [],
@@ -13457,7 +13342,6 @@
   "u4554da192023f7b3d5a232427f648d19": [],
   "u455680824405dc724f38fbfa1d89b332": [],
   "u4556cac60c3c7210ea1c8189435f9203": [],
-  "u4557d6d0228274805d2d5f6baf2fc016": [],
   "u4558294cc82eee1a8fa11e68fb407cb5": [],
   "u45584d75ffbfc200bdec6f2e6b26ed31": [],
   "u45597d0eeb952b6b6434de97e05d4e23": [],
@@ -13534,10 +13418,8 @@
     "KHOKHAR😡HERE👈"
   ],
   "u459a25cd8fc46f71b7abbaea48c38a98": [],
-  "u459b03f639ed6aa02ae903121f222b3c": [],
   "u459bb1b5e36cb252198aee8d213d167c": [],
   "u459c08a3664bcd3356c106eb91968de0": [],
-  "u459c95182b93a56521387a8005163a82": [],
   "u459cec7049fa88b6bcd5a9f90c463c7b": [],
   "u459e2a49de3635b72940e62036b98c50": [],
   "u459f37f09ec83b9c03c413b951c64e40": [],
@@ -13628,10 +13510,7 @@
     "Boss Muda"
   ],
   "u461638c9720ad6b84f0533fa623960e6": [],
-  "u46173bb749b7dbd970bf1ba17bc93c28": [
-    "🇵🇰𝙎𝙏𝙐𝙋𝙉𝙄 𝙄𝙎 𝘽𝘼𝘾𝙆🇵🇰",
-    "𝜝𝜶𝜹𝒔𝝀𝜶𝝀"
-  ],
+  "u46173bb749b7dbd970bf1ba17bc93c28": [],
   "u4618cc904c97a28794125e754d74e92a": [],
   "u461b10673171c68e708df779c1a15e5e": [],
   "u461d740b07a51bdf37f0eece88f4507e": [],
@@ -13737,7 +13616,6 @@
   "u46bc61bca97b6665fa54c62ce2528712": [],
   "u46bd3b80136003519ab10b122f94b194": [],
   "u46bd5463b285a080b768e8eef6967bcf": [],
-  "u46be24f78f517bd20b477d0a59ca0173": [],
   "u46be5a50f516608ff17deb8c440aa12c": [],
   "u46bfb7cc6fe61064b007989ac7a80acf": [],
   "u46c4db5318491e1ac1c926507055c6c7": [],
@@ -13804,7 +13682,6 @@
   "u47020e11b6d9bc1d9387aec83acea98c": [],
   "u47023431ca856203324d231f54aa59d9": [],
   "u47045da524e3e0c9141e05f005bc736b": [],
-  "u47064dc648110a347b1b7b9363072fe9": [],
   "u470762f6971ef11c8e68d6723ef2d9c2": [],
   "u47090333aa02859620c27fb842627b2e": [],
   "u470aa150e336fd4aa75f5ebe3750677b": [
@@ -13885,7 +13762,10 @@
     "Mercwithamouth!36.2K",
     "Mercwithamouth!36.4K",
     "Mercwithamouth!36.6K",
-    "Mercwithamouth!36.7K"
+    "Mercwithamouth!36.7K",
+    "Mercwithamouth!37.0K",
+    "Mercwithamouth!37.2K",
+    "Mercwithamouth!37.4K"
   ],
   "u4767981b8f45bfb2614d2bfa60ed315a": [],
   "u476813e1c5b2efb5e15db22016cc9ac9": [],
@@ -14337,7 +14217,6 @@
   "u499561122aebb60a3a4ab4927e62b63f": [],
   "u49977dd4fd73b8f37a957185c66144d4": [],
   "u4997b3da5efab620506aa2c57972725e": [],
-  "u499978e83eeb19efa16e15a7d1fe8c7e": [],
   "u499984fa577827ccd1e0ec47189ac079": [],
   "u499f0c47150e26123625262455772a84": [],
   "u49a01f78630768b9e2f112d55984c1e0": [],
@@ -14359,7 +14238,6 @@
   "u49b2f9e9d6473f9ec22a5cb02c45c979": [],
   "u49b4ed58b7bdeea111eb22c3ed543229": [],
   "u49b5ab443a4bcc4c0540ad4c5b8f2c3e": [],
-  "u49b8804795d5c127ecb2c1c89d341d09": [],
   "u49b8c78549f5f1870e26a42b9f8ed0f7": [],
   "u49b932e4d8d491c3804e0ef14a0292ec": [],
   "u49b956f573540d971ad0abec014ebed0": [],
@@ -14404,7 +14282,6 @@
   "u49e3cb963c4b58aeebbec3a6b5e8a0d4": [],
   "u49e4973906e9ad1e7deea5f0e8eba689": [],
   "u49e4984ae9a69afb641dcc94820e1c8f": [],
-  "u49ec49283c0d4dbd4bded9c29961d1c2": [],
   "u49ec800a0a609732c35f407b6e6aea75": [],
   "u49ee5834a12abe825df9bf70cfebc52d": [],
   "u49ef7f458a185cf539b56f535edecb09": [],
@@ -14754,7 +14631,6 @@
   "u4b960e8ec5880cc8bf2c11c6b4206056": [],
   "u4b971404b9df7d4d92df66e5a7d88555": [],
   "u4b976457e18580e171ccda14e9970b88": [],
-  "u4b9a64f0fa810ff069f134c58fec1e44": [],
   "u4ba072985cf84cdcc6273f162369bc06": [
     "ⓂⒾⓀⓘ 🪭🪞✨🐳",
     "ⓂⒾⓀⓘ 🩶",
@@ -14783,7 +14659,6 @@
   "u4ba7e9b2a7aaaf4c79ce4597cfdc2e50": [],
   "u4ba8e1cb130bcb7a61b729c6a6535c06": [],
   "u4bab9a8d9cdf865616895b73b47633f5": [],
-  "u4bacca285208d3c94558641fea50b9fe": [],
   "u4badcc916922cedc2cd4ddeab66f91c9": [],
   "u4bae33d0dc21171e409d3ec98e3ca6f9": [],
   "u4baff810ba7b01ab2c9e3de490d12ae1": [],
@@ -15383,7 +15258,6 @@
   "u4ec83a2cb2fa89e23542bea75a8a89a0": [],
   "u4ec98a8e2e54b35a5e5fa9e9cdb6da2b": [],
   "u4ecd41db34c8f5d15a35384bda822ec8": [],
-  "u4ecd89e6d6909d388929cb95f8634186": [],
   "u4ece3ff6357415a4e7b42176a4b8329a": [],
   "u4ecf83457e9f96866730b74e72875cc0": [],
   "u4ecf8fbd2d8dc41f482c0e4b0f0516f0": [],
@@ -15498,6 +15372,9 @@
   "u4f80827ca6eb18d0f4ff071f485c2aa0": [],
   "u4f80af2fa72119b57b74d3943cfe3b94": [],
   "u4f81bce5a0973b3094b7e27bad11cb51": [],
+  "u4f84155af15103b9d7d91dd50d209d9c": [
+    "ไอริ"
+  ],
   "u4f8508eb62577b8376c37fc4e9014838": [],
   "u4f8513ece9f7092c2038e987d2ff0e97": [],
   "u4f853d2d1e060c478514e53adcee6804": [],
@@ -15580,7 +15457,6 @@
   "u5000dda1b45a8febc063ffb845ab4bf0": [],
   "u50027e762fc86bffa0d1d406be432405": [],
   "u50044e708e3443590f3c119d9bd7debb": [],
-  "u5005d1db4300d75e917012ff6d4acb4f": [],
   "u50061ce10e61acd577a577f65befa9a5": [],
   "u5006b7dfdd6391dbd6537ca922cd71e4": [],
   "u5007913d7c3c23a00a3c6b840425b262": [],
@@ -15961,7 +15837,6 @@
   "u51f781dea58066af27c98e083b0ab57b": [],
   "u51faaa9c000a05dc33dca97b09485298": [],
   "u51fb4ac266e46895cb26a12d2b125ac5": [],
-  "u51fb6180940681d87c6049bda1c58881": [],
   "u51fe46a2e866786bb92754232cddefda": [],
   "u52020e6ff85044f34f598757e9a4cdf1": [],
   "u5202c900b11835cc6d85bf3f638c3087": [],
@@ -16023,7 +15898,6 @@
   "u5241118dca123cf987ded3f67db67ad7": [],
   "u5243029dbc7e4909d16802d8e9b5bfe6": [],
   "u5246686dfb46c276f6e443dba2987fb1": [],
-  "u524750be59f59515632614c0d210d6e2": [],
   "u5247b606a5933337f5c8836983faaf68": [],
   "u524a80cf2095c641f4b442a820bc5276": [],
   "u524aa3c6d62e7ba1b1763ece9c32b7c3": [],
@@ -16093,7 +15967,6 @@
   "u529a15d5cc918cfa76ebd3ddfa0b7dd3": [],
   "u529c11cdffeea0d3560576157b247ded": [],
   "u529c7b3ffb3ae3b5e3dcc9cfd421289d": [],
-  "u529e0d4998e20180ad265203f44dc587": [],
   "u529ef1432ff56df7442f5dd416458d50": [],
   "u52a111b65b95e327f2b01d5af3e6d8c1": [],
   "u52a4b58c7097f2babacfca9a6722462b": [],
@@ -16281,7 +16154,6 @@
     "•╃𝙈𝘼𝘿𝘿𝙔 𝙄𝙎 𝙃𝙀𝙍𝙀╄🇵🇰 5"
   ],
   "u53520dcd2fd91963f88e054e7c545fc0": [],
-  "u53527f1910f492980335ceabbe13b9bf": [],
   "u53546dc6f672d708a105614499add728": [],
   "u5357a66346d9cf6cf753e16473496883": [],
   "u535aeb785987434ea9b4da464fbb4f30": [],
@@ -16358,8 +16230,7 @@
   "u53b345c9530f90b699b429d1cd5e707a": [],
   "u53b4df7ab04ed47de0d38c4605a4a93e": [
     "Akki (IST) 28.6k",
-    "Akki (IST) 29.5k",
-    "Akki (IST) 36.8k"
+    "Akki (IST) 29.5k"
   ],
   "u53b75ea8dfa95ad570a5c07043b87826": [],
   "u53ba491e9dce244192568d0d9433cfed": [],
@@ -16402,7 +16273,6 @@
   "u53e1f5035d60c6700ccb70f280dc86da": [],
   "u53e28e0e2247a445308fcfc48654e8c4": [],
   "u53e3f743f54b8c7a0b9018bc03774425": [],
-  "u53e52a30f4c564351150d9ade0ad21f1": [],
   "u53e7eda762b8c5894682e23093268e0b": [],
   "u53e82227907b96ad7dc264c7d4a3e680": [],
   "u53e845819968149440a85eb2a247a291": [],
@@ -16528,8 +16398,7 @@
     "งานคือเงิน",
     "สุขสันต์วันรวย",
     "Pook4769",
-    "K.",
-    "โบ345"
+    "K."
   ],
   "u5472e97b7567c0bf4481cd450fab43fb": [],
   "u5475940280bf122b79a131a9d9406772": [],
@@ -16551,7 +16420,6 @@
   "u548b6347787647ba343c5b2751e8f60c": [
     "Debbi Fallon "
   ],
-  "u548c5494ff36083c74c30a0e4dcac7d0": [],
   "u548c8ceff6120d3539eab520d70795aa": [],
   "u548d219665d41368a05dbe1f29e0bd12": [],
   "u548eeae3ba78db7eb2e03c9d91ab4f25": [],
@@ -16697,7 +16565,6 @@
   "u554758a7f7f841e544a03f66ad593fe7": [
     "Ae🐒"
   ],
-  "u5549f3e52e8846433c7eb352283a27a9": [],
   "u554c6e39293af9f9fb2028414bec69fb": [
     "Edin Philly ",
     "ＳＨＯＡＩＢ¹²",
@@ -16818,7 +16685,9 @@
     "🇸🇦•𝕂 𝔹𝕣𝕖𝕒𝕂•[31.3k]🇸🇦",
     "🇸🇦•𝕂 𝔹𝕣𝕖𝕒𝕂•[31.9k]🇸🇦",
     "🇸🇦•𝕂 𝔹𝕣𝕖𝕒𝕂•[32k]🇸🇦",
-    "🇸🇦•𝕂 𝔹𝕣𝕖𝕒𝕂•[34k]🇸🇦"
+    "🇸🇦•𝕂 𝔹𝕣𝕖𝕒𝕂•[34k]🇸🇦",
+    "🇸🇦•𝕂 𝔹𝕣𝕖𝕒𝕂•[34.7k]🇸🇦",
+    "🇸🇦•𝕂 𝔹𝕣𝕖𝕒𝕂•[36.1k]🇸🇦"
   ],
   "u55f2b1849033dc866488ac8201c113b2": [],
   "u55f381e1e2eb2459659c861904589f96": [],
@@ -16942,7 +16811,6 @@
   "u5691cd0fc51e28b8968cd8986d3dd602": [],
   "u5692708db5d39825e56531c120c7481a": [],
   "u5692c0c1245cbdff90b9b3d61cd4ece6": [],
-  "u56935cf942b80094fd8b73951d49409c": [],
   "u56949c1f3c47e1bc252d45e405a7e87c": [
     "Addy",
     "Big Baz",
@@ -16978,7 +16846,6 @@
   "u56b25404cb5d068dd6cbde0e900a0797": [],
   "u56b38330b98601672d792b9333d57c8a": [],
   "u56b45bab484c582d89c42e911c41640e": [],
-  "u56b50daa173c2f1fe46da98826b3139e": [],
   "u56bc4a44b5d20e4cb4865bdb9255eb31": [],
   "u56bde93a271a69b4457039eea488b09c": [],
   "u56be2a846f9eceea5ddd70a6d88be33a": [],
@@ -17006,7 +16873,6 @@
   "u56d8103fd4a61daccefd3a815009e1b3": [],
   "u56da08bcce63bc0c83344d9388b1618a": [],
   "u56da5bd061d5e2ca25dab060c907e651": [],
-  "u56dde3bc32f05b3720f2675e5fc7cce3": [],
   "u56de280ff7f8d0f0cec44f897a6dc08c": [
     "🍀Chanidapha 🕯️💼👑"
   ],
@@ -17023,10 +16889,8 @@
   "u56f0023e15f913c4b80fa672eca07ff0": [],
   "u56f0b92b93a0992709db9fdd6a6aab62": [],
   "u56f144f7583fc1721f9f303dbc4954e1": [],
-  "u56f27eef89559c931059a33c6fdc3a8a": [],
   "u56f32da5a9a4d252e34f2b817736ea06": [],
   "u56f47eb1cde4a2c5a1073f77b3c28745": [],
-  "u56f72171c150eead619aeb86dd50addd": [],
   "u56f8ccf7d3e87badb5706393eef9371c": [
     "之",
     "若之"
@@ -17072,7 +16936,6 @@
   "u573340be79c8f808e03023c1886bee54": [],
   "u57346d84cc5ca4908a973598beb9584b": [],
   "u573641b88d43179a8ecc47ff6cc4fde2": [],
-  "u57372cf9c7aebfd533a0109581ab7373": [],
   "u5737e400c5a794b482667544bbc9395e": [],
   "u57385578ca89626b11b96004a358cf3d": [],
   "u57399a333c46f1d798428c8b1a5d52b4": [],
@@ -17122,9 +16985,9 @@
   "u576ded0f9d8e615d10a0c26ab1b088c4": [],
   "u576f38d7279df7bbf8a39db9279da396": [],
   "u5770e87f855812e1670bed41f5c01c1a": [],
-  "u5771e94ac4435232927cf563c35c904c": [],
   "u577275ff002fb1501a294a3ebfe982e4": [
-    "เหมียว78978956"
+    "เหมียว78978956",
+    "เหมียว999999"
   ],
   "u5772ce883d1db65aacedf29ee311c5fb": [],
   "u57743a9ccf457a1d7d3d8151b4599a3c": [],
@@ -17139,7 +17002,6 @@
   "u578300101567e9c23783d13e5990f55d": [],
   "u578451d1a37771c82ec11decc76e865a": [],
   "u578542b1c3bb28f7985ecd57361e7af6": [],
-  "u57858908950fcdd9ff0a84c310fbc05b": [],
   "u5785ceeb36b17bc27a4d89d3340d7827": [],
   "u5786919a29eca69c563cda82269cb853": [],
   "u57892eefa36881b875e44ba2c947a437": [],
@@ -17181,7 +17043,6 @@
   "u57bbe5de38384b95edd5898c313eb226": [],
   "u57bc2f55b73469fbf590a21e4bafd306": [],
   "u57c3e2fe2d5b447f6eed1dc8ee2c6b7b": [],
-  "u57c452746eb40ab3f5618dde96670881": [],
   "u57c4d6f22058c847035f89b3f0729bd6": [],
   "u57c579dc40e05ba348a4a65ff98cbf0e": [],
   "u57c5d848d7e1873e24e2c954fef5af87": [],
@@ -17234,7 +17095,6 @@
   "u580e096837d8b0d14714780cf21dc60a": [],
   "u5812628c0d7fed154eb2372a0285e658": [],
   "u58139f3be6ce388d0a37d6a2654d9416": [],
-  "u581403405a9fe4408faa5cd1d7c0576b": [],
   "u5818ec56b57a3671410dc4300fb8c46e": [],
   "u581a73c6862d2cbb9b49446da633fa12": [],
   "u581d648f5560a8477b28cdfb5152a1a0": [],
@@ -17301,7 +17161,6 @@
   "u587f6dcd97d708db86dfb3d977b275c9": [],
   "u588097c8f06314a7c0746e8af7454607": [],
   "u58817fd63b0bcb91695f12ab73fc509d": [],
-  "u588196d37496401ca866added2ffac93": [],
   "u5884f4d49dacca9ca90e9e7c2b5c7990": [
     "พี่กิ๊บ NRB Bearings"
   ],
@@ -17313,6 +17172,10 @@
   "u588a6766d6148da198c310c11705845b": [],
   "u588f5be917d4363f6022f2c528b0399d": [],
   "u5890b078f185a6fdf72843e487b1fe7e": [],
+  "u58923aeced76870b62f35ff21c24e451": [
+    "in",
+    "Chanya 🎀"
+  ],
   "u58927accbc68de53c91843e17d32bb88": [],
   "u58938b37c012f53aca05baa0d45c12d1": [],
   "u5894bb40207e148a9352103eb7827523": [],
@@ -17350,7 +17213,6 @@
   "u58c25df08b082e9352b4645dd1ce6b15": [],
   "u58c2a473f3dd79bde021d8f42703a158": [],
   "u58c3c6dc721346e73821fd9310fb4b16": [],
-  "u58c45243451e17c9de560fbb5b7da41c": [],
   "u58c4b328cc2399a48b88a3c8d9db22ab": [],
   "u58c70f84369d692ae9c6a08942c2effc": [],
   "u58c7cdbcab060a47a79d6e4aa67ad3dc": [],
@@ -17385,7 +17247,6 @@
   "u58f37e3e575964b3b0ab739ace65288c": [],
   "u58f3d03107157d31e0d6a7d61bd95ec9": [],
   "u58f83c6bc00a6186c176fd24d3c12cb2": [],
-  "u58f9c7a2fa4d8fec1f07499f057192d2": [],
   "u58fe84c943772253fd3f8497aadcc801": [],
   "u58fed741428e603b55aefaf6a2926917": [],
   "u59001f9354a600918aa78aac6137050d": [],
@@ -17488,9 +17349,6 @@
   "u5980d934d138ce743c8ca7b41e5f86cf": [],
   "u5987882baaf72a2d354ad9076e11d983": [],
   "u598888c1af3ac6aa13b27e81d0493476": [],
-  "u598bad9ecaa0a0d737a8ccae6cf37712": [
-    "SOM-S🍊M-S🐽M"
-  ],
   "u598e278c7470cdb3c77ec705e3d767f9": [],
   "u598e49f97e374b4d31f61d683de7ce76": [],
   "u598f375487afe062ccabf020425410cd": [],
@@ -17518,7 +17376,6 @@
   "u59b1a49e96da8b1c5508853c617d1ba3": [],
   "u59b36141022eda77f52bace084b96002": [],
   "u59b64cd0055427012bab8783f84543ab": [],
-  "u59b9b60d698cbe3f0e96b2427cc2e068": [],
   "u59bbf07692b8604b98a359a3f77f9e54": [],
   "u59bee8407a7a13d964398e6e50e6c9c1": [],
   "u59beebb51778ca05db540d6bb03dd8fa": [],
@@ -17579,7 +17436,9 @@
     "ANTIVOX 2",
     "ANTIVOX 24",
     "ANTIVOX24",
-    "Maxwell24"
+    "Maxwell24",
+    "GraduationWell24",
+    "DiplomaWell24"
   ],
   "u5a1d41e6adee42673d488e4601f7dfb0": [],
   "u5a223daed7742d8e406b16730b061252": [],
@@ -17617,6 +17476,9 @@
   "u5a43fdfa26f42f4df2c2da8fd792cae7": [],
   "u5a44a2a4b78c2c27322d18aac989e54b": [],
   "u5a465fb922ac411d36ac89e620c9e5c4": [],
+  "u5a46e247a90c3c97255be837c4bfd8b0": [
+    "❤️‍🩹พิน​❤️‍🩹​"
+  ],
   "u5a482661294648d6c1a12ea11efb8c3c": [],
   "u5a49c34adff0f73ad65945b59bbfd3ee": [],
   "u5a4b68012705520b73516a18882f6733": [],
@@ -17866,7 +17728,6 @@
   "u5b5fcbdfd2d20671c1ca9f7970e60cad": [],
   "u5b6059f18861e75009b7f34c5a5ba0ec": [],
   "u5b606606a12d8914e58e8612a9b3498d": [],
-  "u5b60eed7ead13b89cd46804f7954570c": [],
   "u5b62a7edde2a3bfc6cba47621c34d7f2": [],
   "u5b636781ee42c72fe70b4418a2535fc4": [],
   "u5b66781677501a8d345e6da52112f08c": [],
@@ -17887,12 +17748,14 @@
   "u5b8b045c630bd7f19439e9ef35b573b7": [],
   "u5b8b10b6a0f534507c340cd105629480": [],
   "u5b8bd96db884e7352471dc92e18eb6d5": [],
-  "u5b8bec57fac50e7f8f1213a2f170084b": [],
   "u5b8e34adc314f63413d7155e9dc8362d": [],
   "u5b9027c63b09e6f04ee3e2d0529aa857": [],
   "u5b949835538632e5e2a99333bd5183b5": [],
   "u5b9982753aa7c3676bc33881487dc689": [],
   "u5b9b53f55cad4120604c253ce799824d": [],
+  "u5b9cf5e67a8dccf44ff32c389c4b5dc3": [
+    "🅚🅐🅝🅛🅐🅟🅐🅣.🍨🎠🩷456"
+  ],
   "u5b9d3b6e79d254b114643c08a901ffcf": [],
   "u5b9d5ec7966255510a16fd636893028b": [],
   "u5b9dbfdd9ea18f3fdb1a4d94aa8f282e": [],
@@ -17915,7 +17778,8 @@
   "u5bb7e2af8ea7c13873596e38da1115aa": [
     "Lestat2499_32k",
     "Lestat2499_36k",
-    "Lestat2499_39k"
+    "Lestat2499_39k",
+    "Lestat2499_40k"
   ],
   "u5bb8453cab57a692406bb5a2365cd83d": [],
   "u5bb9c914e62601bff756477673c962c8": [],
@@ -18117,7 +17981,6 @@
   "u5cdac46fd3286ed03493df4955e34426": [],
   "u5cdad9f71d9ddada9ce5ab8a58f6ea29": [],
   "u5cdb4906de87e0b808eb2f638bf6c7c8": [],
-  "u5cdbcec48a800749fba3d72056f52db9": [],
   "u5cdcbc3e01c05870acbdd5df6d6d0635": [],
   "u5cdef0d0e868624838404d76ee459787": [],
   "u5cdf265ca67246ba9d5cdf337855b9f6": [],
@@ -18148,7 +18011,6 @@
   "u5cf7e4b8f56c67f8a4577dea4a73250e": [
     "ปรียาดา 🍞🥚🥓  789"
   ],
-  "u5cf8e65879c50a4a7a0b64489514c523": [],
   "u5cfaf9c0df16fceb9a2e1279bee37293": [],
   "u5cfb9889d1ec6c1442694065e71271c2": [],
   "u5d044e9f3153c2528c5e72df133335e5": [],
@@ -18253,6 +18115,9 @@
   "u5d9e79eaea646636bcb0ab550762ea89": [],
   "u5d9ed4fc3286fa73979cfc7d0f42c928": [],
   "u5d9f20d077b269b24cc1459ac121a04d": [],
+  "u5da0adb46502e68d0a95498c5ee569fa": [
+    "จาร์ มิน"
+  ],
   "u5da18c55dff34e2342dde533f71b84fd": [
     "Wrennie Rivy "
   ],
@@ -18459,11 +18324,7 @@
   "u5ec112dbdcb18e994853141b2fef9424": [],
   "u5ec14b5cc8a9ea8a4573c49f7874c9e1": [],
   "u5ec2ceddef7ae84f11fbd76fb23398f6": [],
-  "u5ec305887f3127157f17a1690728c5f9": [
-    "Täh🌷🥕🌤💰"
-  ],
   "u5ec6e9f1a23977a251efd7e795b673fe": [],
-  "u5ec7ec9915713ff47dd2096d9323eb70": [],
   "u5ec8328a703482c3c86fa4a449b48ad8": [],
   "u5ecabb0018eb3a493d346840e29ffa5b": [],
   "u5ecb05e688bb5bd7fc35297a44297b04": [
@@ -18486,7 +18347,6 @@
   "u5ed50960c638acf117de717eda35e797": [],
   "u5ed612bad59bb55976f20bb6f2e67964": [],
   "u5ed70dc4bc3bea4c02c671fcbed7d61a": [],
-  "u5ed88609971fa1592faec97a0bc3ee93": [],
   "u5eda014d4b57d990914f23c82844b422": [],
   "u5edb322b802b5efb1caf2538f7b1c1b3": [],
   "u5edbe8935e806c8e6be897a2327f3325": [],
@@ -18658,7 +18518,6 @@
   "u5fbdcb7ce29936631421da6b7381caed": [],
   "u5fbe030beb9a30d88283e7830a38e526": [],
   "u5fc39e2450cefb29902d7cf97daec906": [
-    "สติ789",
     "วันใหม่789",
     "ใจเขาใจเรา",
     "...เริ่มใหม่",
@@ -18677,7 +18536,8 @@
     "ชั่งมัน",
     "สายมู",
     "6395สวยงามมาก",
-    "6395สุดยอด"
+    "6395สุดยอด",
+    "6395ชั่งมัน"
   ],
   "u5fc4c7ed99885ea5239feb53343e1591": [],
   "u5fc774c0e8924e359bfb7154a6755b48": [
@@ -18772,7 +18632,6 @@
   "u605124d6874b24ce96cbcac22ee8866a": [],
   "u60522fa5d118cef7a4042127fd38c5e9": [],
   "u6053b3a90396efd5cb8d56e85d5e6181": [],
-  "u60557cc51bb938b4d11da3f7fc3b75d4": [],
   "u6056008c0e75e07629c97272d97b5ab4": [],
   "u605676823ac99416e1ad7977c568d0c5": [],
   "u60599ad9dc213be6ddab8e21c55ffaf0": [],
@@ -19121,7 +18980,6 @@
   "u620817dd6eb2536e0fb0d11957629d32": [],
   "u62083af7be0ff72c6df8f8ac20d16390": [],
   "u620a06d72489ba5f93c90429ebb808bc": [],
-  "u620b0d30b3d510da7564b42f0cacb001": [],
   "u620fde890b6146a67017c7f85d5c4f72": [],
   "u62116ee363a2a9a8f42fec89cc9fdd19": [],
   "u6211bff1de01ea10a1592236cb7a22c7": [],
@@ -19246,7 +19104,6 @@
   "u62a2d7b4ea873aaba0d985320dd2c1b3": [],
   "u62a31555baf8b4b5a7ec02787dd29158": [],
   "u62a32587de3dcf60e2ad0cac2941290b": [],
-  "u62a760373d0931ab27cc9ed172d99e93": [],
   "u62a8099f2c1d8b3701cb7a8bd321380f": [],
   "u62a882927098f1f4cb7f388eb847b63c": [],
   "u62a8c618a0fbfe4eca9d58f7352e514e": [],
@@ -19282,7 +19139,6 @@
   "u62d2f2f40b5dad572e7070a1d0ae92bd": [],
   "u62d444754a88517ca8025a7908b7be92": [],
   "u62d5212226311e73f5669fc6f4abc6cc": [],
-  "u62d87651224e214a7e1abf8da4677f14": [],
   "u62d905f8aac9e703b1786867748b7133": [],
   "u62d9b8d823752b18de15eee17d40b541": [],
   "u62db7de31c1e3ec2d11ecc4745496867": [],
@@ -19294,7 +19150,8 @@
   "u62e0715fafd915e7c7c6e67832437c6a": [],
   "u62e12a6483b8dcd4113b2eadc8535edf": [
     "Joey Kanyanee",
-    "เอิ้นขวัญ กะได้"
+    "Film Chayanin Pimpa",
+    "เนาวรัตน์ แซ่ตั้ง"
   ],
   "u62e13d40d91ac72969fac371b049587a": [],
   "u62e54d4fbb627fec7afb1bc62bc6672f": [],
@@ -19353,7 +19210,6 @@
   "u632b3c9f05f0ba00f902a22c2db90ae1": [],
   "u632baa35779efbef8af972a1be535ad5": [],
   "u632cbbe287ce5ab154620193a6bc4bed": [],
-  "u632d0517f4384010e9968096bd516221": [],
   "u63313a9fbd6d0c1eb69b65706649e54b": [],
   "u6332f4cf2e7b3c5ed62f1e4bcf465f38": [
     "Great Thot"
@@ -19674,7 +19530,6 @@
   ],
   "u649344c0cebbc35fbbf647c7a309d1ef": [],
   "u6495dc86337c578aabe927e52befd57f": [],
-  "u649a09134a1ab97157ace6b589afde7c": [],
   "u649b76ce6fb374211cc80bbdafd6bf6c": [],
   "u649ca098cef8330e1ea5a16923ce7d3e": [],
   "u649d9d8e4ed53bb658c266efbc76c244": [],
@@ -19702,6 +19557,9 @@
   "u64b9b698170b32fbd44a0f71023e15ae": [],
   "u64b9f7a017f4ee04600b1e0ebcaed80a": [],
   "u64bbe1ed53547efae64fff54a8575682": [],
+  "u64bcf3ec1115941bdc71c49a1dfcee96": [
+    "Korawan TC"
+  ],
   "u64bd0d2fda8d3518741b9fb12687dcd8": [],
   "u64bd2e24b9b3ead57723608be8899016": [],
   "u64bd53d00d4da343efb93842e04c4627": [],
@@ -19716,7 +19574,6 @@
   "u64c97a44a3c03a2176c5833a31c188f1": [],
   "u64ceb10167c842bbe67968a53af5eea9": [],
   "u64cf94cff3a443257b8a44b9d4d9e926": [],
-  "u64d03737872f424c3f83bf8a161ae3ec": [],
   "u64d2797cf3aa12712b515714dc35e2c3": [],
   "u64d2b0e192c2bd2be5e1556e9ac4f0e5": [],
   "u64d3114d5a41d11681c457e26424f385": [],
@@ -19809,7 +19666,6 @@
   "u654767924352c7d3c612405b22a55e60": [],
   "u6549ed0f0610d1708900acedd6222a92": [],
   "u654a056f6cf76bb8dd9958aa43c50c85": [],
-  "u654a3e03dedf6f10b724ac9467123b4c": [],
   "u654acbf6b9a720d1512c9630ec722bc1": [],
   "u654bd09e15958c43da4e0c41dea5acbd": [
     "กุ้ง"
@@ -19895,8 +19751,6 @@
   "u65b2bec6ee3cd777923ce212ac495b38": [],
   "u65b3af1a42c3b81f2b53c7e1a777b69a": [],
   "u65b820b9dfe9b8a638f574f79b8aa9be": [],
-  "u65b83983f82f62f8ae68547180e35386": [],
-  "u65b8f8896042fe8569fb071fa566628f": [],
   "u65b958e29951b52488af91d764388327": [
     "Jworkonly",
     "JR789",
@@ -19925,7 +19779,6 @@
   "u65d18bf540f73bef2aa1f479f260a350": [],
   "u65d3a75e300a6ffee904d06bb4e22060": [],
   "u65d3a80cb22c7c7f2c8e41fddd308d45": [],
-  "u65d3b02523742d3e8e4ff35744dfb738": [],
   "u65d3cc6605d90c8cd7d82423650d8b62": [],
   "u65d5aaf5e6edb96bd5fdd84f4afc6d83": [],
   "u65d7274d3f9ed859e8bb1d7a40db5266": [],
@@ -19948,7 +19801,6 @@
   "u65f058cb32cd5f6c48638f75a8253f0e": [],
   "u65f0d645421af44f5e96e6ceb197f33b": [],
   "u65f19cef375c55e945294b8d5c3867a7": [],
-  "u65f6855bd94b976db5ac8e1718ee337b": [],
   "u65faeedde4e0847d98c63da0a7db6f9a": [],
   "u65fe6adde38b343e0b1a83437687f932": [],
   "u65fee47398f97c2e7296be6e78fecf70": [],
@@ -20072,7 +19924,6 @@
   "u66c987de7101b4ed7fbc6f67434bda35": [],
   "u66ca1895ff43d33fe7bb3d8e993816da": [],
   "u66ca819a604aea723dbdd25165691008": [],
-  "u66ca9492f6a188bb7d41bc3cba2edffc": [],
   "u66caeb36d3588bc29b257cf6cb8c7402": [],
   "u66cbbf449ab40e085195bae6d1e712c1": [],
   "u66cffab1d186e29bded7a806657b9057": [],
@@ -20195,7 +20046,6 @@
   "u676bf3d512d7559bf027fb92349e052c": [],
   "u676ce3b13ef05c20197b34a736fe1552": [],
   "u676e5f78a81d5716c355b69d706500cc": [],
-  "u676e7d7bd04e9e40e6bede7da40e6cfc": [],
   "u67701ab2274daa134fe1032ceb2faa06": [
     "͔͔💘Hasan Galau💘",
     "͔͔",
@@ -20229,7 +20079,6 @@
   "u67972253522c9db4e6384847863807d3": [],
   "u6797f324999ccf8a660cd80f5b79b709": [],
   "u679e210de8ee4dbedb6cf4db869ea71d": [],
-  "u679e97e6de0ff6b8f20ca30054274c00": [],
   "u679f4ce6ea06969901743a154058d9a8": [],
   "u67a0194abd1a44d77b156b110e55d577": [],
   "u67a06d2ba684ed434766fea1360e72a9": [],
@@ -20339,7 +20188,6 @@
     "R⃠O⃠S⃠I⃠D⃠I⃠"
   ],
   "u68375cfd520682daa1032c60643c4667": [],
-  "u6837c0c1494579f451b0a7351f457321": [],
   "u68396ccc417c225c5c1e9ad0cc8e6580": [],
   "u683ac6f2df812c43c4ed4e939628fcc0": [],
   "u683ec9a3c542f8ff848dd453c9700dcb": [],
@@ -20478,7 +20326,6 @@
   "u68efa758877a9af07a1b05742eda76d9": [],
   "u68f0ec2b41bc3c480cdd0c7d662b8642": [],
   "u68f1eea32eece580d09ba45c25275462": [],
-  "u68f24855e76798a00e1ac4f241bdf13f": [],
   "u68f3ed9eb30d80e8dac0050b8667775f": [],
   "u68f575d919a5e03038573bed6aee417a": [],
   "u68f7ed303135e45e4cc46ab78583c385": [],
@@ -20530,7 +20377,6 @@
   "u694658c196d8123617840caa5192f2a3": [],
   "u69474318898db3bbabc3ea1146e5396e": [],
   "u6949928fd997ff70479fa6823a075f72": [],
-  "u694c12aab8bae4058ad7d081863de81d": [],
   "u694ccd3bf8740f896b0ee29bfc517e7c": [],
   "u694fce170f107112368d870007898ec5": [],
   "u69523be2321f34725d2ef8811cac450d": [
@@ -20547,7 +20393,6 @@
   "u695e637af9bb4fbea2442e38f6d6d4b9": [],
   "u696113b380c821e1cd9ceb95f73aaa84": [],
   "u6964c6ad24129890b505a879c88bc0cc": [],
-  "u69663494e410ad2a9a2230fe3ae13c8f": [],
   "u69689662595af0eecfbff132c06e8923": [],
   "u696b47057da76b850409505d0178fd0c": [],
   "u696be9aadc6bf3f85fb4ebd04bf55a2e": [],
@@ -20683,7 +20528,6 @@
   "u6a003be0a482ec195441fe89ab6986cd": [],
   "u6a0354810df060df310fb477e9d39d3a": [],
   "u6a0746b369d427ba4ea7d1935d6ab5ed": [],
-  "u6a084a711d212ed2b7e274a82984837e": [],
   "u6a08e7d1e74c5c307bdfee6c1ae8417e": [],
   "u6a0d96e094752c89a0219d594d5cdd79": [],
   "u6a0e0931a2ceb0b8cc71a1e784264e2e": [],
@@ -20782,7 +20626,6 @@
   "u6a9493bd29e126dd8b64b56792e16daf": [],
   "u6a950868ac3980879d6c130fbe1e53c3": [],
   "u6a959c5055f728ce492eb22575975baa": [],
-  "u6a96884cd602d22094c5ba52ab1f5825": [],
   "u6a96e5ac75f5cf665e13777c89d302e0": [],
   "u6a99b0ea3c134b2441a14040057096a3": [],
   "u6a9d8b05e9b0817b33671ce13588c9be": [],
@@ -20795,7 +20638,6 @@
   "u6aa6b8d44f1fe6417236d470bdca9c79": [],
   "u6aaa7f58d256679e203bd343f839562e": [],
   "u6aaa986b9c1f89874c5592afc214fc87": [],
-  "u6ab17b81cf08ab532a7bdd3cabd039d6": [],
   "u6ab2c1553646f778f98ead082f6eba74": [],
   "u6ab4d23c0febbdd7dd7ce7715009d126": [],
   "u6ab728a5b3ee30e8f847fe5699374e64": [],
@@ -20808,7 +20650,6 @@
   "u6ac1aa59e86e56de74df07a539c797fd": [],
   "u6ac4152b608b55aa10c0e42a9bedb18d": [],
   "u6ac4b47bdd99e820aeb4c8828628cc5b": [],
-  "u6ac5433a8a7913d6716079274934e741": [],
   "u6ac59ccc6c3e32cedbc702922343f8b7": [],
   "u6ac628a922a85bacda6c49ba2aaf09be": [],
   "u6ac6987489068dbd12c1f4c9aa5dbc77": [
@@ -20967,9 +20808,6 @@
   "u6b98457a1a1510a910aa58ef35f338e3": [],
   "u6b99be0d2837a02c8ad9666913df7cdf": [],
   "u6b9c48f384e7b1d80a6a8925ca10d64e": [],
-  "u6b9c88be4e6486f4403b976d2a7832dc": [
-    "🦋Chalida7895🦋"
-  ],
   "u6b9d89ad0f1f946c10a75edcf224c074": [],
   "u6b9fb7865a01557c81ece047bec9d143": [],
   "u6ba1e3c3509ee3516e20b3641459edfa": [],
@@ -21065,7 +20903,6 @@
   "u6c04f9d6d360bed55e8cdf460eed58d6": [],
   "u6c06bca05ebb3ce13fa0a14c6e4a5d7f": [],
   "u6c08fca0bb771ee6e7871ad9da423076": [],
-  "u6c092db56ad1235500d90fbb4102dee1": [],
   "u6c0a5bbc146fbbaf36d334fc4b53a862": [],
   "u6c0b8a23b2b1d668b28c77538b8ab82c": [],
   "u6c0e4fbac37b0473b1714e7142fc4ab8": [],
@@ -21098,7 +20935,6 @@
   "u6c2f2b3ba4e602d148e8e640728a22b8": [],
   "u6c311f79d802e7c4ce5dd81ed92db17a": [],
   "u6c32d6853b48fa82ba3e81aa9dc81781": [],
-  "u6c33b9e38dd0ead07ce5626b7c47249c": [],
   "u6c34123f4de6724ae1e5613114157e35": [],
   "u6c344ab8764e27c3854e12a95ed045bb": [],
   "u6c369d13c08c654d85dcafc1e394e0de": [],
@@ -21210,7 +21046,6 @@
   "u6cd1d39da3f27ddd8e827d93dd3034de": [],
   "u6cd23938a3c57c0db62574dc8afd30ad": [],
   "u6cd34393c3b27a40168ff40e6a247f0b": [],
-  "u6cd4119f0bb074c5e8897b31e20f4553": [],
   "u6cd62baf98ce320385235ca28a5bb8fd": [],
   "u6cd6350804b700ce1302a2b2a0964a38": [],
   "u6cd68940ba9f2d81da1ee3f8739e481b": [],
@@ -21377,6 +21212,9 @@
   "u6db8a93e2e8e651e5aa6666e430c82c5": [],
   "u6db9b2da088dd8e2e0d03d0502f570a0": [],
   "u6dba5b9fcb17963d99f16e0b7aa30ce0": [],
+  "u6dbc1885520afdf5ed8482a2173883f6": [
+    "Phattaratida"
+  ],
   "u6dc0a045da3447df57975b9a94f70385": [],
   "u6dc3491096314e439de97f7bfabd37e9": [],
   "u6dc34b3448516e867bf85eb49d78db88": [],
@@ -21411,6 +21249,10 @@
   ],
   "u6dee6a1ac75c7eeb4dda2c0a5b023597": [],
   "u6def421e2d92e9f7afac15da99ef4440": [],
+  "u6df02751baafe9bb77213ad54262d037": [
+    "🤍",
+    "🥰🥰"
+  ],
   "u6df0c870fda7622e97aed9d724a2b491": [],
   "u6df0e6bca1e3935a3d8f672ddba5f1db": [],
   "u6df106829f3efce1d7efa30311952418": [],
@@ -21444,7 +21286,6 @@
     "Kaew 🪾loli🪾🌿"
   ],
   "u6e0fbabc2f49f9a2027d784ed0c62d8c": [],
-  "u6e10d99d8681fb6c8e2dfbc7f4282db5": [],
   "u6e1236c54b50062858268118099d24df": [],
   "u6e136d80655f0624f02da0a74a43b602": [],
   "u6e1423f363dd469d41c96bc3bec95241": [],
@@ -21524,7 +21365,6 @@
   "u6e829dd145ac48912b13e24aba94a96f": [
     "Arachaporn.KK"
   ],
-  "u6e865b21b4aa9a88dec09a4c1e07f2c1": [],
   "u6e876d9d88c6ca1f3286b5677adaf558": [],
   "u6e88c01af2ad1c9560c76eb517e02184": [],
   "u6e897ab4806dcc3cde54b9db1849252d": [],
@@ -21586,15 +21426,12 @@
   "u6ec5e22dd1f66540424459004f439db8": [],
   "u6ec6d829585e7c63e085193589b722bd": [],
   "u6ec7731876b1f392b046e19b2cb4c912": [],
-  "u6ec8e942fa1cfa191b4aa7a3a89e69bc": [],
   "u6ec93af89bb3f672b1d61d1ffef71b48": [],
   "u6ec9b35542fd32d7842e5f4ce9406a1e": [],
   "u6ece44da90912a8e08c4d7ba263bd987": [],
   "u6ed1bd3d15f434b022e5bba46c6bdfef": [],
   "u6ed1cf7436b1e2e8555a4a7e8b7035d2": [],
   "u6ed1e552344a733cb47063a00d5b9a58": [],
-  "u6ed432ca8d6f20e40c2b8da385d33e4e": [],
-  "u6ed979785757c6363ae62133f578e00b": [],
   "u6edb028ab36b564bbd6ed06afd23f33f": [],
   "u6ede04ac629eff319a35954a3831de6d": [],
   "u6edf2520ebdb91cf367894e4794bc57b": [],
@@ -22002,6 +21839,9 @@
   "u707a8d01a25e806f25afcbf8818dc08f": [],
   "u707ac22494fc2b68fa80bfa9b5ab3c87": [],
   "u707adcc3fff1de3817de238cfa2f2db4": [],
+  "u707b68d2f5b0757570237c4c4ec9e310": [
+    "🐱 biwty 🌒"
+  ],
   "u707bcf472e0d2e4a16e715ffce568477": [],
   "u707db9bab2323b3f083d74dd2808afd7": [],
   "u707ed7428a56cd31bb2719c4219031b8": [],
@@ -22266,7 +22106,6 @@
   ],
   "u71c7205a92fea6e7eb4f9df9355bddae": [],
   "u71c7a7143829aede3ced0ce673ebf5fc": [],
-  "u71c846139cd964b2ba8a039be7bdbf67": [],
   "u71c9bfbf891829c868ab69cfe5a0532c": [],
   "u71cade518d0b4e22c4ea103e69539767": [],
   "u71cd076433b50e44c347a5664a28f327": [],
@@ -22336,7 +22175,6 @@
   "u722441b6b8171b43f5009a2facabddd4": [],
   "u7224ec1233cfb87397333a8de966c146": [],
   "u7226aecb4ee8492ac8492fa6d819df01": [],
-  "u72279547b545d26d314a68048f1e7009": [],
   "u72282d580af819b78a5a4846afeaf020": [],
   "u722c28b5aef44f5ccee37a2a8c50cf16": [],
   "u722ce4f43be399ef21722f3e05a5cfcc": [],
@@ -22590,7 +22428,6 @@
   "u73608d38941eb09f4a8e1978ab566aeb": [],
   "u7361f115bf75f16e583f354f7e68b8f5": [],
   "u73622fc70021661573add4bc19df30dc": [],
-  "u7362f349a35fb6afbcff37a577fec175": [],
   "u73653055f3121bcf535703a9ed0958a1": [],
   "u736595c3c5b85fa811582729bb104595": [],
   "u736bbb9e83b96643801c5b6facc2a80b": [],
@@ -22663,7 +22500,6 @@
   "u73da3b4bea351bbebbef98e9556d6aca": [],
   "u73db1efeea7cb2b380ed7e3f0e511395": [],
   "u73de2fa4f3102c2a31a49b4e5c97e6d2": [],
-  "u73e111b8f6f290397a088d1f1b315312": [],
   "u73e1ee5b3e66e272ab47806b7cec618b": [],
   "u73e221066690d4923a2232ba961b8e18": [],
   "u73e2c5ef29e404e0f2077b9c95ea1dea": [],
@@ -22709,7 +22545,6 @@
   "u740e356a1df0591ec0dd7f1fdca0b9fd": [],
   "u740e374321ba49b0e3681b0d0330bf1d": [],
   "u740eded5d112acaa5ab3d0815a6160d1": [],
-  "u740f1bbbf249260ce2bb8b9410666494": [],
   "u740f3bf976e1142b377f3582838837ef": [],
   "u74175515b4509008de84c7f440832aa4": [],
   "u7417b03730c58701db6a319928bd5e09": [],
@@ -22732,9 +22567,6 @@
   "u74305328dc6a048c9ce44ff3edb09422": [],
   "u74319d9cfd2d4f7331aef60818f92181": [],
   "u74345b2c5fe61bc38c632a00d99f23a9": [],
-  "u7435ea37f568ba7df46839a4d54d4139": [
-    "นู๋เล็ก❌งดแอลกอฮอร์❌"
-  ],
   "u7437908f592cd686e462837561215c97": [],
   "u7437f69166cbc9d87d1c6829ebc1a564": [],
   "u74385f4334b3ed2b676a9d3bf30a3b65": [],
@@ -22852,7 +22684,6 @@
   "u74c3b25f74eabebbb3d1710d858c3f73": [],
   "u74c469c4e184eef743ab5e6d81dc4015": [],
   "u74c5170120561118605b8fd9859d70b8": [],
-  "u74c5c985e1d563be1aa6422387c21a27": [],
   "u74cc0213379dc107e069254ebd461a35": [],
   "u74cce9d527810b5d1b86f95cd61640ef": [],
   "u74ccf7bceee5f3e3ffad2718524647c3": [],
@@ -22867,7 +22698,6 @@
   "u74dfb2c01434f387b50d3955aed58c6b": [],
   "u74e09b4e83afbd12d69c1f92cae35873": [],
   "u74e2080d6faacceb96e451fa14ae8aa1": [],
-  "u74e2900a76b2dd7978d620e09822da10": [],
   "u74e2fd457d5080e75d58ebeb42b7e43f": [],
   "u74e321c45b635e7007c05b7b3404dc80": [],
   "u74e38adeddb36a1135bc7bb651ac100e": [],
@@ -22958,7 +22788,6 @@
   "u75696e5a513fff98127daf299790a1bb": [],
   "u756c5bfd0bc9419b59041b69320e662d": [],
   "u756d9139e9de69f618933e91e8e8bb2a": [],
-  "u756d9f7f571f04604b4e02a6e1c48338": [],
   "u756e666881bee073b9cdd2393eddef0b": [],
   "u75705e58d5c6155f43e47269e970fc4b": [],
   "u7570a87b81a8c69120baa9bb861f33e4": [],
@@ -23236,8 +23065,7 @@
     "ปา โชว์ กลับมาแล้วก๊าบ",
     "ปา โชว์ เข้างาน ลพน.",
     "ปาโชว์ เข้างาน 11.00น.",
-    "ปา โชว์ ไลน์มีปัญหา",
-    "ปา โชว์ หยุดงานนะงับ"
+    "ปา โชว์ ไลน์มีปัญหา"
   ],
   "u76d812e4d1cb58f2f9edde820d07ff3e": [],
   "u76d8aa218f13282bdc50d5954b8f4925": [],
@@ -23284,7 +23112,6 @@
   "u77191b31e640483954a4b4aa035b8526": [],
   "u771d16887f578f0b64cea7bc6cbda204": [],
   "u772028b9e1aad31cb7900610b72baf7f": [],
-  "u7721c237774bae511170526cf72fb8c1": [],
   "u7721c2648bbd74911ef7122f26c001a8": [
     "The Spectre"
   ],
@@ -23311,7 +23138,6 @@
   "u77441b998061a21198b047c68d24a896": [],
   "u7749851d65a22abd53adf046e47a8378": [],
   "u7749d2ffd2ae7e849bed9b25002c5edd": [],
-  "u774ca497942bf65035a69124ad3a1102": [],
   "u774e7d19cb0675e7e5aae08b7804fa48": [],
   "u774fdead8ca4e4e62fea5e3fc39185dd": [],
   "u77513e0085587bc62297488af4653f48": [],
@@ -23437,9 +23263,6 @@
   "u77ffbd20d0679b99a17bd80f9e061041": [],
   "u7806c2748ca224216293211bcea1b88d": [],
   "u780a988cd4b494847d2a3d8ef3059806": [],
-  "u780c1a4ea79bd1b092312ae77a0a6f21": [
-    "Jilly Muay"
-  ],
   "u780d807906bbc8d5deb1231783e74324": [],
   "u780f1647eeee9f4ed9c0f1bb7dadc5e5": [],
   "u780f26c21a5e6dd53e2dbfc1b8a5e84f": [],
@@ -23581,14 +23404,9 @@
   "u78bc0b65dd6dbb62623f1e6ab8edf1fc": [],
   "u78bc23d2d7c758d7e8588785cabd867e": [],
   "u78bd3a200ebc28f058992d830dd25a62": [],
-  "u78bd574098b15f32bf467f2cd6fdcf53": [],
   "u78bebb21f1511623f72d764798aaa064": [],
   "u78bede521be5b149532174ea2dcfdd39": [],
   "u78c22fb8b23e31ebdad125ac67fd6544": [],
-  "u78c38928e772072f75bd86b15e05310d": [
-    "M.MOOK936",
-    "M.MOOK36"
-  ],
   "u78c6f82608ec6cb502e53ff33b1eaaf1": [],
   "u78c99a0bc325dec66b055f86f0b15a4f": [],
   "u78ca5f534f3468e814c18612ff63116b": [],
@@ -23685,7 +23503,6 @@
   "u795c2bf41647a2faacd63521c80c7736": [],
   "u795c4c428730961a33b14c36226c5243": [],
   "u795c4fc115a910284a7e4a7d71297948": [],
-  "u795ce47ff78a244deda50c2e5dbe8040": [],
   "u795d09e8fb9d8322b4dc6a754ece7bb3": [],
   "u795ffe7c7a4c09821b0d6ca22a4091cf": [],
   "u796386fdf354bafb8fc54d20d14b81e6": [
@@ -23726,7 +23543,6 @@
   "u798668162d7f4ebd79e9e8041df5a8f4": [],
   "u798803206a690e19b934db5e08bbed74": [],
   "u79886ea7c9d97ab41cf41f02ffc9c14a": [],
-  "u79891fab1ab1d1e27fee7ecde6aba1ca": [],
   "u798a3617f2689e5405588c86b75292ae": [],
   "u798a4fd5b04732c3a43622bc50f3e512": [
     "รักแมวทุกตัวบนโลก 🐈"
@@ -23781,7 +23597,6 @@
   "u79cb6bb781b3c0accb87021e5cdb279a": [],
   "u79cba17dd5ec6667fbcb625b4082e83c": [],
   "u79cc7412b128e588f0513ee077dd556f": [],
-  "u79cd119f48d3d36ab67d06eb2081d940": [],
   "u79cd33a383681ef9f84b136e5f01b74f": [],
   "u79ce0399a5f074ef0612ec4c771a9141": [],
   "u79cf6fcdfd66b6453ad6f3a9d0dcab9b": [],
@@ -23851,7 +23666,6 @@
   "u7a1b797fba40a31b7759053ec09e7ba7": [],
   "u7a228709737a2172dcbd0b8485efc02b": [],
   "u7a23e7e280f708fa0699b0abc40fd6e9": [],
-  "u7a299e734f73a6de4743bb2d9bb8fd6b": [],
   "u7a2b7f1846908ab496d8b2d506c932aa": [],
   "u7a2d9c181a7f4f3ed77adff8fdc6fcec": [],
   "u7a2e1e53afc07a9c24001b4750eb5205": [],
@@ -23917,7 +23731,6 @@
   ],
   "u7a8b59bf93e8a3720ef127f50c98d407": [],
   "u7a8bfe16001c09c4ea9c14bf28762227": [],
-  "u7a8c67b001cfbd4b19595245e13e764a": [],
   "u7a8ca5f23e3b591e2b2b6850aa3121ba": [],
   "u7a8f010edfdd84317ea80d4e5d1bb56e": [],
   "u7a916d3b9c7c11d10d4a00e653acefef": [],
@@ -24196,7 +24009,6 @@
   "u7c08239ba2e8ca85417b66d7533eb6a8": [],
   "u7c0850f9ecf8de8d7fe47438f139aa09": [],
   "u7c085873704dbcc71e0ed48287ff395d": [],
-  "u7c0dd0570b3c399bcfc31e0a979bdd3a": [],
   "u7c0e6ca30b4fd31f7a8bd3999e8f61b4": [],
   "u7c0f7a3832836087df02aa83eadbea2a": [],
   "u7c0fabb57895b5b50c834a0c80b7ace1": [],
@@ -24214,7 +24026,6 @@
   "u7c248b40f7d42906cf9cf4be7d174423": [],
   "u7c24b666759e5925cba0b9f607268e1e": [],
   "u7c24dec7a5925ac84f2d34f0c52b961a": [],
-  "u7c26e118134f0ad0e23fe30a0da58872": [],
   "u7c2a3a3264931ee90b16816dcba19ba8": [],
   "u7c2cf4cc8fcbab6152113133338bca62": [],
   "u7c2fe3f990ba133cd0dce05cc4b6d68e": [
@@ -24355,9 +24166,6 @@
   ],
   "u7cd2b82eb2e2777364adf561382418b6": [],
   "u7cd3adcf1fa3b448721d3a7316ef3f0a": [],
-  "u7cd4ebe9f714430b2fb54bf4518eb05a": [
-    "รักตัวเองไม่เจ็บเลย"
-  ],
   "u7cd8069f9319e5cc7b533f2b938abebd": [],
   "u7cd954883095acec79dcb73a5d038915": [],
   "u7cdc5195d1bd22d0b8178de982db0233": [],
@@ -24407,7 +24215,6 @@
   "u7d0e9242ec14a477eb7076e2fedf6314": [],
   "u7d0f63a1c3bd4cf72779e3d676c63712": [],
   "u7d10d85750aeb57c97c342f39bedac9b": [],
-  "u7d1130ab4156507a8c4f4c6d73537b4f": [],
   "u7d1346d68ab61abf0c43dc703fe0eeb6": [],
   "u7d13d381411d62a842a8256d2a273a68": [],
   "u7d147d174e426315e8337d77bb28a4a6": [],
@@ -24417,7 +24224,6 @@
   "u7d19433ede66d98b91a47c2b859416d1": [],
   "u7d198abb3ea586cef526588b40cb7035": [],
   "u7d1f0dd7b45e5c3641b62ed8a35bc1da": [],
-  "u7d212247f63a259718282a2f885ca124": [],
   "u7d228c4febfd00286b6e108a700e8a21": [],
   "u7d24a46632a109180edbf1daec6d1b39": [],
   "u7d25b07f21058cc3a430cbe660565d42": [],
@@ -24450,6 +24256,11 @@
   "u7d5b083d20466b4d1957b1a694410c95": [],
   "u7d5bf2b1ad1c1b0dc2771b6a426168b8": [],
   "u7d5c20d37d17ec102b090edd8f776c64": [],
+  "u7d5c2b5c1a9a044d4a2b3e656a2e6f4d": [
+    "Noy",
+    "Ban",
+    "somsri"
+  ],
   "u7d5f0d1fb5353af585ad1a9460f823b0": [],
   "u7d61155e8e45dfff3f9fbc12a7289b9e": [],
   "u7d6214c18943acb1bf90d063cef36de3": [],
@@ -24603,7 +24414,6 @@
   "u7e062ba4ef7de2a8fe5f69def90432d2": [],
   "u7e082df93215a611a8efc9b5cb6e9053": [],
   "u7e0840f553eacb81ca6c6ea56c3027b2": [],
-  "u7e0e04fd8a4846a5f36bb484ae5a3c4a": [],
   "u7e0fd1cd98e6436665cb53c85baa4d16": [],
   "u7e1242127344f95f8b5cba0a9f407e95": [],
   "u7e1575e40eb78718405d2873e5400b07": [],
@@ -24623,7 +24433,6 @@
   "u7e2a2e1cf2c00e8b6ca7c2a17d133974": [],
   "u7e2cdae3f5f7363b97e39ea9c23c3d79": [],
   "u7e2d6b3e44e75ba9045406a16936e790": [],
-  "u7e2d89d47aed8478ea947096284c7cb4": [],
   "u7e2e60e86cc40ca1dd4c9617877bf0b2": [],
   "u7e3242fa5b834a810ad28d0a1cb4da32": [],
   "u7e33521c741c01a038dd78f71fe3a4c5": [],
@@ -24766,7 +24575,6 @@
   ],
   "u7eb8c18b6a83b620a15c86678f2e1cfd": [],
   "u7eb977dc0a5d70c2ee834c324c93f880": [],
-  "u7eba7ccd49e28446484638a73f4908b8": [],
   "u7ebdc637827d0ca0209b5e20c9f424f3": [],
   "u7ebe05d6b0fd30de802ae6f4361414e5": [],
   "u7ebe5becc394a55a91a3aafb244c2aad": [],
@@ -25044,7 +24852,6 @@
   "u803d90618a8ad0223228dcda4ba41093": [],
   "u803e13e358b5b167df74eb527033032c": [],
   "u803e25d24b44c4a792f2886c2e2b8e9b": [],
-  "u803e3a4a755df758d479e9721f91cfa2": [],
   "u804271e02e1bfc29f267accc067ab717": [],
   "u8042786c95fbf93a7a497706fe1054dd": [],
   "u8043e2fcc986193403721c60747a4f12": [],
@@ -25106,7 +24913,6 @@
   "u80868fae4ee145513cdc77ca7337d677": [],
   "u808711a618fade311a7cab87b1dc268f": [],
   "u808828c618b3cd2a685230e1b8c7ec73": [],
-  "u808883f68c23f892eb84f4d0ef6b0739": [],
   "u808b22f2504c36a087056b9b93563399": [],
   "u808bfca7e76df22e60b0f3002f22efd6": [],
   "u808d31577f61b7a366664d52e1c556e8": [],
@@ -25208,7 +25014,6 @@
   "u8114186fb944126772de173400c835f6": [],
   "u8116e0e8ce00f9a20c0b39b93e7a102d": [],
   "u81179b2302ea60892caa9e0947d3380d": [],
-  "u8119ad75aa212cbe159cc759471f5ff6": [],
   "u8119cdbd78ee283d34315deddb5e3fb9": [],
   "u811b5219239f30d1ebf289936a0baf2e": [],
   "u811bf8fc1c24a39fdebf4787c1a7be16": [],
@@ -25259,7 +25064,10 @@
   "u815cbc5972992c6633d679ac2416a0dc": [],
   "u815edfeea0e1755d39d4660518f2a726": [],
   "u815f07520876ff85793ac51791634d97": [],
-  "u815f67c9f3bbd6ecafc490e1c8c8bee7": [],
+  "u815f67c9f3bbd6ecafc490e1c8c8bee7": [
+    "M A C 3️⃣K [❌MN•M]",
+    "M A C 3️⃣K [❌MN•M]✖️HC"
+  ],
   "u816032c0401a48add2ecb62093c6a0c5": [],
   "u81617d06f1c254672436a2fdfdda8574": [],
   "u8164ab54e6894c920cdee8142612181e": [],
@@ -25272,7 +25080,6 @@
   "u816d55a768877fc18e30d3378f4e67fa": [],
   "u816e6025e7512ee3378a41b694300b0f": [],
   "u816e8cdaef2f4f87fce015a0e9f0bca8": [],
-  "u8172207a09c809d468b40d18e7cbd31d": [],
   "u817562d1a7b6ae874031082598e6d05d": [],
   "u817606ba689d8693910000554255c632": [],
   "u8176f2b3be4825821c4110db27f2014c": [],
@@ -25280,7 +25087,6 @@
   "u817b1c4db192f79e2d301b3a14759fd7": [],
   "u817e38c27c98a14bd24769e0a20bc80e": [],
   "u817e87c196e33fa4cd8db1a379686636": [],
-  "u817fab998e23399ca1d1aefd765c55ab": [],
   "u8180e1d44041a7739a3ba84e7a8592d2": [],
   "u818150b41a5585fec869b6516cba107b": [],
   "u8181a2884c847b6fb05c13030db1a066": [],
@@ -25382,13 +25188,11 @@
   "u81edd806dd79690e682c1776b895e7a6": [],
   "u81ede0303991846acf85b88a021eb6d3": [],
   "u81ee0845e66dbbe5a0b89e358c247a8b": [],
-  "u81ee715812ec669e7a6ef2d7de0d0d67": [],
   "u81ef9472f4e44baf2cefbf28806a3a7a": [],
   "u81ef9ca9b733d8b9d62dad342ee8c4ea": [],
   "u81efee2385606ef9cf50c02a7ffe99b8": [],
   "u81f72c7bac337d0270a6caa90255cacf": [],
   "u81f7bb9d47382872fddfc39cb6dfdc34": [],
-  "u81f98f942cd9988d8816823271eee4c3": [],
   "u81fa587be6dfcc8c239c8592549bc8a4": [],
   "u81fcf5cd45c02542562e52881db734ac": [],
   "u82034401f5d67fce1964768aba8f5eb9": [],
@@ -25636,7 +25440,6 @@
   "u83507f09cf6ebbc3922b1b499088af00": [],
   "u835175673a44fcc1f85a6c77e19d089c": [],
   "u83524f00510bdce0cbccc741dfd2f2d3": [],
-  "u8353481dbe398f30801c770f6458fa02": [],
   "u8354eaf1281f96e442641527be91b795": [],
   "u8354fcc3e5cdb9e548597db90bd8ab2b": [],
   "u83569f2f3090c8b77ce7bed599b90b2b": [],
@@ -25703,7 +25506,6 @@
   "u83a16f8000c0ba67fd7b4a8efd46805b": [],
   "u83a255caf6598385061d372ee718f77c": [],
   "u83a4116612f9c2f74f00ec634a495bb1": [],
-  "u83a54c89eecafe556a40688ae625fb73": [],
   "u83a7a591aee27a5a2ad88234601da269": [],
   "u83a841ff1361ca6de14cfdef6a64233d": [],
   "u83a8c522cc6fcca961cf274d97f9d23a": [],
@@ -25753,7 +25555,6 @@
   ],
   "u83db8a02b3f99c427165a01400502903": [],
   "u83dbb1ca9cdf01c053764050ffef84b1": [],
-  "u83dde75a57ba11f598c3ab9c3f35bfb9": [],
   "u83e04cb1dff4f7f777ccf8e3ba329011": [],
   "u83e18fda9ed9f69e9b069b969a24223f": [],
   "u83e24ad2fd21f452f5303bc19e41e84e": [],
@@ -25798,9 +25599,7 @@
   "u841ae94288469128ba21959d4aa78b65": [],
   "u841aed8bbe8b286d367ef327d63e2b73": [],
   "u841c0acec06e718a9913b138b08ec35a": [],
-  "u841c24f2d0575b7ca48ac7d851a020f0": [
-    "Lexi 🍒"
-  ],
+  "u841c24f2d0575b7ca48ac7d851a020f0": [],
   "u841dd00f199aea7bed4a5f6326775985": [],
   "u84200f26f102b8b699201086307580b3": [],
   "u842030299c75825094940b9db0240d1f": [],
@@ -26045,10 +25844,6 @@
   "u855e62cfb6b8750f173873f87f56443e": [],
   "u855f4a293873846f5b066d5ff0c27460": [],
   "u8561d2c24418e4c67f9510dfee7b016d": [],
-  "u8565c06a13edb71038677343aa24fcca": [
-    "Tanadej  47 78",
-    "Tanadej  478"
-  ],
   "u8568252e10f0ff8a78b4e0a07dc6dc31": [
     "สิทธิพร ประชีทุม"
   ],
@@ -26102,7 +25897,6 @@
     "[ℕ𝕋09(1)ที่]  [5]"
   ],
   "u859b5e0afd005a1477b5ac77148cd1ad": [],
-  "u859eeb466601e7913f6e9053070dab45": [],
   "u859f8ced7df33d26cc49c1989d240d32": [],
   "u85a00c8e035ce7c35673e5099510a267": [],
   "u85a0e58fca0e5ac902a6ba533ecb51c7": [],
@@ -26288,7 +26082,6 @@
   "u86871c0dc5c35940e567d334155dc4ac": [],
   "u868732ff23da6d9f4a8ff23fe2e7b238": [],
   "u8688bf2056a7a8ba2ac24db406705a8d": [],
-  "u868a16b9c2d74ce9a26cd7dcb43c5760": [],
   "u868c2b8e6acdc04a0ab2f526a05b088d": [],
   "u86938252bef2c9a110d0b373b4877aa5": [],
   "u8697651b6efd1fe9d278f0ce24af0d9c": [],
@@ -26311,7 +26104,6 @@
   "u86b5f5a615710c1e34c4d2fbee86f4b1": [],
   "u86b666cda866ca36071bcbc3e3f91d89": [],
   "u86b694c90e2719e5f2b180f890f89e88": [],
-  "u86b7827b7b2b7daacc1c1e9695c77a61": [],
   "u86b882721bdbd6c2192359cf78ad6547": [],
   "u86b973a14841ec5767735b6b226d61c4": [],
   "u86ba4cc510d406cbee77abe9be60bc7b": [],
@@ -26320,7 +26112,6 @@
   "u86bf1edb4821625a2ed1756d86b59bba": [],
   "u86c22a4f1f5addbac3c863ad1c9d1b97": [],
   "u86c2a4832e51fc4fd397fcd9c03bc0e2": [],
-  "u86c3040b57f59d3e635696e380bf98dc": [],
   "u86c31bf0ced0a51365268c1d7f463d34": [],
   "u86c4b6a6c05cbccbdaaae2c1f4e1612f": [],
   "u86c578e5312f29e631e325185d14179b": [],
@@ -26358,7 +26149,6 @@
     "มังกร 🐲🈶"
   ],
   "u86fb649c4e8640fe795c79fadbab210d": [],
-  "u86fe68654094362ee94a95ed1fdf46b9": [],
   "u86ff7cfe71e7e4229c6a8436a637287f": [],
   "u87024c3b2f1bf5fd234e624623d48dd2": [],
   "u8702cbe4cef35f394a57fe0d8a52ad0d": [],
@@ -26466,7 +26256,6 @@
   "u877464d3e328a907fdade44a6f8c7e70": [],
   "u8774f6501bef74eebc00161ec6939bce": [],
   "u877640c7942db2c14910cffd132a6a65": [],
-  "u877669327db4564b8f884d0945cfbead": [],
   "u8777d83da6edb85d1724d86e4dd74b12": [],
   "u87797fd0c5d8c06aaccfd0eb7414c170": [],
   "u877bf410c139e884e12b64dc087814d1": [],
@@ -26511,7 +26300,6 @@
   "u87be2efa1afdfe5130ce12d0e5d03406": [],
   "u87bf82bfc8894e40868c64d5c92ffde7": [],
   "u87c009f268af4f4fe337f09f3f872df5": [],
-  "u87c1c29d5fb326daec8251b8f8788f21": [],
   "u87c230e4a22b569fc250d4f2c8021c5e": [],
   "u87c4a2b81002189718b0cdd320ae6f59": [],
   "u87c6ef50d9672c5f16ff488fd41b86cf": [],
@@ -26669,7 +26457,6 @@
   "u888f684f51c8cbfbe6c1c1d9feb03505": [],
   "u8891d9f175b4bab510f3641d7a729b98": [],
   "u8892112167869146f58bf0bf9313e969": [],
-  "u8892705fe5eac5be965bc976d26887c3": [],
   "u88941ab2dfdda8e6f55dab3f475386ab": [],
   "u88975af159c49ddf37f42b8c876ee586": [],
   "u8898d9005d4415f9b11b8e651b1f9514": [
@@ -26688,7 +26475,6 @@
   "u88ae894ac906884c4e95e05be7b0b349": [],
   "u88aeaf5cd453032b1b082c353dec172f": [],
   "u88af4472eb2e489ee40ae08b8f7211f9": [],
-  "u88b3396bf1521eec119c38758b451e8e": [],
   "u88b43fa341993129468f10a25aff5486": [],
   "u88b63ad2ec78952889aac373ab8fb7a1": [],
   "u88ba0c652b9c8c2fbe74904ecf4cdcc4": [],
@@ -26750,7 +26536,6 @@
   "u8900c96bfe75e3094e2d7e55079087f0": [],
   "u8900fee6aab8312c004ffa0a46d40b6e": [],
   "u8901a2ea8e4eba048a6f6beec0bf02c0": [],
-  "u890233b77f8914088455d4150090d677": [],
   "u890467fd03233947ceb7ee9b2634f237": [],
   "u8904e136d71675cf9e2eafcc22194f60": [],
   "u890686ef960c0f06bcafbd48ea9520ca": [],
@@ -26766,7 +26551,6 @@
   "u8910eef2cf9e878e75870ba5bdd5a9a1": [],
   "u89121df771f740b6cd11857968d3bca2": [],
   "u891423ef687a5120ca183f8d56788847": [],
-  "u8918b96e4e530dc7b04a16a3e4d741bf": [],
   "u891900f9dac04c216a4365f205f42143": [],
   "u891a444fbbd60c7e36fbf7a22ddc70fb": [],
   "u891ade9a1e6b0c2ef0fd6c8363651674": [],
@@ -26825,7 +26609,6 @@
     "羅恩樂"
   ],
   "u8950cc3446f4bf4df20417b9ee591dbb": [],
-  "u895105cc7a417cbec4195c60c967aaff": [],
   "u895219aaed3cfe06df9b74512240410f": [],
   "u895331d77acde307e400dde2853dc55d": [],
   "u8957780ea886e57a3a8687a24c4f6c94": [],
@@ -26952,7 +26735,6 @@
   "u89e0e2435749b4851333d39eec1010dd": [],
   "u89e29af19c1c232df938360323209f97": [],
   "u89e2eca44705530534ee8160ad168a9e": [],
-  "u89e4fa815cef772c92ab10da8da88c64": [],
   "u89e90c2aa2868f7c7beb8a9902fe0341": [],
   "u89eac2fd8dcf7126f61e99e28f57a23a": [],
   "u89ef0ae826cd4044f7d17be025028281": [],
@@ -26997,7 +26779,6 @@
   "u8a1a2dfe936ed866e5936b78e3812ab2": [],
   "u8a1a95f1d62a8e3d05b85970db5a3a25": [],
   "u8a1d14d7f648537afcdbb6f87e23a1a7": [],
-  "u8a1d807a6115db1a8967d1b2ac4a2f2d": [],
   "u8a1edad5b850b1ea27df4195cbfe3e03": [],
   "u8a1f7b3d96fa87205f6775d060bf64da": [],
   "u8a2666a36fe4037ab223cc3b5c9ae508": [],
@@ -27046,7 +26827,6 @@
   "u8a72bfc66013d5d0fed24af8824e4f89": [],
   "u8a73de29af5b92056e986ceced11ed67": [],
   "u8a73e0570dfa0f1bf248c3d4fca30622": [],
-  "u8a748cdb100fc2e87138ebf2236e6663": [],
   "u8a77a50e5fc84433e14655355a0bee75": [],
   "u8a79832c2eff86e28523e3b12070e427": [
     "Vascgo"
@@ -27184,6 +26964,9 @@
   "u8b283deb93b7c3e60d7ea4db7a8025e0": [],
   "u8b29f67c9fc08a9b813c7a272ca2fb2c": [],
   "u8b2cd0966c4c776985b3010bddeca90a": [],
+  "u8b2d0af3ea270e4c8e2f16b46f87beaf": [
+    "คุณนายแอ๊ด"
+  ],
   "u8b3006eda9cabb27eff9f8ccf125890a": [],
   "u8b3516e56d30183930c78b99052bf24a": [],
   "u8b364eedb779a2e3bfa6c2a83cb4820c": [],
@@ -27200,7 +26983,6 @@
   "u8b48d24117fd7cac574c9a3b5724714f": [],
   "u8b4a347fece26a27daf5dc4b7f726a16": [],
   "u8b4c405602084bff2eca2d1751de74dc": [],
-  "u8b4c94a6fe330b377cea9048928603cf": [],
   "u8b4cd84494f7653c39a83f9dadf82170": [],
   "u8b4e5bf86716454279a1c8348bd27f11": [],
   "u8b4ebab2544e3348fa624aaaf36ee6e1": [],
@@ -27427,7 +27209,6 @@
   "u8cb283c0af4058f2f7ffd135e77ace5f": [],
   "u8cb3b8306360f8246f9c0cd380835eb7": [],
   "u8cb69fdf8caeba12c98ab62446d3d2c4": [],
-  "u8cb6b5a4302e0d7b2ef348c8b2f7b961": [],
   "u8cb9519f0edc1f9efa2bde5f7bac6ffa": [],
   "u8cba13c96eb83583fb75ce5952bcecd7": [],
   "u8cbd8207abb924749df9b288977b311a": [],
@@ -27488,9 +27269,6 @@
   "u8d06a19ec3930b30a741ee9e627ce77c": [],
   "u8d07ac3b9cc00d82f1252a51009600d8": [],
   "u8d0cca4d4e49cb91798f10fd7a15e2ec": [],
-  "u8d0d0f72e48f020e0c7d40c05d28689f": [
-    "."
-  ],
   "u8d0db736350e8e64aee3ae09667aa996": [],
   "u8d0dccb6afc4e5334b1b6d70bccbc717": [
     "หนึ่งแสน วังทอง"
@@ -27582,7 +27360,6 @@
   "u8d7ef811502354b1252ca4a84611c510": [],
   "u8d7fd46bdfeee50c979e09a8cca539a2": [],
   "u8d80ab070066e821c6270528cc094570": [],
-  "u8d84c74841f5f8efaab9460ab855b3b9": [],
   "u8d88c39b9a0866a078fe2adcc847acb8": [],
   "u8d8937cd24d0029e1d6dd6245cfcdab8": [
     "PUZA~👩‍👦❤️❤️"
@@ -27636,7 +27413,6 @@
   "u8dcb247a5db9c324a45960f33223f2f5": [],
   "u8dcb4e8c15a5634dd146b1fb84bbad36": [],
   "u8dcca9ecd3abf02470bee959567cd85e": [],
-  "u8dcd8bbc7f18908bc6be570010c9470f": [],
   "u8dcf0c95d1d22893c642137c26dc70f3": [],
   "u8dcf1c5da5cb8380008dd201703bb230": [],
   "u8dd240e9bda803545648ff6c960ee138": [],
@@ -27693,7 +27469,6 @@
   "u8e15285fa39b7880232d42bf87e98dec": [],
   "u8e15b532819963723ebf0c9dcb465aec": [],
   "u8e1e3bdccc99268893b4fe59f84a955f": [],
-  "u8e1e8a373a63c531fe2589dcfd4e0526": [],
   "u8e1ea10e73809e23f39b44a0673c7637": [],
   "u8e1f4bd33ebc5419acf57df6ef03f128": [],
   "u8e1fea85354fdf817501f9b97270c61c": [],
@@ -27706,7 +27481,6 @@
   "u8e29a6eb77b2d26057b3c5f35745ab63": [],
   "u8e2b256c2cc01603525aa90adde51c11": [],
   "u8e2ba246551ed361669f50ea3ed6794c": [],
-  "u8e2c52735621b48f681f7ebc14a0ce84": [],
   "u8e2c64799c9a145992552f0194318dad": [],
   "u8e2f3a81fcfbda695d2b6077055e7718": [],
   "u8e3274e617fcc45330b625fedb001c1c": [],
@@ -27771,7 +27545,6 @@
   "u8e827059796a4bf8ee2041628fd6e06b": [],
   "u8e8375f2835476f19e6860ce53ad103f": [],
   "u8e84b3c220fb4e3323ad3b035779c8f9": [],
-  "u8e87813e8a11317b1e47557b8dbd1db7": [],
   "u8e8784ce38e4e8314de7c99f79d21e2a": [],
   "u8e8a89162aacbc28e6c2da6fda7297c5": [],
   "u8e8bab4cbbc15a245dbb07a333a44f88": [],
@@ -27849,7 +27622,6 @@
   "u8edfdd2b65b7fafa1b63fdb0d3d80fda": [],
   "u8ee2cf95d5bae590cdad42c2be841959": [],
   "u8ee495f2941960fb398c8b4b2cbd2b71": [],
-  "u8ee52e52e7d769d81a6de895d589a1cc": [],
   "u8ee7b1c7f984ce198d12a471de41ece0": [],
   "u8ee7e9cea8ba241d106bf13edd37273d": [],
   "u8ee8439022791e45e0cb1370dbb16531": [],
@@ -27866,7 +27638,6 @@
   "u8ef6777bb4b567a3a7acff4c5acd78eb": [],
   "u8ef7f99e77ad0db586a75d4786deea75": [],
   "u8efa973f68fe6b3ebc7282c9ec87653b": [],
-  "u8efb8e65d7d2342afbec041b1a983b1b": [],
   "u8efbc7c401de61015fd015e61043cea9": [],
   "u8efc3e3279b6ba1797f206680c681b3c": [],
   "u8efd235abcf2af7762c469a83e7281ed": [],
@@ -27877,7 +27648,6 @@
     "หน่อง**19"
   ],
   "u8f0004989916493f6d65adf43ec153a7": [],
-  "u8f0069d006b44b256fd60cad430cf802": [],
   "u8f010db5b46d344da4af7c06cc2d0c35": [],
   "u8f030df95258d431e1285ca82a1608ce": [],
   "u8f031d026230f77eb6f284f56f28044c": [],
@@ -27988,7 +27758,6 @@
   "u8f7da73b86badff7ec8ff45dc15004c2": [],
   "u8f7f33fb8ffdbb289bfccbd5813c0611": [],
   "u8f7fed33560b049de0d368fb47673c0d": [],
-  "u8f801e114b91686122ed664dd76470c2": [],
   "u8f822ea4ba212f5da97594aeebf843e3": [],
   "u8f82c57c1168122430995bb00cfab47a": [],
   "u8f84531ec79fabaaf484178c5b601129": [],
@@ -27996,7 +27765,6 @@
   "u8f89140ca60d3d4ce85b0738d178ce85": [],
   "u8f8e158bd4e847459dc2677e28615fc8": [],
   "u8f90459bc53acd17fd5b7cc73db1d144": [],
-  "u8f926faf548a7f117425f514d28e407b": [],
   "u8f92e8a42ea948fc201b06c91d6c8327": [],
   "u8f93610288ff6a11bbaa17cc34960c87": [],
   "u8f9423133a4bb2901c651f3225c8954e": [],
@@ -28110,7 +27878,6 @@
   "u9041b4b69210d46812031d7e8f148fc7": [],
   "u90429cf5088753154eb2e4e5b5363d16": [],
   "u9043786b7737c58ae705626c4083b00c": [],
-  "u9043cf35a277bb302c0b6dac1cc8a218": [],
   "u904742af9a975b9dbe9dc6a906a04196": [],
   "u904750947335e74adcefa60f21f6180a": [],
   "u904773e93ba1e0491d0d0934f7cdf4da": [],
@@ -28167,7 +27934,6 @@
   "u90850804d1666e008a57a805c15578db": [],
   "u90855d94d6c9dc0d970198b8b7a3b956": [],
   "u90879fb5c6310a20e85d99e4780d579e": [],
-  "u9087ae036b14d879d570e94e0b59f9ba": [],
   "u908aa0b5c7084caa9890e8c1447ff77a": [],
   "u908b17aa638a1ea79af8a9528a85f4c0": [],
   "u908ee25b0fd6a9e8f128195904ebf167": [],
@@ -28399,7 +28165,6 @@
   "u91b6b341185e1541ba71e2eb21fbc334": [],
   "u91b6dbe5108be450fb1470c93b4ed7ac": [],
   "u91ba663edf75eac844b641471bc67c4f": [],
-  "u91bb6f43f9b2f49ec846952914cc3e83": [],
   "u91bbee4c0829c9a83b15a9d46d1c56d7": [],
   "u91bdfe556c64f8f726166ffea7c0b963": [
     "𝖈𝖔𝖐𝖊"
@@ -28511,7 +28276,6 @@
   "u925f8daaf96bcf050a56c227f1545d55": [],
   "u92606a3a8056f7d14b9cffe76a0543dd": [],
   "u9262e6ab28855dc76c1d36ee5a2a5b1f": [],
-  "u926430deeb7754a0f80c76cfa3803109": [],
   "u9264eea0378a63534ae894eb0e8a59d8": [],
   "u9266070c185c2f83ac3a3cde9fa48842": [],
   "u926735a0c8c179178bc1732d0b9bb5e0": [],
@@ -28572,10 +28336,6 @@
   "u92a0d32fd9f6c58dc024fd55b6af58b2": [],
   "u92a29cea845830b5f96052aa28305526": [],
   "u92a8109dcf57a52ceee0099f0aaedc4b": [],
-  "u92a83c9eedc8993db255b73e6b473a26": [
-    "Nareewan pop",
-    "💮Nareewan pop💮"
-  ],
   "u92ad362b72761957bed0a0937c55f734": [],
   "u92b087b37b51ce4a11c95fde0e3d3ca3": [],
   "u92b146e4db5cb188b761b85db2601e00": [],
@@ -28669,7 +28429,6 @@
   "u931fb8a68454ddc23f5a903630dd9db1": [],
   "u9321416e53d7e2abf8cbede3e73a4a7b": [],
   "u9321f37986eec54f096767c6dd8f2c19": [],
-  "u9322dcf31a3bce17ebc12318dc495d54": [],
   "u93240dada0788ced897ac32b28054c85": [],
   "u932643ec3e24f509958e360dec87c799": [],
   "u9326b73e57df5502ed7090aba691000b": [],
@@ -28735,7 +28494,6 @@
   "u9381ccdadc5b34a0449680bb01ec1d73": [],
   "u9383907ab5710ba4641c2f749f4ac191": [],
   "u9384b3d2ea4055f024c82600c7fd8fb6": [],
-  "u9385dac2546d48119d1d265de8d3239e": [],
   "u93881e9aa3ce1a87196affd88ac167a9": [
     "รวยก็คน จนก็หมา"
   ],
@@ -28746,7 +28504,6 @@
   "u93920a26debf600fcdd39aeaa653f0c3": [],
   "u939222d0288ba9bbfc0c2a393e3ca0cb": [],
   "u9392d31e4a3e6659bed699818ab5a697": [],
-  "u9393823ee51ad04f04e0853e3b0dea78": [],
   "u9394b95967ee74dbf7238331ddf0ce3d": [],
   "u9394df5d48efed908bfe66f0ba7fc39e": [],
   "u939579eee88d308b4ad37237ef3989dc": [],
@@ -28822,7 +28579,6 @@
   "u93e4ec3d2ef4cec12d4218b5f0e60c82": [],
   "u93e63fd798ea4b46936ad559187f8d94": [],
   "u93e9137f12e201ebf888329460b96781": [],
-  "u93e9c272dddaaa1fb849332588e3940a": [],
   "u93ea5dd538f8f7af0b95df1b74193619": [],
   "u93ec5982ae70b20b130a4bcecec2a5d9": [],
   "u93ee45b1565b1aa478fd7c3ebb942b78": [],
@@ -28880,7 +28636,9 @@
     "Chada.Chä🧲💰💵✨",
     "Chada.Chä💖💸🌈",
     "Chada•Cha🦋🕊️",
-    "Chada•Cha🍉🫧💎"
+    "Chada•Cha🍉🫧💎",
+    "Chada•Cha🌼💛🧡",
+    "Chada•Cha🌼🌸"
   ],
   "u942fd0ec0f0efb2bfe2ad36ea01ed207": [
     "FaMOuS TriGgA1- 25.9",
@@ -28891,7 +28649,8 @@
     "FaMOuS TriGgA1- 29.2",
     "FaMOuS TriGgA1- 29.3",
     "FaMOuS TriGgA1-31.8k",
-    "FaMOuS TriGgA1-32.2k"
+    "FaMOuS TriGgA1-32.2k",
+    "FaMOuS TriGgA1-32.3k"
   ],
   "u9430d18ea3e716639a9b2b3c06443b78": [],
   "u94335ce55db0e935978951e8208899ac": [],
@@ -29006,7 +28765,6 @@
     "เลวิน 🦒🍎🍥"
   ],
   "u94c92781599110a54280d93f166815d8": [],
-  "u94cfd6dbc38c66db8b10a54e8b809989": [],
   "u94d4fa8e3d804a9a3c1d4aadd5d2eb31": [],
   "u94d6486795d76929edce7fce5e741b40": [],
   "u94d7e8642b2b9f7b0309fe0f14a2b0c7": [],
@@ -29041,7 +28799,6 @@
   "u94f96db032d996e4905e215625a2e960": [],
   "u94fc164bdaf838137766174da8ba2c08": [],
   "u94fcb089092c9d4d23ba16de3c314a06": [],
-  "u94fe3003ac05561637e2e0b0570e3d3a": [],
   "u94ff2f61fbcd595e195593bc899e1c13": [],
   "u94ffeba3f20679fc102bd20385f3ba1c": [],
   "u950018a0dc47c1e168da56b65530e261": [],
@@ -29079,9 +28836,6 @@
   "u952519796a7851701a051dbed6ad0c63": [],
   "u9525439a564dec7f4e7bd07fbe106aed": [],
   "u9526aa8f743e6710adf0fb8bac72f1e3": [],
-  "u95289a6e3a88fac8acbc7e68f786081c": [
-    "🧿 Siriyakorn 🧿🐯"
-  ],
   "u952a37e4bb401c188f1eaec497c7bc6f": [],
   "u952e01d0a60ba4bc345465e4f6bbc74d": [],
   "u952ffe452469c924fa0acb088943de10": [],
@@ -29175,7 +28929,6 @@
   "u959d14708477a62b3a00d74266a73ebf": [],
   "u95a102655e2c86a2b3d2bb7cc81a186c": [],
   "u95a3119325d0bd011c091129bdfcb8a0": [],
-  "u95a40da6b2052dff2550bd08caea6cef": [],
   "u95a788349b4326c0633078df71c896c2": [],
   "u95a8072c6a41ce9bed677ee6541a7c5d": [],
   "u95a8b6a52d4340efce9b9218839f0a21": [],
@@ -29263,9 +29016,11 @@
   "u9606e36fd70302ca1b06dde1739436a7": [],
   "u960821cd9eeaad5d31cd94888d6a38bf": [],
   "u96082c415bbf5d0fbd439b4c4b024c1d": [],
+  "u9608601153d2d5728e5797e4535902a4": [
+    "Yo639🤍"
+  ],
   "u9609fd8722924be13af312557d3c951c": [],
   "u960bd28be9b0654ef95d95efe5856150": [],
-  "u960d3db00ac133ba6b0d1c29370d6ed7": [],
   "u960ec306abbfd467c8ed5150b406d2d4": [],
   "u96118791a1ba91b06f4e8cc425c508f6": [],
   "u9611ddc207c1c72105e054610c431c9a": [],
@@ -29311,13 +29066,11 @@
   "u96476b661d81e68fae9c298f274e476c": [],
   "u9647e6c6cc74015fe47ef211d8cc9ae9": [],
   "u9649bb3dfa8ae44c2a1a114e75d7a406": [],
-  "u964a708025f6722b6458646cfcd1ac0c": [
-    "นงค์นุช"
-  ],
   "u964a7b8ac5b7c8083c863b8f65d565ee": [],
   "u964a95017213bc3c39e415f4fde9f4da": [],
   "u964e834f67f4fc1ad2b7fc2c7d1c7adb": [
-    "👧I'm mena👧789"
+    "👧I'm mena👧789",
+    "👧I'm mena👧6395"
   ],
   "u964f365dd50f06630b525941b5ac152c": [],
   "u9650a1acc0ab2feef12426edb13df918": [],
@@ -29332,7 +29085,6 @@
   "u966458d618982d293d814aec3f297289": [],
   "u9664e23723c2563251cda7dd94635ad5": [],
   "u96675d73437ff3515971ddf65642b6ce": [],
-  "u9667e73406a61d443aeccb39add55ef5": [],
   "u96680436e9c2aed000173d020b7399f2": [],
   "u9669c98bb32a02235590fb3c46f24e68": [],
   "u966a4d4c9d175e20af7d8e9068699943": [],
@@ -29382,9 +29134,6 @@
   "u969f1e4ef620c77ad6b29c95f90ab68b": [],
   "u96a1940cb4b82110808795ea614dc8cc": [],
   "u96a263f8397b3ca9feabbad986372e17": [],
-  "u96a3d3c300df958c670d27a122e989d6": [
-    "มงคล(สำรอง)"
-  ],
   "u96a6759170929c07551c60a9050a9817": [],
   "u96a683f106488d4b99c8518cf82ff672": [],
   "u96a78ccb6b83912b2dcdc4c310978462": [
@@ -29468,7 +29217,6 @@
   "u96f91c7ed7f3574f27ef74eaf0f4aa38": [],
   "u96fbb401b15802bcd5c6b83a0e1e784d": [],
   "u96fcdc9509968bab039bbd01f1406ce7": [],
-  "u96fde9545ad77791204d58d2af64d00c": [],
   "u9700b3b16fa7b1cb2f6fee8a1623afc9": [],
   "u9701f6b8ef7fdf43d5ecd2167b7404b9": [],
   "u97034b6a5afbbd53dcf0e799d0c55bab": [],
@@ -29680,7 +29428,6 @@
   "u98377c9a6114f661a7598f14728c8053": [],
   "u9838e1544cc07f5e606b05841673aaa4": [],
   "u9839ac7b9b60b3a4cddcb8890be186d5": [],
-  "u983a13856221f590b05f598c54277e32": [],
   "u983be367045e57feb8d254e60f996163": [],
   "u983cca1325b6f8fc69eaa7273d6a2287": [],
   "u983ce2d088dff2cd363b38ab7805b5a9": [],
@@ -29694,13 +29441,11 @@
     "พิฆเนศ พารวย",
     "4หาง รวยๆ"
   ],
-  "u9843e6fd6064b33dad47a93dc770a930": [],
   "u984497de356c60f7c2b5eeaed6f45138": [],
   "u9847e126e1e2f4904e1dcf1658aee2df": [],
   "u984922f9cb20a05913ed9ff616eee647": [],
   "u98492332990979dd603176683c9e8dee": [],
   "u984c9cb45f9c354b0aeffbcf245e50fc": [],
-  "u9851167a848cf7a735978d8262548042": [],
   "u985376cd9b5108e531e63726007149dd": [],
   "u9854c3efd5d58f1bb8e34a4e9fdc6602": [],
   "u985554c51e21af88aff732bf87116b10": [
@@ -29720,7 +29465,6 @@
   "u9868eeaeb2ad59ef29653a182cae2bb2": [],
   "u98690f379101fdf24c6104b313cb74c5": [],
   "u986d873aa18bec6d129a247c671615e2": [],
-  "u986d8bf3069cc63251032b395bb474ae": [],
   "u987115c0aaa1079bac705bd3c93fbdda": [],
   "u98730fd7ea84101ff974805df88499a9": [],
   "u9874583fc4f95bcd26864f738b4153dd": [],
@@ -29759,17 +29503,13 @@
   "u989f96e83f086b4e993faedb6de3c38b": [],
   "u98a1b7eff1b9faae549f30a586f77492": [],
   "u98a35c01cb7265010e11e79243da29d0": [],
-  "u98a5713c4a2534bb33403c766e8916c9": [],
   "u98a6fd93ab6ef3030c4e1fe55b186769": [],
   "u98a7458ea994e46c0a0d7615ccd5e325": [],
-  "u98ab81f14ff88565a29448af8eb8dc43": [],
   "u98addd4f0831766cabad49a12317973b": [],
-  "u98b02323289bfad3043f612962f9a0e9": [],
   "u98b4ce67c4bf7627d1a4e97ddd233365": [],
   "u98b74269004d90de730092c66e9954ea": [],
   "u98b7a474cef1271e784281c3e94e8987": [],
   "u98bd2163e0585e5a24d49362b1f1d828": [],
-  "u98bf8bdfafd7f5d9d299c76a1307040c": [],
   "u98c25f756d7a0907a71da6a7c8dec15c": [],
   "u98ca8443b92b29db29b6f7d0609a7a24": [],
   "u98cf84666325eb8b9360a74d681ac38b": [],
@@ -29816,7 +29556,6 @@
   "u990395050c535bb540bdb2e359c47c77": [],
   "u9904f0205124bc1bf0e2e99216dea9a6": [],
   "u9905b5e376535a604ebf3662ece6a312": [],
-  "u9906edc675729b987083b5748b442f54": [],
   "u9906fa1579bf1d4a96f3bc55c71f8108": [],
   "u9909218ea5aba6616cf7836d57b7c416": [],
   "u99093fb8b4c8de6ad7904825d23c2b3b": [],
@@ -29857,7 +29596,6 @@
   "u99454f794ab49462078db2bb5fbc37e3": [],
   "u9946a2277765e2d0d5f023403b1dab19": [],
   "u99473589aea721e6fb65a9dd2b952501": [],
-  "u9947d6a32d767a69b2f76c081dbd938b": [],
   "u99496b2d9a10b6d35b92a2c9af0e2684": [],
   "u994a924064660a46997541d3c6359034": [],
   "u994dcc08519fdd8a2996b59be0f451c8": [],
@@ -30107,7 +29845,6 @@
   "u9a8ea3d3df29093afc38c49391493b0e": [],
   "u9a9010cecae76f5f2b4070164a0db3d0": [],
   "u9a91a6a1fbb497c035c7bc553edf9eca": [],
-  "u9a9218241ab0d96997110d231efac01c": [],
   "u9a92f0fd81d63ce8ee84064c3fdf8ff3": [],
   "u9a9349389dad6ba5314fca80e27a5dfd": [],
   "u9a99617d2ce3db6ecbdbba19dbc032d4": [],
@@ -30140,7 +29877,6 @@
   "u9aaf2cf93927f63814e02278a4ab52cf": [],
   "u9aaf618e9fdfce888514e7f26a8e7a04": [],
   "u9aaf855e170815093af89a62327fd751": [],
-  "u9aaffd5dfdcec0b6562578c394089b11": [],
   "u9ab19bc59f3c5e10a221b132eff8d4db": [],
   "u9ab1c41fc730746d898b4505006b5cc9": [],
   "u9ab3ed4bb250fd9b8433a63ee73a36d2": [],
@@ -30252,7 +29988,6 @@
   "u9b32eb908ecd96e4d2779ef6cb26e001": [],
   "u9b339e977d5bb92cb76ad19f931f39f3": [],
   "u9b33a3f65bb1a9639d5bb9643e8b0912": [],
-  "u9b35e1fb1101c94d454e622fe6da5dbc": [],
   "u9b37a36e64b9fe6a62c580a93934d47c": [],
   "u9b37eeb48502c45be4e35af2e8f07f47": [],
   "u9b391b9e511aab18e7724b799ad34c01": [],
@@ -30287,7 +30022,9 @@
   "u9b62f470a9440f6f72a05a6a83764b79": [],
   "u9b637f6205a588fc22867b1c5f4c5115": [],
   "u9b650e876ca7aa8115c47f6a94eb916d": [],
-  "u9b66feea07ef85647a27907d0796f746": [],
+  "u9b66feea07ef85647a27907d0796f746": [
+    "Kira4yamato 35234"
+  ],
   "u9b6e4a33bdc1ba9986744d58eba2d1a3": [],
   "u9b6e597a7ae9d22846fbab4e79401053": [],
   "u9b6fdae1eb7e2bd26f104b699f2762c5": [],
@@ -30366,7 +30103,6 @@
   "u9bd17d747371478b0c33394bfff8452f": [],
   "u9bd23800950cf855e778e8418f047548": [],
   "u9bd2499cfb3e05c2935d676756da51c8": [],
-  "u9bd2642f4742ea68e82d26e1256230d4": [],
   "u9bd29cb6d8f4a392959f87efb5f110d2": [],
   "u9bd349812a17269a6c3cb9ff9bc5dd83": [],
   "u9bd3954d48a9c267d2be11a74f469784": [],
@@ -30379,7 +30115,6 @@
   "u9bda0cb147184ef7ca9564930c25c473": [],
   "u9bdc4c98b3de9abbf2ab2d11726dd249": [],
   "u9bde480343fe4ccd8c87857431f1b5ee": [],
-  "u9bde9d4f9d0db57997e63ddbb847117c": [],
   "u9bdebb8a75743894ddedfffa6ee693f2": [],
   "u9bdefecac5d0ede4315923302fa48db8": [],
   "u9bdf0234c25c812543cd633682f92933": [],
@@ -30469,7 +30204,6 @@
   "u9c6215cdafe740e8fc0a20ac0b2d17c7": [],
   "u9c632a07808c7ecbc53e805291c75e3a": [],
   "u9c68e6434dd8be1663a06a47d4cd775c": [],
-  "u9c693cc3b139bd85359e9d1238cb90f9": [],
   "u9c6ac31cc39f156a83700195c5220ec2": [],
   "u9c6e2a93a4f92653994cf32ab655478b": [],
   "u9c6f846133d8875e9df4957506a37e17": [],
@@ -30552,7 +30286,6 @@
     "Al Bundyyy 34Kk",
     "Al Bundyyy 35Kk"
   ],
-  "u9ce667024c26cbda4d005bc334b61cda": [],
   "u9ce855427057af92807ee070d65c51d2": [],
   "u9ce9d42fa4f10222248993ee63d3be39": [
     "Raven"
@@ -30638,7 +30371,6 @@
   "u9d556467d5d4d4331f95b9be96ed1d05": [
     "Sumanth 26k"
   ],
-  "u9d564647c401a21d90fa4340ac3a4c0f": [],
   "u9d5b94c69f05a60c1c8b1843d4836e7b": [],
   "u9d5c81fc2cef48540d087fa865353eb1": [],
   "u9d602d885c2387219f99f343f8b03544": [],
@@ -30915,7 +30647,6 @@
   "u9eba383b8a0bc219141d8048ab4fed3f": [],
   "u9eba8f7e47aca6c261ff58a1d4282825": [],
   "u9ec6f0de832b74f0e1ecfed7c930e268": [],
-  "u9ec7dd7e5a32020c380e30f652863ebf": [],
   "u9ece065ef24dbf94e455adb0a333cb1a": [],
   "u9ed09063c7e809d3004d1f578ca65bd4": [],
   "u9ed39c1abd7c9d0635fab5c12cbb7038": [],
@@ -31041,7 +30772,6 @@
   "u9f7d7ee8bc085f2d979483895e0aac58": [],
   "u9f83cbf298a1272e4751f1b202210187": [],
   "u9f86e291b5d750d3659f6981b5182800": [],
-  "u9f882073d19edaddf228a24f648b6a73": [],
   "u9f896f248aa69afdc54768319a8a794e": [],
   "u9f8ba47841c2accf81360ede0ce3507d": [],
   "u9f8bd9afdcb4052c1d39756e27ded30a": [],
@@ -31107,10 +30837,6 @@
   "u9fcf73d92e9e975bcc3269129d93faa7": [],
   "u9fcfac667cf8d2b3019ae9a37da2551d": [],
   "u9fd1b0c9d574fc572086f17a4e1d05cb": [],
-  "u9fd1da1cc63314021488a6208ac31e20": [
-    "Phanthip",
-    "Apple PK"
-  ],
   "u9fd7773e76ff95b83f94c05ebff11108": [
     "Jae Sankey\n"
   ],
@@ -31197,7 +30923,6 @@
   "ua00c52c8b51a7d783313aa4a5643aa9c": [],
   "ua00fdf16a548d2d3523d34637ede27f0": [],
   "ua01416a04da7cf8669dbb82726ef9f54": [],
-  "ua0141d3ac7f070dc425fab687725a984": [],
   "ua014a3bd2c8feba7005234d68654ce4a": [],
   "ua014d764c0b2dfc458113682be40fdd9": [],
   "ua016e8b970afb8e4d94b9e5a032c4134": [],
@@ -31212,7 +30937,8 @@
   "ua0238c75e2a9b606dae1dcf2c6317338": [],
   "ua0261460f09b7f6f1a23d00fc5c96398": [],
   "ua028de8386b736e789e834d667680daa": [
-    "วันนิภพ "
+    "วันนิภพ ",
+    "Tiraporn "
   ],
   "ua02b8af51a2e01430a7e3cc2310d9b47": [
     "[ ราชาโจรสลัด ]",
@@ -31230,7 +30956,6 @@
     "Pateeta🌈"
   ],
   "ua03c975b98fc265ad19e084c1d51e1e3": [],
-  "ua03fc099bcc740dbc852cd8e7bf5b965": [],
   "ua043eab99d4289dfbdbb2c4c2bbc86e1": [],
   "ua04519d3bc9a3b1e1258989bea0ab4ca": [],
   "ua045ae371ed645497e23431da1d9f4ea": [],
@@ -31301,10 +31026,8 @@
   "ua09aca5245f5a5d43db9e18cd9aa5d5e": [],
   "ua09efdf3701369587f4a58b7bf8ac841": [],
   "ua09fc06afab88a12506dceb775513a76": [],
-  "ua0a2ee9371930b3a972fe5dc4c860815": [],
   "ua0a3528384847e1598f3ed0b995a00f9": [],
   "ua0a8d81324f5dd425c79dd7d6635ce7c": [],
-  "ua0ab167af136ffef11f6c03032aec1bc": [],
   "ua0abfd24a1e12a65723c7838ac96e937": [],
   "ua0aca022486bccd5a0f87c08ac3303d5": [],
   "ua0ace7d5b7762cfe2a2fbe3e2b49f776": [],
@@ -31491,7 +31214,6 @@
   "ua1a60487257bad038f1b19401a891ab3": [],
   "ua1a693bf4323b445e9974f433bb26bf9": [],
   "ua1a75f5c32c1642e0a968d7f847a254e": [],
-  "ua1ac8813fad9d1f471547815b87c913a": [],
   "ua1ac887796a73ebc6d947dddd13ef3f5": [],
   "ua1acbdf5605f8c1738f3564ee487d675": [],
   "ua1adbe3007cf7d5e9be34988a64db7b4": [],
@@ -31543,7 +31265,6 @@
   "ua1e3d73fc1eca0b1d2adc7f6f4591f67": [],
   "ua1e3ff967c9f56b80541f62b9fdce572": [],
   "ua1e5fed819ce6771f12f65198fecab3d": [],
-  "ua1e64c94d32e3eccfede46839edf3e74": [],
   "ua1e6d07d6d6035f9481d2854df897341": [],
   "ua1e81266a7261434ecd0d5635dcf9448": [],
   "ua1e8c05bbdb9c5bda85700a479c3eec1": [],
@@ -31609,12 +31330,8 @@
   "ua22b5b8f35939dcfb990cc0967410b8d": [],
   "ua22bd4f03e371b9b459ca5c4b80f8f86": [],
   "ua22e307ad74cd5523cc48660775e5061": [],
-  "ua22f3b14486339bdd8bc10210a8969b2": [
-    "ท่านชายRonnakrit1562"
-  ],
   "ua22f6a74655e9dca4dcd4d3a2b6ce6a1": [],
   "ua2315770c49401e9fa459efc3c27dd4d": [],
-  "ua2322b2cf77cbcfa2c4ea6c62e03095f": [],
   "ua232abffaaf8387f99147a2130e7ae92": [],
   "ua233645ea1d86f869e454f3fdfb0b7fc": [],
   "ua2367b00d371a200fe8b4397c570785a": [],
@@ -31724,7 +31441,8 @@
   "ua2bb8f20c36dc264fdb0dc94a074c03e": [],
   "ua2bbde0e535ddea807be0633357bbb06": [],
   "ua2bc65110d89c4bd272927a78452ce7c": [
-    "แอดตุ๊กตา"
+    "แอดตุ๊กตา",
+    "แอดคนสวย"
   ],
   "ua2bd5e97eb63884baae74ab67947c52a": [],
   "ua2beb1f175e22827674abf119003453c": [],
@@ -31740,7 +31458,6 @@
   "ua2cd827ca1bbcc24dd0876fd512b5aaa": [],
   "ua2cf0c8a314667918d06910ea6ddb806": [],
   "ua2cfb74082502ea91a147af45bf0ba97": [],
-  "ua2d17059502ce4f5c55f066adc2e61d5": [],
   "ua2d1f9e9c4c36ae2b07c83e28591a163": [],
   "ua2d2030dac7f72d73f2d149abe948c31": [],
   "ua2d225e0f165500b9dca91a3ce160411": [],
@@ -31963,7 +31680,6 @@
     "ชัญญา"
   ],
   "ua4054c8d65308eba57f8741a73627572": [],
-  "ua406f93638f14f2bc9e96f5145fb4ace": [],
   "ua409a03866262d4587e4156fb2768116": [],
   "ua409e6086b4037bbad401b32351196bd": [],
   "ua40a67a49cff82c23c01ef5c01036824": [],
@@ -31978,15 +31694,10 @@
   "ua417fc94937f461920dac9814523b571": [],
   "ua41b9d77c8f4bf0a0ed9b33bb16f21b9": [],
   "ua41d35bff8860b02661bcdd40f00c5d2": [],
-  "ua41df5bd91146e033bcf1e335d6e5c87": [],
   "ua41f59696a70411243f7abd76e928b1e": [],
-  "ua422bb58060e8c23424ae265cfea421e": [
-    "F."
-  ],
   "ua42429b89adeb961ea770b34499dd6e4": [],
   "ua4257b7cd4d3aae22d70a343536c8f66": [],
   "ua426062cf66187ba64d134a1904b6397": [],
-  "ua4268de31b0c3e6ee551e00c6819e553": [],
   "ua426d50d2a2b83d485cb03c1dd1fa0a9": [
     "ÇrīMÑäL"
   ],
@@ -32042,7 +31753,6 @@
   "ua469c29dbdc976ab46b04c17646d4284": [],
   "ua46a8748fff22d1f9dc96024a1e3890f": [],
   "ua46bdbed7de8bfc066b98d1fefaeb758": [],
-  "ua46d3f291f8bd7969dad37c541ab0256": [],
   "ua46f097f37c038c12470ad589319320c": [],
   "ua46fb138b9fefb87c17e75680fc169de": [],
   "ua46fb370138c21e7e8c06fb5137b1d2b": [],
@@ -32090,7 +31800,6 @@
   "ua4bfcfb0941d5fc6e2b36eb42eef8095": [
     "ขรินทร์ทิพย์"
   ],
-  "ua4c1c17dfa7d065d362d8faadb2a7164": [],
   "ua4c1f0cc7265a9f7b036af68e6740c61": [],
   "ua4c2096002a24d3add066ff4334dceeb": [],
   "ua4c26bddc7d2563986c79e6547c3dc38": [],
@@ -32230,7 +31939,6 @@
   "ua56aa5ccbcc0069addbfba0a4a6ed039": [],
   "ua56adff853c95cc8ee8edb7f54b7c562": [],
   "ua56b17d6d30e6702aca9297fc3da89ce": [],
-  "ua56bedeb6d69f7fb82f384479d4b8fd2": [],
   "ua56d79e340f504eee2d90bb29831a167": [
     "💜┪𝐓ᗴᗩᗰ乡𝐏Oᗯᗴᖇ┠💜¹⁶"
   ],
@@ -32260,7 +31968,6 @@
   "ua588197575ffd62388545091f287d829": [],
   "ua58828ed8122e748cb78aab015b1fa89": [],
   "ua58924553bcaa2220cea9f906b7c40b4": [],
-  "ua58a668699e6b5b55a82d2776c97ffd6": [],
   "ua58ae0c7aa757462cdd72c1975b1b44d": [],
   "ua58b11c325d02182d571c9e162f1d05a": [],
   "ua58b2873c3934f9292db95f83e8a7abe": [],
@@ -32368,7 +32075,6 @@
   "ua5f81c37a51a09cba100818bfd078bbe": [
     "💞NIDHI❤️"
   ],
-  "ua5f89eef0fbbd996a5226de867394d34": [],
   "ua5f923406cdaf598b225154886f0c08d": [],
   "ua5fa3b33e114c85eec8a3f38d1bc581c": [],
   "ua5fa8a3cb3027bf7bd9704b13dbf0cab": [],
@@ -32439,8 +32145,6 @@
   "ua66624e952249fb4c63c7e441fd8dfc7": [],
   "ua6665d72f4cebfc17c0ae0e3c55cd236": [],
   "ua6679fa56f176e68642a888d1fc26a56": [
-    "• M § K T T • (req)",
-    "• M § K T T • (req)🏴󠁧󠁢󠁳󠁣󠁴󠁿",
     "requioso 1❌2❌3❌4✅",
     "requioso [A¤S¤R]",
     "requioso • MSKTT",
@@ -32458,7 +32162,9 @@
     "requioso • MSKTTards",
     "mafioso",
     "mafioso [MSKTT]",
-    "mafioso [MSKTT]fħàna"
+    "mafioso [MSKTT]fħàna",
+    "requioso [M§KTT]",
+    "requioso [x9c]"
   ],
   "ua667f3031936f13d71ca4b5310855fb0": [],
   "ua6683ac7539cfdcec9ba9f3cba58bba8": [],
@@ -32495,7 +32201,6 @@
   "ua6930445b46857c0a26baf3f2c876d70": [],
   "ua69408c1649b8a81326073269c02881c": [],
   "ua694a254e939271f206cec66b6ae8c10": [],
-  "ua695f4b31806e4bf5364ae48a7905eef": [],
   "ua6968559cdff08c96d0f7b67a47344d5": [],
   "ua697414d968b76546041b8bd170fc108": [],
   "ua69c3c5e5f697e1aefad9179366cc68c": [],
@@ -32550,7 +32255,6 @@
   "ua6d82084a51a3ac817530155e5123bda": [],
   "ua6dc82520253a6110728bbbd086fd69f": [],
   "ua6dda2f1583e38b126f30437f8caceaa": [],
-  "ua6df09a18ba84d10980f036901794055": [],
   "ua6dfdc01458c643c74b7d7832e65c393": [],
   "ua6e01ab0dfac223a8f2a1d9739bdb6a7": [],
   "ua6e0620b5b403871ce3d2369d1eccafc": [],
@@ -32584,7 +32288,6 @@
   "ua70f925debdc12768fc18b180c7054dd": [],
   "ua7192cd933ced8ad89fc5d28ec91adc0": [],
   "ua71ad79d5af9ee9b5574be17aa121582": [],
-  "ua71da177d4a1d7897889beb1c77abcfe": [],
   "ua71da5bdf0741cb6be4cbf3168d41631": [],
   "ua71de7e283fd96e55167351b8a27d168": [],
   "ua721b5738a2b1d215ff6de741506d1c6": [],
@@ -32653,7 +32356,6 @@
   "ua782ac4fed0305621f71d796d1175bf9": [],
   "ua786cf80f8f9652bcad44aa3daed6aea": [],
   "ua787234d1676bf305646a40c96ce3867": [],
-  "ua7891213f9eefca6a3da02ee9c645fcb": [],
   "ua78a7bc725052d6e4231e91686fb64c7": [],
   "ua792aa03e94a52c8e9c3c29fa31d8d87": [],
   "ua795c7deec426bdfb2db9bac2f210d2c": [],
@@ -32880,7 +32582,6 @@
   "ua8c0100a99bc4987f0377520ddee92d5": [],
   "ua8c1236c6a3174712bf48275a20cf291": [],
   "ua8c37a15ca284b61bf2ea59941c4ad0b": [],
-  "ua8c67e3a2461cfa7f65ca2f9ba9bfb16": [],
   "ua8c6a9938da560926dcb9bf3a43e166e": [],
   "ua8c70d83ec48a27188b75c6303ca8933": [],
   "ua8c718be55937925f3e187cd24849352": [],
@@ -32921,6 +32622,10 @@
   ],
   "ua8f7abc8d81ef7f85b7a50c92cfc93fb": [],
   "ua8f7bb03d7b74aef74eb0d250256ab6f": [],
+  "ua8f8e4b8bba5318d050e48a571f10b03": [
+    "@Mafang",
+    "@sasi251355"
+  ],
   "ua8fae0b4c673e1167e4a689127af053d": [],
   "ua8fb50868d96aeb953340daa55c8f29e": [],
   "ua8fcab4d4bb7872ea55ab2ae177f3531": [],
@@ -32966,7 +32671,6 @@
   "ua9476d92292b2e10f220c86d629bf984": [],
   "ua94b92c3c29da47f793f03d54f6b5323": [],
   "ua94ba1fc1887000bda8023a163364e1d": [],
-  "ua94bb0f35d273831c511524e7780e123": [],
   "ua94d539dd932f5ee405ce998a07fa95e": [],
   "ua94f632815b2aa9e8663f8aa6f0c18e4": [],
   "ua9510e2e3c520621a179258c59406d8e": [],
@@ -33019,7 +32723,6 @@
   "ua982a81af07d2235ef7ccd01a7045fbc": [],
   "ua983955a4caab790d9d9e30544d70fa0": [],
   "ua9890db172ef1b867e58fe7cfc5182c4": [],
-  "ua98a631747e55798766a5fea9930c6f6": [],
   "ua98b96d449b27e65c46c7a6f3e3ce23f": [],
   "ua98c7e1db30eb01994b4a2cae5e16986": [],
   "ua98cdbafc646ab78601d2e7016ba3bff": [],
@@ -33027,7 +32730,6 @@
   "ua9927d31dabb05aca7f8593ea55d1ea7": [],
   "ua9943eac83241cf822d06f11ac77c88d": [],
   "ua994b9dd9b4cfb40c0becb9e0889425b": [],
-  "ua994d30c89cd7c8227652f1dc811f379": [],
   "ua995c69e11631929eef962ea3c0a8a0a": [],
   "ua996d9380226efe7fb3b63435d54a8d9": [],
   "ua996f2cc7ddfca130ef84d35290dc039": [],
@@ -33056,7 +32758,6 @@
     "ไม่ดีพอสำหรับใคร",
     "นอนดึกแล้วไง"
   ],
-  "ua9afb4aa78ae7a380ac0758f133678f0": [],
   "ua9b0f608acef0cb31741188cf5acedde": [],
   "ua9b2f9772b5b28c6b3601571846368c4": [],
   "ua9b562565c90e86bf2333087a0640ef0": [],
@@ -33068,7 +32769,6 @@
   "ua9c308b979627ff13f96091d6af69053": [],
   "ua9c674fdfdb331900881a07c8680af90": [],
   "ua9ca0d8201495d7c60eaeb57a303cb2e": [],
-  "ua9ca5a24d9a823ea50296a60e82561c0": [],
   "ua9cc5fbcfd64a30340bac4f5309b8346": [],
   "ua9ce7ba9837830b20bbd464adf1f4e12": [],
   "ua9ced55d00d261d24991e718146e34dc": [],
@@ -33253,7 +32953,6 @@
   "uaa98747ff3f2f521793e824ab5b31dff": [],
   "uaa98a7b539422eb8b8582e92a0169432": [],
   "uaaa1608dced64a2bb84e1822ef2b09d8": [],
-  "uaaa43f6d274b97cab58461abb7be5091": [],
   "uaaa55b1f4a15e67a3e93918c30620b72": [],
   "uaaa7672d3dd88cbad01f1b2eca9b756c": [],
   "uaaa9ac3b7494fb4f4d8d64ba0ec5a623": [],
@@ -33270,7 +32969,6 @@
   "uaab408f49e3497b7b68fc4e4c39dfd72": [],
   "uaab45313c3396247e7821e0d1ba571b7": [],
   "uaab8687f0cf1c10520c06d796b966b1f": [],
-  "uaab8efb85c3fe7aa3cb94d1a6141f9d2": [],
   "uaabbe1cd7deadaeec48b8b3f6681af85": [],
   "uaabcd43151c8e9a42d193f9414834299": [],
   "uaabf90df88ccfa630a953c6dcbc7014b": [],
@@ -33335,7 +33033,6 @@
   "uab173e4053429d65d56c648679bd71b1": [],
   "uab1878e57262bf214ec8ed25d7ba2761": [],
   "uab1aa7325be8433b45828379e2af3a32": [],
-  "uab1b128df0ff6f280c6a19d8a48a44ea": [],
   "uab1d57fc623539060741e8e7f641fee4": [],
   "uab1f7100966386f5e1456843b96e0a3e": [],
   "uab1fcd64d1fcee714317a5469acd894b": [],
@@ -33658,7 +33355,6 @@
   "uacfb660615bce80925dc5c73c41a488e": [],
   "uacfceaf11cf19b64303497b6a8fc8152": [],
   "uacfdd506e81a612feb56ad3bd0a697c3": [],
-  "uacfde29351d26937a4f89a06fc5d7e98": [],
   "uacff8d9aec23e6265e9c921a81b5bc39": [],
   "uad006ca382bcf3013a96df2a5fe0d3e1": [],
   "uad037d0475d7b8ed4d41008fca9483a4": [],
@@ -33742,7 +33438,6 @@
   "uad5d53a0a3550de4e1b2e32dd6d425df": [],
   "uad6012fd58709acc4830bcc7b16574c1": [],
   "uad60559125f6cc63611af3151f667405": [],
-  "uad618740573374a9e29c231d65095b36": [],
   "uad62855b8bbb952ef2a4b585e6d17a59": [],
   "uad64e209821563f898f1f194983861ab": [],
   "uad65384c66e822dd4d7300231c916ab8": [],
@@ -33804,10 +33499,8 @@
     "llllllllllllll"
   ],
   "uadc34b538baea0f97ab68aea55947371": [
-    "𝓝𝓪𝓶𝓹𝓮𝓬𝓱 ❦",
-    "𝓝•𝓹•❦"
+    "𝓝𝓪𝓶𝓹𝓮𝓬𝓱 ❦"
   ],
-  "uadc458008894625f88c53fa283ebda8f": [],
   "uadc54f5ea702ad00672f7c5cc3440310": [],
   "uadc702539ae6a101392cec31d3cfe145": [],
   "uadc7145d46eeb872047b825306590bf9": [],
@@ -33863,7 +33556,8 @@
     "🅿'🆃🅾🅾🅽",
     "𝓣𝓞𝓞𝓝ᴏʀ𝓙𝓙",
     "𝓣𝓞𝓞𝓝❣︎ᴏʀ❣︎𝓙𝓙",
-    "Can’t Reply Now"
+    "Can’t Reply Now",
+    "แอดธิดา♠️"
   ],
   "uadf7179033d123707bcee75f923f2f4d": [],
   "uadfc03c3ebc5da9dc9c2317f41971ed2": [],
@@ -33918,7 +33612,6 @@
   "uae39ea720678a57f508d1235c9b146c5": [],
   "uae3a058d3597dfc23fb6025e63ddada2": [],
   "uae3c01504d882ad716e6ca1fbfbc3a78": [],
-  "uae3c18d4aeb218bde5aebbc46adf4c50": [],
   "uae461cc7bb4f09c59efe53c437984b79": [
     "ISA IBN ALLAH",
     "Mr. Wagyu",
@@ -33983,7 +33676,6 @@
   "uae946bce358a7c29ef2344162e6d05e1": [],
   "uae95e76cb38031a919906ec315287778": [],
   "uae98119b60a545e6a37571f1fb67c00d": [],
-  "uae9ad23c1f495485e1324472c3061ec0": [],
   "uae9be0e7ea15bfbbbf9d51387177e26a": [],
   "uae9ca854f70afed373e9a2b444fb488b": [],
   "uae9db746d495086b42f2d4b627871fbf": [],
@@ -34002,7 +33694,6 @@
     "💔💔P🖤🖤"
   ],
   "uaeadbbf6cb1256f5b59a2bbdf85042d0": [],
-  "uaeadbca2f2f19c37bb4780f7787ab961": [],
   "uaeae6592d51d2cb2aed812f793fade9a": [],
   "uaeaf5a3966ae00d3afc8ca266ca2b4f3": [],
   "uaeb0e6b2700a842cdd954838afd8e62b": [],
@@ -34128,7 +33819,6 @@
   "uaf3d90baf71ad2371a5b67f3550870b8": [],
   "uaf3dd5d275b5593caefd6ba8fc82baea": [],
   "uaf3f1c55c3427d058163821f40305df2": [],
-  "uaf42fce04b8ad3ab97846f7a9b8165a9": [],
   "uaf459a4765f8b4d7dacc8ad9395363ee": [],
   "uaf45f6e1f5eb67ae2436080ff7da878e": [],
   "uaf47947394f01d9338fb04f34c756b12": [],
@@ -34206,9 +33896,7 @@
   "uaf96b14e4f17c409660a69afa11a30e6": [],
   "uaf9ab85f3b541ec500d002eb673a6750": [],
   "uaf9eadb35e3710e0bae676e7b4bf538c": [],
-  "uaf9ec4f72e9bd5a2d1c187f9d4adc186": [
-    "⌘尸īηҜㄥī❍η⌘"
-  ],
+  "uaf9ec4f72e9bd5a2d1c187f9d4adc186": [],
   "uaf9f2eaa7091318026242b67a5f75af4": [],
   "uafa017724ac104500b9795e4f5401d3d": [],
   "uafa19e2cfd36feb6676d3f794bbc058a": [],
@@ -34264,10 +33952,8 @@
     "Giff"
   ],
   "uafef584098ebc4ac8e448885c0d94985": [],
-  "uaff07649fff6fbb2a46f27eaec9137b4": [],
   "uaff145b1d10151c9ba51e0a6db06e850": [],
   "uaff164f32d7543c48126d252bc079357": [],
-  "uaff16d2dbfea9fd4b6241aaafd19def8": [],
   "uaff4847a01d72df2ee9673f42bb36a2c": [],
   "uaff580b11c5137e39ce29101be76d606": [],
   "uaff97e62888ebc8a7ccd074eb7c6e65c": [],
@@ -34280,7 +33966,6 @@
   "ub003a7b0c9e69536bb3bfb015794ac7d": [],
   "ub00634186f7cc9e8079441baf49a6542": [],
   "ub0079599440cc4cb96f40bd29893dbc9": [],
-  "ub0089062c9d1b696b03b135cafcbdb06": [],
   "ub00dc1695658dd56446f10fcefea23c3": [],
   "ub00dde8eb153de16be2a1bcad09754c3": [],
   "ub00e1930440b404aebb87778a034f905": [],
@@ -34373,7 +34058,6 @@
   "ub0745674aa7c348ce0cfd9271854211a": [],
   "ub077864e3eb4055ecc709313ad8c57ab": [],
   "ub077c60ab3c8365f03705ded020c711a": [],
-  "ub07aee9cbb95734ef000cbf0102a94ab": [],
   "ub07b842a3ef2b3a28b23fbdae09e33cb": [],
   "ub07e5409b7a2f91f50b57104a2f4de81": [],
   "ub080a72fc59458a343c846ac00e8f2b6": [],
@@ -34493,7 +34177,6 @@
   "ub125bd3c1bc8059f25ee8ea55c66d0b1": [],
   "ub126647f8680adc2109046c6fe75152e": [],
   "ub12e0816a77b19cafad4fb3e3cc7a0a5": [],
-  "ub131c75958bbf8f23ae0c1ad857e75c8": [],
   "ub13402ea8c8a5e02cbc648f80a5573fb": [],
   "ub1347d5dffbc5871519bd18933690793": [],
   "ub13583074b62f357b77d9204aee2f229": [],
@@ -34590,7 +34273,6 @@
   "ub19489ec0436a23903998fcac1e429b5": [],
   "ub194af050935ca6565a9384753c645bb": [],
   "ub19883469fcfee191a7023fa40f4b7f7": [],
-  "ub198ad028d2906389874d14100880a83": [],
   "ub19945be84aa312e7e05a9c618b7a9d0": [],
   "ub19b098ea789de22916aef89c2c33a2f": [],
   "ub19b56bcc77ca707945dac8ff89b507a": [],
@@ -34618,7 +34300,6 @@
   "ub1bc5c64abf2ff6afdcf9683f39f51ea": [],
   "ub1bd5bf5946a6a1112ffb29c10611d65": [],
   "ub1bde5b63c65be494162d4c45379b594": [],
-  "ub1be26535bfcf0b9aceadcdf3809059a": [],
   "ub1bf17d174db0c64ec77f4145157ee59": [],
   "ub1c18400d8cead97199b15356679a4cb": [],
   "ub1c21ffefc06923945a119aeb83071f5": [],
@@ -34984,7 +34665,6 @@
   "ub39f3eefe9ff92bc7dc34e1dddebfd0f": [],
   "ub39f7c9f8ef1701003b97113d6cd8318": [],
   "ub3a0188961fdb21c5d4ab7c8ad0c2333": [],
-  "ub3a06b77418692053551ef155bf8909a": [],
   "ub3a0e53b4e8ee0fa93f127382c9e5750": [],
   "ub3a3264566b229ae97148a0b3e45ce9f": [],
   "ub3a6838f3cc36290a8090968ab300e11": [],
@@ -35103,7 +34783,6 @@
   "ub437068ba753ffc195a40dddff19ab94": [],
   "ub437b17d43a2cbd33b3d5021796f59e3": [],
   "ub438da32f742a1e3923247638fe2619d": [],
-  "ub43b0123a19ceaa9e45e5d9718e294fe": [],
   "ub43c398da33619f87313bb3d5424f1ce": [],
   "ub43d31865f1db057ea974c5a73aaa13a": [],
   "ub43dae12ce96f2efc551939f8e928ca5": [],
@@ -35144,9 +34823,6 @@
   "ub45b5bf5204b02c93ea01cde33d752c5": [],
   "ub45cdce3e22fcdc3c887840535fde38c": [],
   "ub45cec76536f5131f47978be349cab6a": [],
-  "ub45d4f6cb6f773d67c206beea4e1f108": [
-    "TeddyTent 369🧺🧸🌧️"
-  ],
   "ub45fe1fcae8df5759b0378f2702d51ae": [],
   "ub4616c2da27748a697111206ab740e70": [],
   "ub46552461d12b7deab9fa4c37abb46d2": [],
@@ -35248,9 +34924,6 @@
   "ub4e42b312c278f60ddac6c3c6950a090": [],
   "ub4e5bf29590f7b4d97754f02c2420b66": [],
   "ub4e60fb192497390a09d083d37b15aa4": [],
-  "ub4e62cd6ea63503e6c8a8f97fc2dbc0b": [
-    "𝚂 𝙼 𝚇 𝙾 7926"
-  ],
   "ub4e725339e5160aa9b05dd38cce45799": [],
   "ub4e9cba3a6e49105c4b079293138f52f": [],
   "ub4ec69e409f77b2777310924e63937f5": [
@@ -35317,7 +34990,6 @@
   "ub5271384e75d1d2c8fac88a6364c47d8": [],
   "ub52b6e6d2752f8f1b336070796475802": [],
   "ub52c4462a0059a8e110db013e55da189": [],
-  "ub52eddad7d35dcab7e9204ee9a3ca60b": [],
   "ub5329b8eeecad0f3ecbf807b8ccd8f1c": [],
   "ub533448ba36bc3965184c93c659a9589": [],
   "ub535eceb143ca8834c22ec6a0d38ab57": [],
@@ -35375,12 +35047,10 @@
   "ub586badb0b3f4fef04737aa827716495": [],
   "ub5880496d0b77ad77a18b023eea8959c": [],
   "ub5884bf1c64b481a5bb3e405467f3a23": [],
-  "ub58b45b9ecc94e1615c430e40301aa8b": [],
   "ub58b5dc140701d6f834095982eef6024": [],
   "ub58c16c1cb2d1d79c4dbcb7453375b38": [],
   "ub58ce6a86b5d7d820867198553ffddf8": [],
   "ub58e948b4c8947cc57633d93fcf227c1": [],
-  "ub58f4bbff1502633c6e786eb95504297": [],
   "ub58f55c20505d0bf6dfc0eb981846cab": [],
   "ub58fc968103e779090dba42d0ba8da24": [],
   "ub594b414ae58b7206514c992291950a4": [],
@@ -35500,7 +35170,6 @@
   "ub63c491d405db5500f61a598a92969f0": [],
   "ub63dbb6a317ef1b17dd0f28df568d542": [],
   "ub63dbbc2dd8e16c6e5062668af3080a2": [],
-  "ub63e1d0b5694c7b36abba175165229fd": [],
   "ub63fd6483646814a9a546af6f8fabddb": [],
   "ub640c4847889c3a841e8c67bdd8e73e1": [],
   "ub641ea4be33e68d791c905d4dc4e48d0": [],
@@ -35539,7 +35208,6 @@
   "ub6690bd07818a4e8bdff24a510ac3889": [],
   "ub669961b23df842461867fe52ad559d3": [],
   "ub669d7d9dcad181cd99348eb083ef47f": [],
-  "ub66a4ae8c747a430b5ea09e168ae876a": [],
   "ub66adbb199b469cec9941397a7136c45": [],
   "ub66bfbe80dde36f5c3e70a56c8b743de": [],
   "ub66c1e4b65858ad448507922b240e0f8": [],
@@ -35601,7 +35269,6 @@
   "ub6ac756643e2198557526bd0534b8d83": [],
   "ub6ad656d656df5beaa498c3c0af2757e": [],
   "ub6b359810c39bbcee63ca4624fe528fd": [],
-  "ub6b3b992c5bc7e3c90c9b06e8b256d55": [],
   "ub6b464b6b967dda866895c009cefed08": [],
   "ub6b6a9f80f161cdc5b97920b2caa8393": [],
   "ub6b89435beb5c9a29b944805fb17ece9": [],
@@ -35708,6 +35375,9 @@
   "ub72d71577ebff63810bb5910951340f9": [],
   "ub72dde5075e5fa9b8e6942d6b6a5c2af": [],
   "ub72fc0b01f8fdb3124774f927bc5eaad": [],
+  "ub731606afd3bdec4558477bc001dc507": [
+    "Piyathida K."
+  ],
   "ub732da0c28d932b188d789f543969436": [],
   "ub7332b6b69d15475dcdc26bbda59750e": [],
   "ub7337c2fa5d50c913429cfebc0970c63": [],
@@ -35870,7 +35540,6 @@
   "ub7e3c210aa4d2fbb24d88018c728977a": [],
   "ub7e443f214f8abfc41d02a0e51d2d882": [],
   "ub7e4d6e2956496d59769f0d2732aaaa8": [],
-  "ub7e50cb04fc06b3f5ad9bf39e1db38fa": [],
   "ub7e6c153d01ec4e657bc7266ba0f2746": [],
   "ub7e727920ad8b1d39ed441a9bfaca4cf": [],
   "ub7e75a010b65cda1a06c6fbf1d471161": [],
@@ -35962,7 +35631,6 @@
   "ub861ea164db8be6ff8903ed4b5a5abe1": [],
   "ub862ba58394ee4c7d5053ea723bd89dd": [],
   "ub86427d8a9c7332d7a3ea07dab1f903a": [],
-  "ub8664d36793d57eb62fa8871ab2a9068": [],
   "ub866bf36a66c3d16c8729a9d46bc3952": [],
   "ub866cc945143d03f56307e4972146821": [],
   "ub867d2d592745f135223720368a38574": [],
@@ -36114,8 +35782,6 @@
   "ub91839756e5ccc63e18f1850ed62575e": [],
   "ub91a8188196b9b8a7ff969757c29abbf": [],
   "ub91b6c5c1e726ef73f44d91050cff478": [],
-  "ub91d937efad38b0e3094e89e5710cd31": [],
-  "ub91e88cbb4b977c81b76211b9d049bd2": [],
   "ub91ed7e0db10c109cac2c52c848b8a47": [],
   "ub91f4a99f043a0790d6ce12ebdc4453e": [],
   "ub921458ff33866d2d410a5745ee6e744": [],
@@ -36160,7 +35826,6 @@
   "ub95676141f79a4db5b1c10acb5c2ceda": [],
   "ub95bc5bc5524083d3969cfd8ce23a983": [],
   "ub95cc78942fd5d083daa0ab8ca4610e3": [],
-  "ub95e445af45853457a0f93c64febdefa": [],
   "ub95fd9bc7a7069e6475505cfe9e744a5": [],
   "ub9605cc0d72e3c9f06dab68567df369b": [],
   "ub961529c894f3386a4c90e3203ffd97a": [],
@@ -36295,7 +35960,6 @@
   "uba0c4e4a0f1ea759ca206b36662579ec": [],
   "uba0cec1885792d5758e62f5dc11fd07f": [],
   "uba0d8984db965426ac4c28802250c7a2": [],
-  "uba0e7847f1d7bd4c5a00a5da559496b2": [],
   "uba0ea0c673633421b0c55ebbff20a015": [],
   "uba16425197edcedac08638748a0d94e5": [],
   "uba16744a4a8dfa03b5842bd14494e2c5": [],
@@ -36375,7 +36039,6 @@
   "uba7e0e8382c4745ab112ca527000482e": [],
   "uba81876c257bb685baec075a59037707": [],
   "uba824c2a8222c156a15dcaf541afde5b": [],
-  "uba83d0a525b9fe3f575609f7be963fc4": [],
   "uba85191a225bac63e773e855e2d523c0": [],
   "uba85ab884a82cc9b33f1a1c0060bcaf5": [],
   "uba8644bd900ef196cf6ef50ec7b299fa": [],
@@ -36385,7 +36048,6 @@
   ],
   "uba8b7070cf6cf4d12312d4ab94a41618": [],
   "uba8c2ab5d41928f9c4ecf4d476382099": [],
-  "uba8cd1215f6a62165d3b013a24934a67": [],
   "uba8de83360c3b36b069456d29c0affb5": [],
   "uba90031fe3d433d1e440a9f6b3514e0f": [],
   "uba900fe81f5b995e785edcfc8c97bc8b": [],
@@ -36437,7 +36099,8 @@
   "ubad3ac5f7db7cb30b47e82e5bf262ddc": [],
   "ubad3b8df6cf0b9071554419c53636fb0": [],
   "ubad437fd06924aef9b30e85787a5ea8d": [
-    "ℙ𝕠𝕣𝕟𝕥𝕚𝕨𝕒⋆.🐚💭🫧"
+    "ℙ𝕠𝕣𝕟𝕥𝕚𝕨𝕒⋆.🐚💭🫧",
+    "ℙ𝕠𝕣𝕟𝕥𝕚𝕨𝕒⋆•🖍🦋🌼"
   ],
   "ubad4b4be7fbbde59d3f3a7f9ad65e216": [],
   "ubad4fb9108f2d4ed9a7f6a823ea9dcfb": [],
@@ -36544,7 +36207,6 @@
   "ubb70d5a041791d1cfc9cf7b158b63fbc": [],
   "ubb73bda63478c215dec4d6b8f77ed9a5": [],
   "ubb76197f5d552df38502bcc81299a6fe": [],
-  "ubb77462f3152f35aff2b880b56bd72ca": [],
   "ubb7b91cadb0251e811e00bc498b6ddc6": [],
   "ubb7c6052ba64d919b880a8ef21f404f7": [],
   "ubb7e35e8420ee003245e4059cd236d0f": [],
@@ -36575,7 +36237,6 @@
   "ubb940c333909ecbc31ce0e6877192802": [],
   "ubb9433f33479c18926713ed7a001769a": [],
   "ubb979af2273e610aadbfbafa1fb51340": [],
-  "ubb97fa94a03a5ad3824e3355bc0a739d": [],
   "ubb983051670fdec28d78550b7f9326e2": [],
   "ubb9a509b4c2be8bbf14651241d2404dd": [],
   "ubb9a57578ca17b325052b5e47e3c8757": [
@@ -36691,9 +36352,6 @@
   "ubc32ddc39d61643ba3be93a169448d64": [],
   "ubc34646356292b442e68773e630daf14": [],
   "ubc359c9e742a1d6451f427023789c6a5": [],
-  "ubc3652738600b75c155956d3179672bb": [
-    "Meen789💙☘️"
-  ],
   "ubc377bd7c3ce035930f150afaca19059": [],
   "ubc38d5c5cd1599e4cdf3efe5ed161b1a": [],
   "ubc3969c320131b48b1d96f47d8f5f243": [],
@@ -36782,6 +36440,9 @@
   "ubc991e45d7a9ca808a0897bc67132e7c": [],
   "ubc9aabdbbb4fdbd508e036fbac23c714": [],
   "ubc9c01632dacfbc15019c6943dbcb432": [],
+  "ubc9f8ead0071cef7a1b2edc54c150de1": [
+    "เฌออ๋อยคนเดิม\n"
+  ],
   "ubc9fe17c08145b57d4597537dfd32459": [],
   "ubca06133d732b8703ae74e52302bcb03": [],
   "ubca185de2ebce036b92e99e41cfacbdf": [
@@ -36945,7 +36606,6 @@
   "ubd586a251f98523bb13338dec5d4fa94": [],
   "ubd593dd51cd120ce4134e25490aa1df2": [],
   "ubd5e20fdc1e62b8f9a53d381af78769d": [],
-  "ubd5e651a395682243afcbe0be6b51dc7": [],
   "ubd5f73a9d8c4926d1b1940e752b8258c": [],
   "ubd63c6535244566bfaca7ef29220f435": [],
   "ubd66712770a5da758cbb4e775b26f58c": [],
@@ -37068,7 +36728,6 @@
     "Analiese Brenda "
   ],
   "ubdfb14b5a56746219db2d2c99decea84": [],
-  "ubdfc19e00735129b88d96a2c8be4aa14": [],
   "ubdfce35ededf940873868b3b7332e073": [],
   "ubdfe63608c99932151b3eebd5dd68dc5": [],
   "ubdfff65c1f08da43d17b92232c972ed4": [],
@@ -37165,7 +36824,6 @@
   "ube6f44241ce94fa3e00d37e40f97c51f": [],
   "ube7049e3ac9ad3262b222387f65cd89b": [],
   "ube70c60eae12ab7dabc3299946ab58a1": [],
-  "ube714c32d49861e9e16d8a0d405556be": [],
   "ube71e4abc38f03d6d7cb502650074716": [
     "🦢 𝒋𝒐𝒃𝒋𝒂𝒃٭³⁵⁶ 🚵🏻‍♀️",
     "🦢 𝒋𝒐𝒃𝒋𝒂𝒃٭³⁵⁶",
@@ -37225,11 +36883,13 @@
   "ubebcd1c520811d1e4ee0950e87e76527": [],
   "ubebdc1fa94f7a778bbb4aacf87d375cf": [],
   "ubec351a58fe5cb79c7fd515811285d43": [],
+  "ubec38b32a55686a91106169ec407e077": [
+    "ลำไพ พิมพา"
+  ],
   "ubec58082365e3ac52fed47955ea4c02b": [],
   "ubec5fe321286f5674aed1b18746a6308": [],
   "ubec70abfed6dcde3b4d1604644ae66c2": [],
   "ubec72f006a95b07e4a876742ac4ce4a3": [],
-  "ubec8b7c1e5e4e1d49e2d04af99a5cb13": [],
   "ubeca172f2d89f4c7106984d8b2a8428b": [],
   "ubeca5bf9e4e6e3235d6e8c9684caed17": [],
   "ubecd4970942496453717556175457a12": [],
@@ -37283,9 +36943,6 @@
   "ubf18613bede154dbf33e86f1b98c8fb3": [],
   "ubf1a3ed8cbbbbf7c61b16de5fd20924b": [],
   "ubf1cacd3f27c0667a94b6b4086ea509f": [],
-  "ubf1ebea5c7013804a2a489693f94847d": [
-    "KoOk•🐎"
-  ],
   "ubf1f4d93114b7c9abbe28f5c6bf7abc8": [],
   "ubf200d952e47c2506c0d665862e3b3ec": [],
   "ubf2255813cd6459cb91ee7aa7bb66dd0": [],
@@ -37345,7 +37002,6 @@
   "ubf5dc2645abc53561e3abc52ba91736d": [],
   "ubf5faf24ed5c9ed8eedcc6ee96ce93f0": [],
   "ubf63bd89feba9fed70d8893c9fee5db7": [],
-  "ubf6455bef7bae0ab5057a9d2df39121a": [],
   "ubf646b7fe868320ca5c47b490b5a2eb3": [],
   "ubf65e308348a803647423af79230b96f": [],
   "ubf6fd1f8d71789c7833886ef7675b585": [],
@@ -37406,7 +37062,6 @@
   "ubfbac51f2c07cde0a2d61d80e22aec30": [],
   "ubfbac7e99f73407793de620d07adc8eb": [],
   "ubfbf22e09261c025a0be2fd08e711bb1": [],
-  "ubfbfe5656ec58044c1f12b82fc8798a3": [],
   "ubfc16a56d0413ac097f8b6b7ac477e09": [],
   "ubfc3555b3d009c3e66364e5a861ffd48": [],
   "ubfc3a7bfa090e95465a93f44cca3a1c2": [],
@@ -37604,7 +37259,6 @@
   "uc0f070b59a1782759267007a23009e6b": [],
   "uc0f12b28e46c32acb39907f80d84e9a3": [],
   "uc0f1df975758412a65cfb2ac964a6b93": [],
-  "uc0f257a22b1333c9201436280ebf195a": [],
   "uc0f3118dceff4c36cef2eb7bda25279a": [],
   "uc0f4a4ae0611ca92ada5f633fe84ee53": [],
   "uc0f70c583f0f10b1b98bc780c97fa452": [],
@@ -37832,7 +37486,6 @@
   "uc23eb4b2568e23024692dd3f74d69c6f": [],
   "uc24110b98864bea03c198285edc4c783": [],
   "uc2432eddbc1989459c7b56d197d3769f": [],
-  "uc24474c4f76d906a3b9f2388d04d94f6": [],
   "uc24489101032ad57a8ea56e1acc49428": [],
   "uc244a74ba3a571e94d500bb96d8397ed": [],
   "uc24532e5ae83732a93da7cf162d9d1bc": [],
@@ -37968,7 +37621,6 @@
   "uc2ede9fb7249f64f98dd5ab5f1572054": [],
   "uc2ee5f1679fc8fc83a9390d8fb602fe4": [],
   "uc2f16f1f50a5c601861ad46a2c195473": [],
-  "uc2f450a8864939cf4ad43413ce9bf9d0": [],
   "uc2f5df2a72107c13a7e775396465ffbf": [],
   "uc2f766f13d1891b0e5f153a28245e769": [],
   "uc2fb3f2a8ff1a93a0d34aa8bcad05268": [],
@@ -38232,7 +37884,6 @@
   "uc4512e7526b33e23060a142f68e1fd5b": [],
   "uc4523af725a1df03525a441fba562219": [],
   "uc455bf14c7d5ea39beb22a075c85793d": [],
-  "uc45680434425356afbfbc2bc06305742": [],
   "uc4595540ec027a51fa4c8bee19180a8b": [
     "Alma Karlee ",
     "KHAN SAHAB¹⁹",
@@ -38440,7 +38091,6 @@
   "uc56a4952d274e27f58628724cfc3e5ee": [],
   "uc56b288b4df2a4238fc9b31c79987d41": [],
   "uc56b79862527e5e8136af01e77c93dc9": [],
-  "uc56d44f5466c32628e1f870a9af80966": [],
   "uc56ec0efd492de12102661fef6134427": [],
   "uc570f15cc4af8f9dae6b2fe0bbf831fa": [],
   "uc5715f2eeac895ed78fcdf1f6cecf175": [],
@@ -38625,7 +38275,6 @@
   "uc6649eeb032ba7d7d8501312d10e2869": [],
   "uc6650464b25de35998de1b8d2f2559ab": [],
   "uc665835b57044fb7b050c43e266ea3c4": [],
-  "uc665df693d3e650066e1b095352c3e42": [],
   "uc66626191016bd7073ca70cc4dee7552": [],
   "uc66a37c727184eac5d5485825471a02d": [],
   "uc66bfe5e4fb066312329ebad7b620107": [],
@@ -38723,7 +38372,6 @@
   "uc6e6e08a2b147bf857136c4508d1385d": [],
   "uc6e8112a22ae9932cf6277462ff4310d": [],
   "uc6e8dc81d6498c3f75f4d4813cd3fcf1": [],
-  "uc6e918aa9d81084a7aa26839c8a59deb": [],
   "uc6ea1f1407d77a95b4a86da20218ba7f": [],
   "uc6ea224bfb9ed6d5024b8eb873a2c0df": [],
   "uc6ea56ae9eeba1dc313044a4e6240729": [],
@@ -38754,7 +38402,6 @@
   "uc706500ba7231eeca7442bcde24b1c72": [],
   "uc70889ceb61a1dd4419d0e4d7a7cb555": [],
   "uc708a285e7df7ab7749ceb05e0e48c89": [],
-  "uc70cbfb7235efe3ec52940014230a979": [],
   "uc710aa0ea2b4d424d140d7c31a9a5c3d": [],
   "uc7138f458aec319dd82a6b3570b317fe": [],
   "uc71669c29b98c917c526b36b283499e9": [],
@@ -38798,7 +38445,6 @@
   "uc74d4cf514942b4e1c547df4970c6df3": [],
   "uc74db3ad3fde7a9b1c776ea75b36ab06": [],
   "uc751440cf0172cb503b2f5bc376d2bac": [],
-  "uc751edb4e04786c7a0695c5b45ce0d1c": [],
   "uc752043eb2efd93effa58bf76db1dd14": [],
   "uc75207ebd7e2e7e30727f059befb2fb7": [],
   "uc7531eeebd36a5c1958fd3d553ff1a15": [],
@@ -38870,7 +38516,6 @@
   "uc7a02e4079fa2274e4325ea90c566192": [],
   "uc7a15524dbc34645d33b7ad40e33e8ab": [],
   "uc7a88f986e2d9b2c9fb300bdeb7f9254": [],
-  "uc7a8ed26d0b480d9e01fb1093510c6aa": [],
   "uc7aa486559244bce0ebc1d95b5f81bfb": [],
   "uc7aa4f9e47e2ed5fce1b46c508703a46": [],
   "uc7ab1cf46a26932e68873596090afe6a": [],
@@ -38945,7 +38590,6 @@
   "uc80405246c3653f4967891e419ccaaa8": [],
   "uc804c6904ef44b09088776c1f6ce0079": [],
   "uc805ed99cbb37099d64c3c7a590f9ad8": [],
-  "uc8066cbb974f3da1feaa77d6c4c70e75": [],
   "uc806a6de353a6e744df1796032715961": [],
   "uc807c14f5beb1ed9a5f4c1bf644ea81f": [],
   "uc808adf3aa07f532d251a93f39e01110": [],
@@ -39231,7 +38875,6 @@
   "uc9820617c7fd00ba769869e1fb27999f": [],
   "uc985e5ef386971d45dc8ee1052f50124": [],
   "uc9862d892b8995f451a0c5e3074ee97a": [],
-  "uc986ab5ee7b2581f69c7e17539090e59": [],
   "uc98a01b7378069e8809efa1a9301bd52": [],
   "uc98c82ccd7d32c40df35883266cfc3e5": [],
   "uc992c732a4919d3351b2c10ebb099fc4": [],
@@ -39420,7 +39063,6 @@
   "uca7fb33085cf17aa5cebd5dd69c4266a": [],
   "uca812188412b0eb75c5d6e35369fa5f5": [],
   "uca8323f54fce31b89ebf94c51c2d50cc": [],
-  "uca84aa3f0e5b7a3c342ee086f1697d36": [],
   "uca856d7fe93b9fd835f845dadfa4052c": [],
   "uca86e9ac8893c678200e3fc7fcb71360": [],
   "uca87cf77364736c59840995aaeb83daa": [],
@@ -39428,6 +39070,9 @@
   "uca8c471cb71578d745cdc63210ecf07d": [],
   "uca8cd43ec3b8ee210895777f9dc5911e": [],
   "uca8e55c29043ba7f28cf4d6fc25a686c": [],
+  "uca8ee8b1168b3ddd1b798418ca99005b": [
+    "💞S.T.💞"
+  ],
   "uca90d6131914d7fb58299d10fda8db41": [],
   "uca94122131b97e0775abc7fa64ee8c68": [],
   "uca953a5ad2acbe92dfc2f4d7216bfa3f": [],
@@ -39859,7 +39504,9 @@
   "ucc65fd8060744866396d5abe6d58575a": [],
   "ucc68adf04a53db0105ca3d08407ffb86": [],
   "ucc69006433073cd70231880bff944cc9": [],
-  "ucc6945fc0ccd5c097b4c4209abe7dd8c": [],
+  "ucc6945fc0ccd5c097b4c4209abe7dd8c": [
+    "Dror(Carmel1) 34k"
+  ],
   "ucc6a63baeb556cbc5db7aed02adde2b4": [],
   "ucc6ef559bf15f84cedb6e9f5ca58de82": [],
   "ucc6f3ebdb5db87ef09b110ff663ce5b3": [],
@@ -39922,6 +39569,9 @@
   "uccb5ac94bb66fed6c27c8245ff31301b": [],
   "uccb6c1d3608eb8119cda586282d326cd": [],
   "uccb6f5d1af6d05a90346e81cf350bc1d": [],
+  "uccb912de5173af45f4ce42a9684c5976": [
+    "วรัญญา🪻🪻"
+  ],
   "uccba21cd930d15e69e6c943967fa150e": [],
   "uccbba2e536a8612e6d1e21f3fee69812": [],
   "uccbc66f9d27929d0208cb723eb485466": [],
@@ -39930,8 +39580,6 @@
   "uccbddc9bc6d7f0a5381e3d1b1f373c22": [],
   "uccbdea344ebcaa5f37f26027639c8eda": [],
   "uccbec50df3474b5d194fb6123de257c8": [],
-  "uccbf76d5c8a8800851198c98d35970f0": [],
-  "uccbfe0426f61e78c8389a90466c8f573": [],
   "uccc0aa3a81804c7b12aa6cbc688fc99a": [],
   "uccc0d50b3373abf52fea201bb593d97f": [],
   "uccc0f28c7de8c4d6b2364fb39b26ba2e": [],
@@ -39995,7 +39643,6 @@
   "ucd1e876bdf506e687a31d89b33fb3dae": [],
   "ucd1f8b9750e7755a29d80c081c9f39b5": [],
   "ucd2007aa921b83b14ad32107b8cd8be0": [],
-  "ucd20257ab8dfd63e04ae09a31317fc95": [],
   "ucd20b21c7e8c13d2720859f2c79afa0d": [],
   "ucd226ab073202d27770b901716bb5ec7": [],
   "ucd22734ad1ab3192b0530d6d6efc4d4b": [],
@@ -40113,7 +39760,6 @@
   "ucdcacac25f5a44a5c4f717e2a7d2c1cf": [],
   "ucdcbb551f00db0a0a152305cde214ddc": [],
   "ucdccc35d57dd4528cd44814e6cff8a10": [],
-  "ucdcf8c131613e7bae774a0090cad00ef": [],
   "ucdd1b4296a406b508243403455e2d626": [],
   "ucdd2e0113afd6421b5d74767ede28e67": [],
   "ucdd2e72466adf8790c3af01feaf7efb6": [],
@@ -40126,7 +39772,6 @@
   "ucddac08fb090c81aadb449aece961021": [],
   "ucddb06f6c4916e517256d3dda01eb059": [],
   "ucde1793119cef8fcd19c243a08fb7d4d": [],
-  "ucde359c09f80230261d9216469edb2fa": [],
   "ucde780db1fba657745121b423dfe09df": [],
   "ucde9123eee8108ee896e28addddc3cfd": [],
   "ucdea59e05cdf02ababecb3594ff8445d": [],
@@ -40279,7 +39924,6 @@
   "uceb4b62989e0a0bd3b63f4fb0f62aac5": [],
   "uceb531cee8a35e1635c564acac19b594": [],
   "uceb5c8204e9050516b3ab69a44da17a4": [],
-  "uceb65555d955e79bfe8d96488a5d53c6": [],
   "uceb6679ee138f285a40eb25d51feee4c": [],
   "uceb7b43535206b4876eb5c6b794c09f9": [],
   "uceb81088ee1dcad063d8c9d9001fa0e8": [],
@@ -40310,7 +39954,6 @@
   "ucee23dcd351bc7a2b93251b18f0f64bb": [],
   "ucee25608ca6a2bfcce2f89096208b1ad": [],
   "ucee2fb35619c086bfa2f4684168d9223": [],
-  "ucee4286f01b9f529ea2daf820f328fe9": [],
   "ucee55519debc6417b4d24a9148274739": [],
   "ucee725c0880457191a60009ef4f31b38": [],
   "ucee76e3b26761b2ea422b0576b81f54e": [],
@@ -40371,9 +40014,7 @@
   "ucf430da38c96ea81e66b9920f0bf0f06": [],
   "ucf4398940f6dc85a44d86d240c67410b": [],
   "ucf4438d787e7d6f1709906e0f3e1611b": [],
-  "ucf456310f7276d60bd5efcaf92cd45f9": [],
   "ucf48edfed75cf3854c618b49e43c4649": [],
-  "ucf48ef94d33234e11911ba507cf06c75": [],
   "ucf4a091203cb9132f03dad941f373b54": [],
   "ucf4b24877ded2e2d730e5bd871876082": [],
   "ucf4e0a8dbb8435b795d17ea5c068a596": [],
@@ -40442,7 +40083,6 @@
   "ucf9e6b0157ae1caa12fe237043025647": [],
   "ucf9ec3c20955aa2de0b6d37300686977": [],
   "ucf9fb8d1f90e61919eacef073edba879": [],
-  "ucfaa2ef22c56addf0acd866a7ee27c64": [],
   "ucfaaa69fb0525fa240514e44759c9320": [],
   "ucfab04ab11b351719d1c934cd5406e13": [],
   "ucfabdfb24e85c39bfa92ceeb50679b94": [],
@@ -40494,7 +40134,6 @@
     "Ninon Kitty ",
     "Janeva Karee "
   ],
-  "ucfde712f8a2247ee22af222e09fcbe99": [],
   "ucfe1e3f4da127d1ab64c9b854e922950": [],
   "ucfe31ff07c687b74867694077939baa5": [],
   "ucfe4dad996f83386c94ef973cfc62784": [],
@@ -40520,14 +40159,12 @@
   "ucffc3d1d1fa990b67ef2590102df205e": [],
   "ucffc86458ff901544505b7db63f7b4e4": [],
   "ucffffac0dabe9e08ec3d5f1e82560183": [],
-  "ud0009ba661f0af111f2070c4401f4e45": [],
   "ud000dbf4610060dd2e853b8940d57439": [],
   "ud00789e19d2c26d0a2d4489a601d2030": [],
   "ud009dc6139a33f4f5f6b21a9a0cc78a1": [],
   "ud00a317ac45b5d26f9e45cb4665eee46": [],
   "ud00f06916e53088885f7ee42faaabcc3": [],
   "ud010e7e625a23b375f6df2eb30565975": [],
-  "ud013cd049788de8fb3a53b73b45737a6": [],
   "ud014cbf06e62ee6323f1ba1dc04e3483": [],
   "ud01627cdb540fccce72da8182e4ee88a": [],
   "ud017985d4623939c94293ba21e40c6df": [],
@@ -40607,7 +40244,6 @@
   "ud081721fc8064bdaecfcb2f07be194bf": [],
   "ud0858270e147a74b7754ad500c944ff9": [],
   "ud0870032c22d78e32ae5f583cdb7e29c": [],
-  "ud0870b608e5694a779f0fec380abfeb0": [],
   "ud0877f83d966e45accdf3a5f0d641743": [],
   "ud088e2d62b0ceef895e77cb9773d8c6e": [],
   "ud08b114df52cfa45b7856b14cf03aa76": [],
@@ -40792,7 +40428,6 @@
     "ยง",
     "KUL"
   ],
-  "ud15dd464c7a6bb96a72acca643531586": [],
   "ud163710f6a08bcc8ba768d5f52caca48": [],
   "ud16525214c32471caed6ce329d84f2f6": [],
   "ud1666a6aeb61939d18bc5296638ce94c": [],
@@ -40842,8 +40477,7 @@
   "ud1a92796dc5220f9a0657a33c0cc4ec2": [
     "แพรรี่🧧🀄️",
     "Cheekypear",
-    "Cheekypear💰💵",
-    "แพรรี่💰💵"
+    "Cheekypear💰💵"
   ],
   "ud1aa03d03c0d89f86245fb25d704c41a": [],
   "ud1aa52eaab40802aa1156e4d3e4c0a56": [],
@@ -40922,7 +40556,10 @@
   "ud20bd419f94a309204a800b66514ae89": [],
   "ud20c8a913bf1d2981cd835fe2dcced13": [],
   "ud21184cec8637cb16715dc9ab159306a": [],
-  "ud215d6d3ace1a16467c9bfd8e0cafc42": [],
+  "ud215d6d3ace1a16467c9bfd8e0cafc42": [
+    "🩸☠︎𝓜𝓾𝓻𝓭𝓮𝓻 ☠︎🩸",
+    "𝓜𝓾𝓻𝓭𝓮𝓻"
+  ],
   "ud216bd5b4c11807fe96d00336033ffe3": [],
   "ud21958e809d0f3cfe6691cc8487fbb16": [],
   "ud219e01b041e06c1634be200f2c6f666": [],
@@ -41094,6 +40731,9 @@
   ],
   "ud2e448630b0650183f2622904bfeff9c": [],
   "ud2e57e14ca05d58505446a5e03491179": [],
+  "ud2e5995daf5f1161c894b830f9c636e4": [
+    "ธัญทิพย์ กองจันทร์"
+  ],
   "ud2e5be7c86b3720ab615f78156e39360": [],
   "ud2e74ae40afa782b243d3d386481e230": [],
   "ud2e7a56075942b902ead0d797807b390": [],
@@ -41166,6 +40806,10 @@
   "ud340ad148192a1c62f2fe9718a42f1c7": [],
   "ud341c3be171974abb0b276db7f939c11": [],
   "ud34298510f765e490ec3c949523b20bb": [],
+  "ud343c2fbcab03326d1990a198e20ae9f": [
+    "Ma👑",
+    "Mama"
+  ],
   "ud34538abcaeeff8d43406391ba7d04a7": [],
   "ud347d32b9f7afae982f1ea546887f5df": [],
   "ud3490c791986277325239a9400fde4ef": [],
@@ -41224,7 +40868,6 @@
   "ud37559f45ef3639c458762fe501e28a7": [],
   "ud376a04f44686b4a0ec1eb2f9fa571bf": [],
   "ud3792d00f8863abf0fd62f7bb34f8e10": [],
-  "ud379ec5cd69877b1f55dcc4e3e349fe9": [],
   "ud37b49fc7503f6e99565fbe2571c34af": [],
   "ud37bebd6aa31191ddc58c08e37052175": [],
   "ud37c35bd2fb7c17adde2ae22129b1440": [],
@@ -41248,7 +40891,6 @@
   "ud39b66b3575c1256ad42ed3cb1d77f62": [],
   "ud39b6bf91ed8c33d3d207a22a619061b": [],
   "ud39c21c185cd948a837533d08c35f49d": [],
-  "ud39e193d943b8118d18093c0423e5e9c": [],
   "ud3a11d5fe15160de2eb36182768d8786": [],
   "ud3a125c4844bdb48229e6d5e4579c980": [],
   "ud3a16835d86eebdb376e090b0d58801a": [],
@@ -41327,7 +40969,6 @@
   "ud4086f87e0d8a088a69da4849aae122e": [],
   "ud40a030b209c39b719a99e495f3fc647": [],
   "ud40b8b8ae292b241510af63bc427d070": [],
-  "ud40daee31a22dfc0e518dcdefc731014": [],
   "ud40e2e2d9cd357d39accc983999dfe13": [],
   "ud411a2778496ad42f663355e05269971": [],
   "ud41307a29d6f4d846fc4af01dfa9ff9d": [],
@@ -41467,7 +41108,6 @@
   "ud4c79e6320e7c8d80077f7869b7f3e36": [],
   "ud4c95536f8223bf0560776040454b906": [],
   "ud4cc5908ba0c5aab3491ff71f1394013": [],
-  "ud4cc6c4eabe864ce01fef17068387650": [],
   "ud4cf026a7ea3b86188abbe2e0b6ba01b": [],
   "ud4d413e403b4bee6bd35398c80863e25": [],
   "ud4d81d16b81dd8bc6e5526a8c5cda0d8": [],
@@ -41517,7 +41157,6 @@
   "ud5218abf9e03332bd344a1aa32f95297": [],
   "ud521b6710136e1e58ec51774c463e948": [],
   "ud521e4ec97dea187b3b9602f900a0131": [],
-  "ud5273a6c112fbaf38f6256c7d2ae350d": [],
   "ud529bae440453b8d87897d297ed50144": [
     "🈵🛑บขตีกหฝววืิบบบม🛑🈵"
   ],
@@ -41532,7 +41171,6 @@
   "ud53495d1812f39b1b977f179f313c5dc": [],
   "ud534dc9ce30586b78f70d71d08faba4b": [],
   "ud5361885707d18fe864ca4d738ebf7d0": [],
-  "ud5364b1851958e6d93eb92a2efeb18ea": [],
   "ud538afc93e087126c25634ff38427063": [],
   "ud5393752206068d9955e225eeaeb8ed1": [],
   "ud539f65287182dc558e9806ee1e50dfb": [],
@@ -41633,8 +41271,6 @@
   "ud5c911a53255b4da6b9e20faeeacbc97": [],
   "ud5c913e4692cfb58cc72729d9863a997": [],
   "ud5c9f22faeeac8456ea667425a6670d0": [],
-  "ud5ca4340b7f5f6e3a269dde65b465378": [],
-  "ud5ca8869989f6b79c10d2fd1c60dde41": [],
   "ud5cc3e33d04dfeba021f8dd273e907b0": [],
   "ud5cd6dce39570d416474d74b1a023351": [],
   "ud5cd70d9d8826cf0c01f70a965cd08bf": [],
@@ -41679,7 +41315,6 @@
   "ud5f92de5612db00f0fe11130a572d6c8": [],
   "ud5f9d5645facea062615e0f14987f047": [],
   "ud5fa2a076202676705ec86c03a2a8f02": [],
-  "ud5fb2557a32c1482d5fda1ff151cdfca": [],
   "ud5fc0c168daede6b3688bda86a164027": [],
   "ud5fc9ea7cae2a73c7e27124eee7a034a": [],
   "ud5fcd7c820f06bcb555cb830b7d08cee": [],
@@ -41874,7 +41509,8 @@
   "ud72d59031c01b76291c0f33c0c42a800": [],
   "ud72e0f4e5a65ac7c8b0b5aacea554bdc": [],
   "ud7333011f03e77acf3c4eb4735166ddd": [
-    "LIFESWICKED {33.9k}"
+    "LIFESWICKED {33.9k}",
+    "LIFESWICKED {39.19k}"
   ],
   "ud735a3cb2eac03e3bab5ffe39ea47a69": [],
   "ud737f46d07c272d029e9224aaf81ad9a": [],
@@ -42015,7 +41651,6 @@
   "ud7d5f9ecd563f2338eb5ed2153095e85": [],
   "ud7d8744a4b46826fe842d82923adac29": [],
   "ud7d8a7d4b0be00861d6bf2fd54b161b4": [],
-  "ud7d9cc913f6174b89894fa20a7ef66c3": [],
   "ud7db2f430f997086540c2204a9beb56b": [],
   "ud7db8bd27f3954f18006c356ccbe59df": [],
   "ud7de6c8529cfbb8b6e8df8e4c2cd5ab9": [],
@@ -42042,9 +41677,6 @@
   "ud7f7e6f62eda05dcb95f1df3875733f5": [],
   "ud7f903d5b0ddef7ab625608d6b8bd754": [],
   "ud7fb0248bd242a19b7a56bd194408fd2": [],
-  "ud7fbf14796a714ce101c7517ebdd0848": [
-    "ปา ชูลี่ 789♾"
-  ],
   "ud7fc0c5f4b6b15e77197d8b9f483de2c": [],
   "ud7fc9b91446313469e9b254cc2d660da": [],
   "ud7fd3ddd15827c721ff6f730ec210608": [],
@@ -42092,9 +41724,6 @@
   "ud83877653c647d638c3edbd1615b6210": [],
   "ud8397a13c8ca87ded30131d340e9e486": [],
   "ud839c430e3de2974971097823cdd17a8": [],
-  "ud83a65447ba54f0fbd890ee3ff7aeea3": [
-    "koy"
-  ],
   "ud83b1bb2ff92f246bcef7e599cf82951": [],
   "ud83b5c2586a635b579c4dba66414ea90": [],
   "ud83cde2cbeae64339cc38bc8ba2c50a5": [],
@@ -42265,7 +41894,6 @@
   "ud916bf20d75fb7d958361acf37c7b00e": [],
   "ud916c381d1bd3216ab3d1c8f827d6f0f": [],
   "ud916fa3bf2ff20e60d209f4f0ede08ce": [],
-  "ud9174f26a02f110f42327c384e566f14": [],
   "ud9190de5f55ea14713e8a3a56c145981": [],
   "ud91d91dca5ee963a78c982e3246cf605": [],
   "ud91dbd13a9e29673930001377dc2b627": [],
@@ -42294,7 +41922,6 @@
   "ud94dab5cff79b564e00924e88c1787ac": [],
   "ud94debc2dfa4c561cbcd798bfe160954": [],
   "ud94f61aabbb758244010d2d616b73491": [],
-  "ud9599e87b477dd150c70578cea68cfcc": [],
   "ud9599f89816ed46547a035019beec47e": [],
   "ud95d1b74c674222db4159ec9185625ba": [],
   "ud95d4a9ec3097c2f1bdca0f319b438fa": [],
@@ -42308,7 +41935,6 @@
   "ud965db09691ac4ce62dcc519099e6ecc": [],
   "ud966e622fea8adc079078f50c2b3c342": [],
   "ud967026ff6e5738878d2263a36e77bde": [],
-  "ud968df01a6fccbe2a8d56182cb95b1a1": [],
   "ud96b2f452166348134a30440fa63e513": [],
   "ud96b51fe8fc87c6e23bde8b40e4ae581": [],
   "ud96bcfe6fdf5cd600c5e3b05d3308190": [],
@@ -42392,7 +42018,6 @@
   "ud9cf5a0f9604908f79482f6fdbd93fc0": [],
   "ud9d1f57456d1b60387a81f8c1dcb9f64": [],
   "ud9d29751e058f9a4195d7b4cb27e5bc8": [],
-  "ud9d4c23d4aa9ecbff77a6c08c1ccca1d": [],
   "ud9d75f4686f7749af4f4c0a28c2b25d2": [],
   "ud9d997aa4e4a7b46b711f51ce8eb4510": [],
   "ud9db7832c24278c2dbdffb9f8ad8ea23": [],
@@ -42484,7 +42109,6 @@
   "uda3f406c3b60ae809c4f5ab1f08cddd5": [],
   "uda402f2816037da1eb9f4d31efb18818": [],
   "uda475d47009e2187be2eeed3f7ea707a": [],
-  "uda480d5aad8002203abbe00ac444d717": [],
   "uda4861c9ed8c404b31ce8eb1cc4467d4": [],
   "uda48f18b70111fe489c8fdf95d3ece37": [],
   "uda4db9bd30ab1398fa35f65e311e3441": [],
@@ -42537,7 +42161,6 @@
   "uda727fb759318c6e7ac0e8ff441eb8ce": [],
   "uda75d2b8e80759ca7c3256e80c42b95e": [],
   "uda75f7c1dbdb3c1d44e231861b2ac418": [],
-  "uda761b4829ea0861e590f7f1b81af697": [],
   "uda775b64bd6c41ad1118855273478e91": [],
   "uda77a78592885fc825c3aabce645ae93": [],
   "uda7b0fdf3c420dbcad1701bb3e2ac5da": [],
@@ -42730,7 +42353,6 @@
   "udb56d1178014eaf889c449c371796883": [],
   "udb56d9ada3bded6802092acbee797168": [],
   "udb577149aa7bbc20258e0def3ed6c1c0": [],
-  "udb57dcb43b672a1e610e7ebfbcbe28e8": [],
   "udb590e9a8abe45770ed2771228e9b84d": [],
   "udb5f34d16bb32f5c5c7d246f30c98280": [],
   "udb61106f2d33d7eb85f88d1aaafe63d3": [
@@ -43007,7 +42629,6 @@
   "udcbe3ebc6cf99209857693b3c240484d": [],
   "udcc03d42944cdc0c90deb95cd90f4e93": [],
   "udcc0f0c228855bd4d1d6cbc15e2293d3": [],
-  "udcc475f3923fae8e819bc3cefa913d41": [],
   "udcc4c3d765b5e891b7fa0a9c3b365ae9": [],
   "udcc7adbf1a7a5404a757f5f5aa8175a0": [],
   "udcc7c700cbeea33d4d5462941bd45c0b": [],
@@ -43043,7 +42664,6 @@
   "udcf986add783b32dd6b20a5500bac777": [],
   "udcfad0bb6edec78ef800805fe21b69f8": [],
   "udcfd4ac94f6806b679548a866bdff6ac": [],
-  "udd0194f61ab11264b048b8d6bf6fc8df": [],
   "udd02387f12cb4710d8664966ae4cf173": [],
   "udd05fa14883e0e9fa95782518d43d578": [],
   "udd06becdbc0aa45d184705d27513653e": [],
@@ -43164,7 +42784,6 @@
   "udda0e43319cd3a311b02042acf9eeff8": [],
   "udda1bf82c2c116b9611441c5e9296f43": [],
   "udda39375f75b2393f06f2be0f00977e2": [],
-  "udda47565739cab4cb9fbccf57c88d8fa": [],
   "udda592f9aec251f7969ef06c80701bec": [],
   "udda6f9c37fe00c6e901b44084665484c": [],
   "uddaf86304e8b2ea133645de7b2dbf88b": [],
@@ -43174,7 +42793,6 @@
   "uddb62770439ff1db5413d52ba012884a": [],
   "uddb72aa09aa375cd8fc29cb2f91edaf2": [],
   "uddbaef783067d861d5cd08ab6181bb94": [],
-  "uddbaf9e0aec37714fd890061183c4fd8": [],
   "uddbb69db755416d2b6140925b1e9158c": [],
   "uddbbfadb73bdc35771fa81600be81487": [],
   "uddbd31c9eaa890b0aee10ba690d607e1": [],
@@ -43408,7 +43026,6 @@
   "udebbee31af3c2bacfc9fd0e462570082": [],
   "udebc83658b7b8e5666e0e93f61f6c6dd": [],
   "udebd274d6ed1f3b69ca4e5c868204633": [],
-  "udebe3695f55c8b8eefa2be8a090eb69b": [],
   "udebecf3c836a0f9998978d0b6da0ba7e": [],
   "udec177f19469cd47de05e35d26adbf65": [],
   "udec1acf38d2044329773ccada4fdba9d": [],
@@ -43528,7 +43145,6 @@
   "udf37b4b66fcf598f0a3b7d192ef55151": [],
   "udf382118f25b718dd2ee52077d532784": [],
   "udf38eaedaff71cd0b2befefc7f57222c": [],
-  "udf3bd5b4b3b3df523e72cc822c781206": [],
   "udf3ce39f4b09c627b4068464971de598": [
     "🦋",
     "BEBIE❤️‍🔥"
@@ -43622,6 +43238,9 @@
   "udfb5be94be47b12eb5f3aa5fc12781df": [],
   "udfb8e29f54401d9a9392c4c97992a6f9": [],
   "udfba05cbd789cec4196982df6f0d1ddb": [],
+  "udfba50c657e8429489c90190e49624b3": [
+    "...🌷🥕🌤️"
+  ],
   "udfbd0a1f63372f271709a23986906cc3": [],
   "udfbd3afe90a1a75f60e96f1608113ffd": [],
   "udfbe7c5fe64e255fd4bf2347e6e88b2f": [],
@@ -43666,7 +43285,6 @@
   "udff1986e358540ee3d2d22ba530e3276": [],
   "udff2498c3f70dea70c9d23b247a0d0ec": [],
   "udff28ae123127d0af2636cfb53cea993": [],
-  "udff6db44af75be78be4bc599037d003b": [],
   "udff8c3277c9f47c3629f61253681c327": [],
   "udff8c4e091499c6f833753366f94b056": [],
   "udffb1d23798d886976ee22beadde4e9f": [],
@@ -43706,6 +43324,9 @@
   "ue01774829d926c8fbf17149613c66e2e": [],
   "ue01b0d084a7110c4edb0d27574387d16": [],
   "ue01e16112f413a6ae4f1f3a0348cf3af": [],
+  "ue01e5ae14e882f4a7de6c0c809934221": [
+    "จันเจ่า"
+  ],
   "ue01ed11d7ed9d80d67a2b92fd63d7413": [],
   "ue0221b78210c43284265b5d6a320630f": [],
   "ue022a0716e62120de4d6120701aa7905": [],
@@ -43790,6 +43411,7 @@
   "ue09c430a765a56ad761c4de2e9be69c3": [],
   "ue09e67a316a250d463caa8492ffbd397": [],
   "ue09ed8bb987ab353315ee0b7ddf0bc62": [
+    "แมวป่า🐱🐱",
     "อนิเม๊ะจัง🐱🐱🐱",
     "หนมปังปิ้ง🍞🍞",
     "หนมปัง🍞🍞",
@@ -43808,8 +43430,7 @@
     "@เปรี้ยว(สำรอง)🥦🥦",
     "อะยิโน๊ะ โม๊ะโต๊ะ",
     "คุณนายตื่นสาย🍍🍉",
-    "รสเปรี้ยว🍊🥝🍒",
-    "คุณเปรี้ยว🍊🥝🍒"
+    "รสเปรี้ยว🍊🥝🍒"
   ],
   "ue09f4ee5b771a75393b40fe6087a8b3a": [],
   "ue0a0a7fa4cf26c9aee2a12b52633fd40": [],
@@ -43931,7 +43552,6 @@
   "ue11d72f6493e36261ee2e7c3be95e69c": [],
   "ue11daca0a72249860250b3dfda4b84ca": [],
   "ue11df691ebddd737439aa25a04665f23": [],
-  "ue11fe85a05a501ab0733d73da49cfd16": [],
   "ue12043f335f908e4412b6dc0613455a7": [],
   "ue121644c98198ff5c7dd9cf08bf2173e": [
     "Neila Avis "
@@ -44021,7 +43641,6 @@
   "ue192792951889695dfa55f86ce0582c8": [],
   "ue1991f8e02f2933915743539e4855074": [],
   "ue1996502b241c505c2625ffd5c830b51": [],
-  "ue19a777e2ac49a9002fdf2b7d518e115": [],
   "ue19a8253f0134693c13f76107647b0a2": [],
   "ue19b219760ec2b2e4addd97e191f5d99": [],
   "ue19d5dbe797664873095a581fda6b3e5": [],
@@ -44154,9 +43773,7 @@
   "ue25b0c9bf699f9fb7f3767d87eca82e6": [],
   "ue25ddd5477d0e1dea304073b4ef693ab": [],
   "ue25e18707a02063624fbeea34b9cea14": [
-    "Sarika",
-    "สาริกา",
-    "กาย"
+    "Sarika"
   ],
   "ue25fa313f941d92c522dc1116368a8ac": [],
   "ue260d5a31aeab220c2a1a20cff676c3b": [
@@ -44216,7 +43833,6 @@
   "ue29c3f521d8320a48c2857519b04c1dd": [],
   "ue29f178ded17627acd5175250bfcac27": [],
   "ue2a1b685b6ed36b323935c6797bcbb55": [],
-  "ue2a31ecddd73efcf5d3c557a9b80fab8": [],
   "ue2a6d7df3b5459aaddd512cb9b5b9de7": [],
   "ue2a7609c1209a4ac06766e5ff13d5505": [],
   "ue2a9bde7cf7d809abcbcec4bae8fe4b7": [],
@@ -44388,9 +44004,11 @@
   "ue3724c3832b7bf0f11e7d3c21e94c083": [],
   "ue372a9db76530f0cdf39a8af32669f87": [],
   "ue372da52fb18fc119dada76796177a76": [],
-  "ue37673e42bba7d9d098ed451606ea39c": [],
   "ue377ae5ae7350281ece08686554f7a16": [
     "🐣🐥🏠"
+  ],
+  "ue37a59f024005218a288848a8e9c4ee0": [
+    "Tawan Mesok"
   ],
   "ue37b395f2a347b4e98f27228fbacbcd8": [],
   "ue37ce73e6509650e047f98a59f964306": [],
@@ -44400,7 +44018,6 @@
   "ue383c13db045076133db3060dff4b2bb": [],
   "ue384027df49df30a93aa061b07b273c8": [],
   "ue384739072557e88e61fbeeddea68c98": [],
-  "ue3863e0d566dfdd9b010fda8b31b6ca9": [],
   "ue386500f0973b0ce11923ed57f870dad": [
     "Maew3659💰🌱♾️",
     "M",
@@ -44416,7 +44033,6 @@
   "ue38f46d9dca62c5cb02d915de6ea183d": [],
   "ue39050240af8cd2838f52783d0997c1d": [],
   "ue390d7538785ac5e2acece4392e8582f": [],
-  "ue39270b79fbe37c6c288bb9165e38272": [],
   "ue3941193e517ccb03cf2b7de48be0d0e": [],
   "ue394273bc390ec3ad32a6050460a944d": [],
   "ue395058352d4722725b1393c03cd2ba2": [
@@ -44448,7 +44064,6 @@
   "ue3a1a2c96d66bd86a86a62be1da4a220": [],
   "ue3a20123945641270dca0b63486b4563": [],
   "ue3a6b0a40d02d9bcc230773ad3e7d318": [],
-  "ue3a74b4ad613d5f6b9cb0430b50e2714": [],
   "ue3a79c02d3765acb1686700d0081f6bd": [],
   "ue3a7f790bac321e8fa9486790adc1750": [],
   "ue3a92952caef9f093c0eeab1f5d86387": [],
@@ -44658,7 +44273,6 @@
   "ue4bbb04ff2bdfdfbcd5af6dfadb9f6d6": [],
   "ue4be4c2e21fee1a840f71d5599cf6831": [],
   "ue4c35ef254c1528f19d719f73333ef4e": [],
-  "ue4c4751605bbfa1a560c66b0f477aa27": [],
   "ue4c6e154e091430ef90bab65217cecef": [],
   "ue4c855869d76abceaf4a2d5ce4bbdf70": [],
   "ue4ca45710ec503e7a6fc0a8293be8de9": [],
@@ -44673,7 +44287,6 @@
   "ue4d526e7241062389750b5bc82959f23": [],
   "ue4d556d1887c0c03bf8ffb531da3ea1a": [],
   "ue4d65e808430524be5d1323294941336": [],
-  "ue4d7be05fa28dc1a0bb63241b231c5d5": [],
   "ue4d994977a985dcdb51c5c362385a965": [],
   "ue4da02e9481858902d88cd9a23cf3f70": [],
   "ue4da3728de9b69300c149a37570c398b": [],
@@ -44684,7 +44297,6 @@
   "ue4dc8420afbe680361476ada6d4cce5b": [],
   "ue4dcaba65ce7c1da34dfa3f3397ceb64": [],
   "ue4dcd7752521969feeb0e0d8e1d59683": [],
-  "ue4df86b7f2db26fa01752f6604d9347a": [],
   "ue4e33152345715bc9d9ac6f6e2f91b9b": [],
   "ue4e38ba566f82ed0743700cbf33c2531": [],
   "ue4e50883ad3b698df28608f151141dac": [],
@@ -44821,7 +44433,6 @@
   ],
   "ue5b087bacdb8fc91549e1c44a8669a4b": [],
   "ue5b0d2d80f03fa74b255d5fb43e8bfdd": [],
-  "ue5b146eeba2646c5d73a4cdc12098bb0": [],
   "ue5b30824ba9970137b70b5f1f9ccd062": [],
   "ue5b5e13a1ef33b7b950e45283117c4e1": [],
   "ue5b74fc0f408749fe8e51b9564aaa1cc": [],
@@ -44857,8 +44468,7 @@
     "Pasinee",
     "ไทร",
     "Mo",
-    "Hooch",
-    "S"
+    "Hooch"
   ],
   "ue5d7161ab317ac51cdd2844dade7d380": [],
   "ue5d9c2df2f51f5a2109a37b4ed950325": [],
@@ -44894,7 +44504,6 @@
   "ue60a747d6af7b58005c71736dc870021": [],
   "ue60aed9c73ec5fb95eacede232b597b8": [],
   "ue60b6face59fc39c94b4aacc45f299f2": [],
-  "ue60c2ac67d61cb81f649c3154f9ce3ab": [],
   "ue60e8a261a2a0d732279fc14f12e48a7": [],
   "ue60fa7904b3debf19d3701f254f727e1": [],
   "ue60fd578e199d629a08a5f7890d542f8": [],
@@ -45052,7 +44661,6 @@
   "ue6ee44af2511a4d13cc2759c8ec12231": [],
   "ue6effd5b8f5774cfdd7538df45a8ea0a": [],
   "ue6f042f7681024e53544cadcfeb1f7fc": [],
-  "ue6f0d0ce1be4f7c1ed3799ee94b8fbe3": [],
   "ue6f182e5d748e7d197fa335d18af09a1": [],
   "ue6f1b49df4bfaa7d402ca2a8767166b6": [],
   "ue6f83a2c42dd671e3548a3c0dac2218d": [],
@@ -45078,7 +44686,6 @@
   "ue714a3f24cd908bd2e5d64e1c257231f": [],
   "ue714a64a03881ab15bff901e4c4259a6": [],
   "ue71757ba078f6e12afaadcbc924d05ae": [],
-  "ue71b73a5d191f0892c73b60461fc6f57": [],
   "ue71c8424ea0e499ca83352a5978cc3e5": [],
   "ue71cdfb58f55f8b40d6251a2eae40267": [],
   "ue71d79bdd15d0a505a50337f9d40a4b1": [],
@@ -45200,7 +44807,6 @@
   "ue7b88ff13caef631ad62bf34e243b353": [],
   "ue7b891f55b00e9ef23e519364a348751": [],
   "ue7b9b43adc6d08d26b3fc214ec94c9f8": [],
-  "ue7b9b8f0a77c41a687b346b1e9d4c21d": [],
   "ue7ba07f0edcb9f316f96336144b13dd7": [],
   "ue7ba254b4deaf80c251b39c7ba2d28b0": [],
   "ue7bc3b78763d1e632c4be56df8c75e39": [],
@@ -45235,7 +44841,6 @@
   "ue7e0a4098be007a8c0f6a40b0d8736b2": [],
   "ue7e0b0e3fdb0ebcac5507cede950124e": [],
   "ue7e21642268acc25a955782d221f4cf9": [],
-  "ue7e26ffea410b23626acdf38c46b7878": [],
   "ue7e272d55675eac4160fab50cfec52f4": [
     "💎FahNonghin(Asst)☀️🎲",
     "fah.Yanglor🔫🌊💳",
@@ -45459,7 +45064,6 @@
   "ue8ff19c775ee769848ce18f946168d29": [],
   "ue8ff32afc2a8d4b609dc5aa953265237": [],
   "ue900d585e96720625881b94e140d81bf": [],
-  "ue9029883c0e0457bf359b681e766e2d7": [],
   "ue9061b5cf843e72b4b72b1f5670ab552": [],
   "ue9065d389599acfd2489c82403319044": [],
   "ue907fe726f8b364162da16302729ccd0": [],
@@ -45479,7 +45083,6 @@
   "ue91c7c8aaf1e57314ded7629ac9712ab": [],
   "ue91cbde1ae226718a946d4f573c1078f": [],
   "ue91d519ecd391d72a27cd9c2f7312ed7": [],
-  "ue91f0fc2a74e8b5fcc61692189c33c1f": [],
   "ue9203dfb7a88dc8f21a9a3dd61138a38": [],
   "ue9209ab74773b24b7fe972bdac38f49a": [],
   "ue92113a1f3a300f8ef5f014ac41538d2": [],
@@ -45513,7 +45116,6 @@
   "ue9366c855054d1c4da70c9fbfa1449b1": [],
   "ue936edfe51cf1c4971cf9ef43541187b": [],
   "ue936f0bd672cd30bcb7df06293f33892": [],
-  "ue937242a176ebd15584734b6c73d2c0c": [],
   "ue9372751411b373443e2592e334e1e13": [
     "待修中轉單=嘰哩咕嚕",
     "待修中轉單。少帳號之後補",
@@ -45525,7 +45127,6 @@
   "ue93c1de17f18405b221e92f737b598e2": [],
   "ue93cc0fd094dde56c982ef6c0572ecd5": [],
   "ue93f0c7c602ca7f6e9d873e2c7a39014": [],
-  "ue942ed316375835bd3d8c15eed577559": [],
   "ue9445614a9342f067282ef52fccf27ac": [],
   "ue94565242fa069ea105c15affd67459c": [],
   "ue9466711eb6970b866b68a4a3123cdb4": [],
@@ -45545,7 +45146,6 @@
   "ue95691b70dc5c044beefe417b64812dd": [],
   "ue958347a771d745c94d5d3fc5ff7a598": [],
   "ue95b8902bf80975504682c92eb9c176b": [],
-  "ue95bff8fa346f5ae1676c1ace12f0e07": [],
   "ue96237b167efebef741cac02319f6693": [],
   "ue962d36a6ed6df1c553e591cd8cb65db": [],
   "ue963ccfa68f7db064e848af2a669dee9": [],
@@ -45611,7 +45211,6 @@
   "ue9bdfd1ae3394d547461b8229b9cb51c": [],
   "ue9be3eae42ebb12086f568addb56991b": [],
   "ue9beb82a6fb996f7ea5cbcc0dfab115d": [],
-  "ue9bedb34e192739f4ea1c887ed5d1f2e": [],
   "ue9c1489c2f6c309632fdf7d7590ca9b9": [],
   "ue9c1805e907415e9c352a69aad22292f": [],
   "ue9c1cbe11e479d4f1386f6723a89be64": [],
@@ -45744,6 +45343,9 @@
   "uea5c40723e91f02af3bc37c4e7b1f545": [],
   "uea5e2e18601397b11a6fff55c724f454": [],
   "uea5f022eca7bb4043b3a54d7e0920ea6": [],
+  "uea5fd470da759b89d209783fea48781f": [
+    "🧿𝕊𝕒𝕟𝕕ℤ𝕚𝕟𝕖⁵²⁸⁹🎨🧸🪞"
+  ],
   "uea6200e8bc9afbad2b374cc1b4437447": [],
   "uea6415545649952c46dea9970c8a1c2b": [],
   "uea6612a3bb380a5e2a1b2f9a8cb8b665": [],
@@ -45932,7 +45534,6 @@
   "ueb5f38d249a272e8712c2b7052f3b9db": [],
   "ueb5fb60ae27987e647a2b6f99e7f4742": [],
   "ueb6097408304de2dc650b0b5ba515a47": [],
-  "ueb616a7a6756285c7cafb1bc3230fe02": [],
   "ueb6825fbdb0e502b02dd2e1d75dc18dc": [],
   "ueb69430520f6eab88f6ca74274d352bb": [],
   "ueb69643114f23fcf89ab253b155986c5": [],
@@ -45966,14 +45567,12 @@
   "ueb979475b5d44c03d4d3ff512bd5cf24": [],
   "ueb988f5685fbbb62548488dc2e074611": [],
   "ueb99bfc0bc200435530e60474a694879": [],
-  "ueb9aac14319e9e5232baf8b1bbde17fd": [],
   "ueb9e76dfe6aef867e939dd0bf15cdd10": [],
   "ueb9eb27b70eeb1a33240e0a9e61eac67": [
     "Queen~Lalu🦄"
   ],
   "ueb9fe1a67dd941fe35bb0ef5da2330ab": [],
   "ueba03d0666d1f286cbd21664702ba623": [],
-  "ueba11f3ba7a7dd6d93fbc2d6c1ca3b63": [],
   "ueba27e5b10acdd37b9b1cad0324731fc": [],
   "ueba4ff1ea1d850727fe07aa900cbaf9c": [],
   "uebaa3d51212cc27e48ee68a9510335b2": [],
@@ -46024,6 +45623,9 @@
   "uebfe767f26fb28f5eafcdbefd61f5944": [],
   "uec035956e5f3a9639e473f5edd8f5270": [],
   "uec06bbbddcc98761542f2983977a7ff8": [],
+  "uec085d57bab5d311029472eff264230b": [
+    "ʕ•ᴥ•ʔ RUNG"
+  ],
   "uec0a882574da3e5a8997dcf469d272eb": [],
   "uec0be63f4f71c43b1decca99d241ce93": [],
   "uec0d244ea237182983d1c48f15937225": [],
@@ -46167,9 +45769,6 @@
   "ueccde77d4ec5126dc15ec0efc1ac3c2e": [],
   "ueccfb116b118f5eefc0005eb83b521f9": [],
   "uecd2697e94a5cdd82d63f54251027635": [],
-  "uecd2bf5af329d2fa973e328721a2be23": [
-    "ออย ใบโพย"
-  ],
   "uecd4bb030d695655413140ef9d197c3c": [],
   "uecd608389bce38c7e6ec586171e6376e": [],
   "uece007365b5238333b67c9b5e499aa25": [],
@@ -46211,7 +45810,9 @@
   "ued00c14c08a3e9d5eacbcce1af1fe0ad": [],
   "ued01f2d076b221247e5cb70b4b037f61": [],
   "ued02408c1e6db9b05bab525e0dd21822": [],
-  "ued02f5bed99a81874e1a9701310210b3": [],
+  "ued02f5bed99a81874e1a9701310210b3": [
+    "eL-YeSa (39,878)"
+  ],
   "ued054cba83d27b9173522b1a444d488f": [],
   "ued07357e96618656c728f4a4842cdbf2": [],
   "ued076fcc75b63cddeecec9bd93491fbf": [],
@@ -46531,13 +46132,11 @@
   "uee9eaf140b880d7e4792b478767866ad": [],
   "ueea247b77fac62293fb79ad4cc531828": [],
   "ueea493465076e034c21d805556fa422c": [],
-  "ueea8309880528735f523a28314c004dd": [],
   "ueeacd74734d9b5a684950410daa6c9f2": [],
   "ueeae7987bc7371752d5f04615e28b6a1": [],
   "ueeaef38ed6c517f61165e5eab5aa2fc3": [],
   "ueeaf9d398098763ad47347a4f2ffef6d": [],
   "ueeb049b82bb92682e0f4faaf967689a2": [],
-  "ueeb203ec2b9fdd0f1058018e13130fbf": [],
   "ueeb27ae1486f66a7d264019c4eef88b8": [],
   "ueeb783a165a00b297afaa713fcb942ed": [],
   "ueeb992fa29305232e543d529e60b2ef3": [],
@@ -46623,6 +46222,9 @@
   "uef1142bc6c94ff6692e409b4e3a3c7eb": [],
   "uef127388e0479d65d2e7adbdf54b93ec": [],
   "uef1302ae71e371bafc92265526ee4409": [],
+  "uef148d5cab1df9cc23b355ecaa128daf": [
+    "บีบี549🍎🍨💖"
+  ],
   "uef15e5469f9c8e85a73ad66a1e10e3e5": [],
   "uef15f4ab7e63a44d4c58ec1fa9c57ca4": [],
   "uef161f690d39ec14092dd7f42afb493f": [],
@@ -46659,7 +46261,6 @@
     "Waraporn961"
   ],
   "uef30c9ae0677c13a0d36a7c0ab9270e7": [],
-  "uef313f247518053e62f036a54a8a3a30": [],
   "uef32a03be5ca94d6396a497e3491247a": [],
   "uef375a98bcd5c668d136dba653be9753": [],
   "uef387fadf2d4dc2679870639b0d53663": [],
@@ -46690,7 +46291,6 @@
     "신성한 Tip(⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)",
     "신성한 Tip ❤️💦"
   ],
-  "uef4a1301fe91bb43cf09c23af6d9e921": [],
   "uef517acf4ec632fe8f450f9872782b8c": [],
   "uef533f4940048af3a38696cee5e9602d": [],
   "uef5834411edb7632db8327166a1febc7": [],
@@ -46794,7 +46394,6 @@
   "uefe520638ec046701b05244668da72d4": [],
   "uefeb19e305504ea8833cec476138d898": [],
   "uefedd5ac0e231dac1592c256b5648215": [],
-  "uefef2c48d5b3f1d18404c5b3161d4eec": [],
   "ueff1670922c2f67100a93d63c918cd24": [],
   "ueff4e2014f2d774b413bb8713c2052f4": [
     "Tomatsu Haruka",
@@ -46838,7 +46437,6 @@
   "uf0378cb6c8f073d3ad2c050336f14786": [],
   "uf037ee01513058f4a671d979d0cedce6": [],
   "uf0381ba9091aa1ecb519e330f3bd26c7": [],
-  "uf038ce1ecf3e53efa4c9465bcec45981": [],
   "uf0392f8b717b4d38802f5fc4833e3a63": [],
   "uf03bd5c7ed0c239ecbe3ab51a636bf26": [],
   "uf03c412afa55b5771a30fffaacc06448": [],
@@ -46919,7 +46517,6 @@
   "uf092c6a65a3050beb7aaacc73da72e20": [],
   "uf0938845d77959a57963c121aaa5a847": [],
   "uf093b13885cd4461b418b8808ba85a71": [],
-  "uf094433630c3eb1453ae97f7c5339cab": [],
   "uf0949ee49e0da270504ab02708a5926b": [],
   "uf094d20a1f3024e8081d087ade3f4d98": [],
   "uf09516d92dfaacdfe973a359d1836ed6": [],
@@ -47177,7 +46774,9 @@
   "uf1c368a7b1fe6cad22ba774c68c70ff7": [],
   "uf1c549abe94ee13007a1e5deca971e1b": [],
   "uf1c597acfb138a3864529d1ce5ba32ed": [],
-  "uf1c5ab9a122035d50cec57dc26cf8c2c": [],
+  "uf1c61ecdcda43034ab29b51ce82ac525": [
+    "🍎PLE2️⃣4️⃣5️⃣6️⃣🍎🍨💖"
+  ],
   "uf1c6e1ff64306241b53d8d829989bfdd": [],
   "uf1ca37c900bd1ba681ec9f4626a822ba": [],
   "uf1cc0a4d9ea86ef745566d8878ba2bb9": [],
@@ -47256,9 +46855,7 @@
   "uf227ebf651e35b8568d9fc15cc33e0dd": [],
   "uf229cee0a5bdf98cce3b907a491f664a": [],
   "uf22d298a247a43e94871ccd791db744c": [
-    "วันนี้ลาป่วยนะคะ",
-    "杨淑女ลากิจ",
-    "杨淑女"
+    "วันนี้ลาป่วยนะคะ"
   ],
   "uf2322a2a86a13370c340abd6d3a7a275": [],
   "uf232e0d6854af6629d5eadb4f65eb5e8": [],
@@ -47331,7 +46928,6 @@
   "uf2771aefbb812e9038fee10fc45acb44": [],
   "uf277206bd54449561fd82d9b2623bfbb": [],
   "uf2772b9edac530c7039b1c11440773b1": [],
-  "uf27785b3fbe25bca6260bc8973ada96f": [],
   "uf278d6b18f73ddbb6f04ac73aefdb52d": [],
   "uf27ad8a89700e4d78be6e7d00bbb7661": [],
   "uf27d397f2cc2715a3b67bf57b294ef3f": [],
@@ -47438,7 +47034,6 @@
   "uf2ed32b2092eb3e51e15d66f857b59d7": [],
   "uf2ed4e332afb50a4996b2a05cfcd3d88": [],
   "uf2ee7e388a6f906a1df73b28a2bae011": [],
-  "uf2f048e1499da9f77fb79e2f3bd34dfe": [],
   "uf2f0f23615004f286e67e6f9efb8e422": [],
   "uf2f1dfdb6989677579178a99856989c0": [],
   "uf2f42e6b93c898f8d59ec0b7aab9fb81": [],
@@ -47683,7 +47278,9 @@
   "uf44209ef3b0c090aac3a500273848e19": [],
   "uf443d9691040747f3d9dff8c6fb87f37": [],
   "uf4449bf17139e89a6e63923d857ba68a": [],
-  "uf444d0459371707fa92a7748641f4151": [],
+  "uf444d0459371707fa92a7748641f4151": [
+    "CurtisCox 36.8k  🇬🇧"
+  ],
   "uf4463ba1239ae71c4e391fd86e79daa2": [],
   "uf446d824a7920a479fbd1ee60d2a9986": [],
   "uf44a4c93a0e58c6a192bdde71c02bdcd": [],
@@ -47696,7 +47293,6 @@
   "uf452ca56bb36eeb940d39f16fc4d0273": [],
   "uf453b9c0b2508c9746ebcca8f117806c": [],
   "uf4543b66130f58a3a1f0a41d56524b01": [],
-  "uf4565922877fa0c608a5f0bcb64e8189": [],
   "uf456e8cf527576decfc476c60c528607": [],
   "uf4586d836aef4bb79a05f927fd43b935": [],
   "uf45a69bbd4b2ccc9da5780970ede0612": [],
@@ -47891,6 +47487,10 @@
   "uf549397ef5dc75705aa2ae4cc3d5f414": [],
   "uf54b7be5121871d5df66443f2f1746f3": [],
   "uf54bc0a4bf3e7485f6bdb07bbb805a47": [],
+  "uf54bfd4c02f70e8877fe6a8f13e6bb42": [
+    "ℙ â ℕ ◡̈ ☁️🍒🥨",
+    "ℙ â ℕ ◡̈ 💭🍒🥨"
+  ],
   "uf54c4378f5478626630773cdfed58a32": [],
   "uf54d2b209e731fd55536588aa3d9a632": [],
   "uf54edb8e43b737bdce1fcbf11dbe7a63": [],
@@ -47901,7 +47501,6 @@
   "uf55a13eac646652857c1a16671554526": [],
   "uf55d58cd1922e69dc9f9142551c8a761": [],
   "uf55dc961d719d8b3e7f90afe1256e8cc": [],
-  "uf55e311da22efbc5cf57c5659b988a4f": [],
   "uf55f30ad378743b548f53e013661048e": [],
   "uf5602ebd29144f461e7de3ca65b9061e": [],
   "uf561a658a7caf35cfd42e77b849dc511": [],
@@ -48012,7 +47611,6 @@
   "uf5f45f8e7be28dee4239e2de346df5e1": [],
   "uf5f470f99fa50f6e93e0d7609f8151ab": [],
   "uf5f55c5a748baf199f88463aca47bcd5": [],
-  "uf5f6bbd4ae8e9a8edc6f6bf42a571366": [],
   "uf5fa933016f4d505b55b0504db54f328": [],
   "uf5fb1ad454b8d7e86fa79cd23d4727d1": [],
   "uf5fba3c5b4371637c90c2a2d11bbe080": [],
@@ -48523,7 +48121,6 @@
   "uf8c9a2bb1d8f0dcce15c13897eb7f38c": [],
   "uf8cb63ad0a30b8e0dbc8ba66a9a05a6e": [],
   "uf8cb8d7c1e12cb7f9e23484fbddab557": [],
-  "uf8cc995e27d05dfb586ca01d6ced5b84": [],
   "uf8d0efd211384bd0033d2f64d7c74739": [],
   "uf8d4217832c777076279e5e120f52568": [],
   "uf8d4c5e9d9485082ea83ddb9297f3c69": [],
@@ -48699,7 +48296,6 @@
   "uf9c0588d764cc1b12f3c79fa2d651379": [],
   "uf9c0b8ec8616130a7b8640a7a1ed23b8": [],
   "uf9c1257511d04ba1d97f56c02cf5dd1a": [],
-  "uf9c1cd9d301f9b6009a5d820ad8d2cf8": [],
   "uf9c247a29bfb7807e0ab7bdcaa757037": [],
   "uf9c78b2e45b5d9e9439cd349c43dc7e0": [],
   "uf9caf838f0113232bd7f491d11a564f1": [],
@@ -48715,7 +48311,6 @@
   "uf9e20e0ca2173f1f1e60ece4ccf0ef2c": [],
   "uf9e27962a36d81ed9438e8d49f7d39fc": [],
   "uf9e359d3486039154321cf12e8a43386": [],
-  "uf9e36e795a8601cec78c2950e4a892bc": [],
   "uf9e7f3f482f6f924af48c5b49bd0f643": [],
   "uf9e839866975ff27a915059c7ea3b6db": [],
   "uf9e85bd334abb06e3dcde27ec66594e4": [],
@@ -48745,7 +48340,8 @@
   "ufa029fb858cc7785b8d2b3a8bde4ebb6": [],
   "ufa036cd688491d343cd5e2eda1879bc3": [
     "FEJO - 30k 🇪🇺🇭🇺",
-    "FEJO - 32k 🇪🇺🇭🇺"
+    "FEJO - 32k 🇪🇺🇭🇺",
+    "FEJO - 37,4k 🇪🇺🇭🇺"
   ],
   "ufa04e9fa0338560fbf4532f48624d139": [],
   "ufa05bcaf90d3780c6a2b94a24b0aa2da": [],
@@ -48758,7 +48354,6 @@
   "ufa15b4c1b3b1db63f40c0354e4bbeca0": [],
   "ufa15f76b16f61733f9772190e04ad3a2": [],
   "ufa17a06cc64375d53605a541e80a748f": [],
-  "ufa17aa949b4f14f201cdfb64384415b5": [],
   "ufa17e6a6418f3b710275e3541fad3c3f": [],
   "ufa18834e55b606a9d46682e01c590168": [],
   "ufa1ad0e3403de163c4234bb0736bb473": [],
@@ -48787,7 +48382,6 @@
   "ufa3edafbd60d357a0088ade4f7447de8": [],
   "ufa3edca08c7dd94b447a565f6cae5d14": [],
   "ufa40d7981b084c9e5603be39abed4a46": [],
-  "ufa41592a2ec32a466afd2df58427b7a8": [],
   "ufa419b9ec06f7a2620ba3ce018dfe070": [],
   "ufa43636c0fbe4a60ddec262c19a0971e": [],
   "ufa443bcfa94f739ff862e29cacafeb16": [],
@@ -48802,7 +48396,6 @@
   "ufa4f4fade4ab34eaff7d502ac516bc81": [],
   "ufa50213f996870dcf8819b4cf582e268": [],
   "ufa50b47a2282b0d2afd2b26a7efd7b0f": [],
-  "ufa51e2a22de999801db20f6280a9d4e8": [],
   "ufa52a16131670ff304ba9ba96b3e2fc5": [],
   "ufa5387aa7feefae81f42b08aa64bf92f": [],
   "ufa551c40183353ba02b0063fa50eb5e7": [],
@@ -48915,7 +48508,6 @@
   "ufb06c88fa214009bb8a88e9fa463604c": [],
   "ufb06d071e5099d7a2bbfdc27d9ff6b6b": [],
   "ufb0a97489b15bd98890615bb51872a74": [],
-  "ufb0d9984c203e6bfd4a480a0d49cbf70": [],
   "ufb0eaa61aac3cb1bf1597b8bd2e699ac": [],
   "ufb0ebcdd9f5f8a12563cae4aa1ad4471": [],
   "ufb0f53c5d6571caf5129e636ef9eaaa4": [],
@@ -49088,7 +48680,6 @@
   "ufbc6d932e1696745be72836b7e2a59dd": [],
   "ufbc802622b4fa77510d85f2a81c4afae": [],
   "ufbc84e4230d21468b1970e341e025e1c": [],
-  "ufbc9aef0797bf138029210827190f703": [],
   "ufbca2b2b214c00ffec754a9d7d465fc8": [],
   "ufbcae301913fc802c572244c6b358661": [],
   "ufbcbe7f27649e4859ee918a57df8f4f6": [],
@@ -49183,7 +48774,6 @@
   "ufc364476a62593735a3da2758904ca8a": [],
   "ufc36aeb46cef2d0a7aaccb74f4cfcfd1": [],
   "ufc36b86ba8355a4f4cd3a41fe57bc1b8": [],
-  "ufc36c3356ab4490fdd6dc629da4a10f2": [],
   "ufc38df435e0b965996509d28deb78e09": [],
   "ufc3a317583887c6bbe91bdc94a8ff725": [],
   "ufc3f61901cd4a14db921ff2c3b957952": [],
@@ -49503,7 +49093,6 @@
     "LiT!"
   ],
   "ufdd0438030598d5ecc91c487114721be": [],
-  "ufdd052dbf020e86e705f07c9e692fc76": [],
   "ufdd08c825fe07bd7ffad87992781dd14": [],
   "ufdd4e461f9b74c5eecbf56b643bca922": [],
   "ufdd5262a41a2d8276bb564e2d31ca14c": [],
@@ -49538,11 +49127,9 @@
   "ufddd601969a3524c9c0307e77b348129": [],
   "ufddde557c50a3c1719050995a57ef61e": [],
   "ufdde14e5bf0bf8e7f4444b08a93f2671": [],
-  "ufde13ea008e19bd6872659a895b48fac": [],
   "ufde3c08808ede0562e4eea819e4463fc": [],
   "ufde59e0397776a9907bd003bc831f8d7": [],
   "ufdea1478cbb2628763bb02f9a9729678": [],
-  "ufdea902b156a3fd7dcb1cc78cbe7acc5": [],
   "ufdec0f3143db4f02949d79b6d8c88df9": [],
   "ufdec643908500f09b2c355b6f19ee1ff": [],
   "ufdf42215f398447d60a35c7195d9f81e": [],
@@ -49599,7 +49186,6 @@
   "ufe5b501e457d79d48044a3ec2b126f97": [],
   "ufe5d6494b61d6435b38e4142bcc1e01c": [],
   "ufe5e40a5824939ee9910bbea384f068c": [],
-  "ufe60376353153d50f5cb126e7e10cc60": [],
   "ufe60a529e72449f6fed019533b8c5d93": [],
   "ufe616036ef79bbc967cb30ab417a576c": [],
   "ufe625a4e24f825631c2847cf82a7f510": [],
@@ -49677,7 +49263,9 @@
   "ufec6a9db4b87a9adcb1f260b827e778b": [],
   "ufec8d8d90c15748f08a6b69b7e344056": [],
   "ufec9682a32b9ab58a3fbfdd9737f6d07": [],
-  "ufecc34e2453ab349fd289a2eb1ac2a89": [],
+  "ufecc34e2453ab349fd289a2eb1ac2a89": [
+    "Tdad 40.2k NEXT"
+  ],
   "ufeccc9dbe9cf0b301e4534c80f1bcab4": [],
   "ufeceaa12af98be1bd6b1fa1879698e59": [],
   "ufed24290bc21069ec4ea4722e48ab0dd": [],
@@ -49767,7 +49355,6 @@
     "Kay"
   ],
   "uff311d3dffa11c061a2fdfc7d919b583": [],
-  "uff32896e04cd7719eda9dbcce53f5863": [],
   "uff32970df08a6e26a635b796c4b67f0c": [],
   "uff3349f6c3fd949ec535e6d3cce89354": [],
   "uff344c53d1b6c1439acd9934c00e7111": [
@@ -49796,7 +49383,6 @@
   "uff499bbb60a97f1d1a8ccfda27b2cba0": [],
   "uff4e44765a1c986fd9dc052fb911af02": [],
   "uff4f43998c6f71925bb5348117b2d5f5": [],
-  "uff54d8e8113d6281d04ef78f535dd4ab": [],
   "uff553b9767d59f93fa808e9475e03c3e": [],
   "uff57027b40e8e622fb53a6aaa4633a42": [],
   "uff57f38a9d86abe7570cb98ea7eb2188": [],
@@ -49849,9 +49435,6 @@
   "uff9a5bcb4b20ca88d0ab233fe33121e9": [],
   "uff9aea96b3d21e1a18d6e76de73a7bec": [],
   "uff9b1099267159f5c5edf099a347f3d9": [],
-  "uff9bfee7b3f1f50ffa821fe576be7053": [
-    "มานิตย์ บารมีหลวงปู่"
-  ],
   "uff9d5c1be20168e57fd04dd1b85d947b": [],
   "uff9dd818d868ecb904ceea0a53ef91cd": [],
   "uff9f7dc414547f072301f9ccebe86232": [],
