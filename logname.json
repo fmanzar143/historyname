@@ -1925,7 +1925,8 @@
     "สมพร ",
     "ศรีสุวรรณ",
     "พัดสรีย์ ",
-    "ณัฐดาวัลย์ "
+    "ณัฐดาวัลย์ ",
+    "อมรภัค"
   ],
   "u09b2afcfcfb1a18614167918e6b0541f": [],
   "u09b323d65af99c52d76cc2cf6b84133a": [],
@@ -2473,8 +2474,7 @@
   "u0c97ad473a054b6fa8b0b2c8fefba199": [],
   "u0c9853e1fd60ae81212d338bc2d5f750": [],
   "u0c99a4bfa3e54051f44f6c8e6b914718": [
-    "Milkana-34600[XMN•P]",
-    "Milkana-37800[XMN•P]"
+    "Milkana-34600[XMN•P]"
   ],
   "u0c99bbbf511214d38e5016f0c0cdd545": [],
   "u0c9ba454d02ec45bcad8b84059fc2cf3": [],
@@ -5743,7 +5743,6 @@
   "u1de44bad17a8f30b27cce87044b20c08": [],
   "u1de4d8398741d532f55937e3de808279": [],
   "u1de7cbf6d01678b0982410cd97a9db85": [],
-  "u1de898e9941f0bf29ac398249552076d": [],
   "u1dea9a0471788cb09b5b0a877e1d6ab2": [],
   "u1deaafd07cf323ec22b38a8c78516215": [],
   "u1debb336a2f58f3962e077906d84b3e1": [],
@@ -6368,7 +6367,9 @@
   "u21199664d8847118fa79a460916e7162": [],
   "u2119e6e2fc4aede01f9e5d86d5572e2e": [],
   "u211c35be90de7752562eb6ba66ad9cb1": [],
-  "u21241e4b8f5d13cb768475ebae073471": [],
+  "u21241e4b8f5d13cb768475ebae073471": [
+    "₳ⱫⱤ₳ɆⱠ ❌MN_M 41,754"
+  ],
   "u21249788ef0a4cb22625b58a9da49318": [],
   "u2125f9a05da29a3b5cfa227e4e193556": [],
   "u21273059370e9635c1aeb4ebe8f28b01": [],
@@ -9689,7 +9690,6 @@
   "u31da93d91829311bcf8bff39f4d068ef": [],
   "u31dc2bcf35e727b76f4bd4df3d3ce1a5": [],
   "u31dce0908690a4f8dd4c1af70749adb5": [],
-  "u31de4c7a64c3a5bf8bc4a5ce2c2532d6": [],
   "u31e0462fa7d9850cea9b223ed9158c42": [
     "Delirium"
   ],
@@ -17800,6 +17800,7 @@
   "u5b2d8f618acff13da6fab85bd14b2c07": [],
   "u5b2db7324be01a1d734d9e62cdd3b17c": [],
   "u5b2f555057d9641d3b3415f2b1117007": [],
+  "u5b32842cdfb96c3e1853d024e5dd6bb2": [],
   "u5b34b04a3391bbaf365fdcb6cdee140e": [],
   "u5b3525607615339b525ef9956df71688": [],
   "u5b37d51d8a6cf4e6298871fab50d8579": [],
@@ -21109,7 +21110,6 @@
   "u6c72d0f41a66b04cd15c4890b7df03a4": [],
   "u6c733418add40504bd88e7a621b49470": [],
   "u6c74391f9f5988095d3ae84b2d658f73": [],
-  "u6c74eedfebcfb681a5255322bcd17e2f": [],
   "u6c7547a8991e98708177ee42f43e06b7": [],
   "u6c77f770fefbb09ebb73742762337b2e": [],
   "u6c79d73a41f9db28214f7d94b1796146": [],
@@ -33217,7 +33217,6 @@
   ],
   "uaaddd3439b4172738ba842c55b80173b": [],
   "uaae02e20ccea68be97e6dde6162337ab": [],
-  "uaae128520f2797e839860ded2bfde1d7": [],
   "uaae18a56e76835f9705fc0d90f98967d": [],
   "uaae56acf81240272cfb601b73e8d6fd4": [],
   "uaae65e383d40fe147106fbc84ecb70dc": [],
@@ -35366,7 +35365,6 @@
   "ub60d04d3656f4f2e29cdb625fd933f9e": [],
   "ub60eb5047b269c59fce4c4747de2cb21": [],
   "ub60eb5f5b19a76a5a9d07999becd88d0": [],
-  "ub6126e236bd44447dd5ab6ba6834edf5": [],
   "ub6135d55ab567e2aa28cbdf4f781e088": [],
   "ub613ccebf1682f3ba553adea243ae627": [],
   "ub6158b3f15ad888f96c0ed39902b99b1": [],
@@ -36768,7 +36766,6 @@
   "ubceb792265f0cc6373eddba8451d7cc1": [],
   "ubcec4f8d4cbe51039e7a35d3d6972b12": [],
   "ubced3cf84e94a69141ca387d8e172edc": [],
-  "ubcee0096d12ca10ff1b9ac685f13486f": [],
   "ubcee08fc7b2332be3cb5f5bbcba23f9b": [],
   "ubcf0f03de5abb86e53355c36d65ba167": [],
   "ubcf15830461fad96a41ff99215b0b86b": [],
@@ -39663,7 +39660,6 @@
     "Aem"
   ],
   "ucbd1e4c54045c30447b92ed08401c3d1": [],
-  "ucbd30591098d204da01a02bfe785996d": [],
   "ucbd60d1d86151bb691e086a411838f6b": [],
   "ucbd6344fc2e13649cad1db83e0e84d59": [],
   "ucbd786ea237a2e68920f61d326b75b6d": [],
@@ -40448,7 +40444,6 @@
   "ucffc86458ff901544505b7db63f7b4e4": [],
   "ucffffac0dabe9e08ec3d5f1e82560183": [],
   "ud000dbf4610060dd2e853b8940d57439": [],
-  "ud007257c8b7bf60ca17e6f324891feba": [],
   "ud00789e19d2c26d0a2d4489a601d2030": [],
   "ud009dc6139a33f4f5f6b21a9a0cc78a1": [],
   "ud00a317ac45b5d26f9e45cb4665eee46": [],
@@ -45837,9 +45832,6 @@
   "ueb50a84460962420ff27afbf2804c725": [],
   "ueb51b12871f8bfecc0f1221f07065cfa": [],
   "ueb5286a2e1829cf01d1b651a0aeed58b": [],
-  "ueb558625b79dff96ad95da5ea80d83d7": [
-    "FromB526💰"
-  ],
   "ueb560e14a19fc31e6ac112b75518c6e0": [],
   "ueb56b73e85ba176fca9473efaa7eb68e": [],
   "ueb5a581dc686aca0725c394834186e0f": [],
@@ -46762,8 +46754,7 @@
     "Antares (2-1-1)",
     "Antares [2-1-1)",
     "Antares [2-1-1]",
-    "Antares [Sweety]",
-    "Seratna"
+    "Antares [Sweety]"
   ],
   "uf04eabdca454b21906b679545d76ffa5": [],
   "uf04f8f893c83c757f902c8dbfe87fbaf": [],
@@ -48646,7 +48637,8 @@
   "ufa029fb858cc7785b8d2b3a8bde4ebb6": [],
   "ufa036cd688491d343cd5e2eda1879bc3": [
     "FEJO - 30k 🇪🇺🇭🇺",
-    "FEJO - 32k 🇪🇺🇭🇺"
+    "FEJO - 32k 🇪🇺🇭🇺",
+    "FEJO - 37,9k 🇪🇺🇭🇺"
   ],
   "ufa04e9fa0338560fbf4532f48624d139": [],
   "ufa05bcaf90d3780c6a2b94a24b0aa2da": [],
